@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Evaluation</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<link rel="stylesheet"
+      href="site_libs/highlight/textmate.css"
+      type="text/css" />
+<script src="site_libs/highlight/highlight.js"></script>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">PSYCH 260</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Lectures
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Week 1</li>
+    <li>
+      <a href="page_a.html">Page A</a>
+    </li>
+    <li>
+      <a href="page_b.html">Page B</a>
+    </li>
+    <li class="divider"></li>
+    <li class="dropdown-header">Week 2</li>
+    <li>
+      <a href="page_c.html">Page C</a>
+    </li>
+    <li>
+      <a href="page_d.html">Page D</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Evaluation
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Quiz 1</li>
+    <li class="dropdown-header">Quiz 2</li>
+    <li class="dropdown-header">Quiz 3</li>
+    <li class="dropdown-header">Quiz 4</li>
+    <li class="divider"></li>
+    <li class="dropdown-header">Exam 1</li>
+    <li class="dropdown-header">Exam 2</li>
+    <li class="dropdown-header">Exam 3</li>
+    <li class="dropdown-header">Exam 4</li>
+  </ul>
+</li>
+<li>
+  <a href="resources.html">Resources</a>
+</li>
+<li>
+  <a href="site-info.html">Site info</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Evaluation</h1>
+
+</div>
+
+
+<div id="elements" class="section level2">
+<h2>Elements</h2>
+<table style="width:96%;">
+<colgroup>
+<col width="16%" />
+<col width="65%" />
+<col width="13%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Component</th>
+<th>Description</th>
+<th align="right">Points</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Exams</td>
+<td>There will be three (3) in-class examinations, plus a final held during the exam period that is partially cumulative. Each exam is worth 40 points. The top 3 of 4 exam scores will count toward your final grade. You may choose not to take the final.</td>
+<td align="right">120</td>
+</tr>
+<tr class="even">
+<td>Quizzes</td>
+<td>There will be four (4) in-class quizzes. Each quiz is worth 10 points. The top 3 of 4 quiz scores will count toward your final grade.</td>
+<td align="right">30</td>
+</tr>
+<tr class="odd">
+<td>Participation</td>
+<td>There are a total of 15 points available by completing <strong>EITHER</strong> a paper or blog assignment.</td>
+<td align="right">15</td>
+</tr>
+<tr class="even">
+<td></td>
+<td><em>Blog</em>: You are encouraged to create and maintain a neuroscience-related blog on PSU’s blog server, <a href="http://sites.psu.edu" class="uri">http://sites.psu.edu</a>. You may create up to 3 posts and earn 5 points/post, for a total of 15 possible points. <a href="https://github.com/psu-psychology/psych-260/blob/master/assignments/blog-assignment.md">Assignment</a></td>
+<td align="right"></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><em>Paper</em>: You may write a 3-5 pp (double-spaced) news-style paper on a topic related to biological psychology. The paper is worth 15 points. <a href="https://github.com/psu-psychology/psych-260/blob/master/assignments/paper-assignment.md">Assignment</a></td>
+<td align="right"></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><strong>TOTAL POINTS POSSIBLE</strong></td>
+<td align="right">165</td>
+</tr>
+<tr class="odd">
+<td>Extra Credit</td>
+<td>There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them. <a href="assignments/extra-credit.md">Here</a> is an extra credit opportunity.</td>
+<td align="right"></td>
+</tr>
+</tbody>
+</table>
+<p><a href="grades/analysis.pdf">Data about recent performance in previous years</a></p>
+<div id="grading-scheme" class="section level3">
+<h3>Grading Scheme</h3>
+<table>
+<thead>
+<tr class="header">
+<th>Points</th>
+<th>Percent</th>
+<th>Grade</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>165+</td>
+<td>100+</td>
+<td>A+</td>
+</tr>
+<tr class="even">
+<td>155-164</td>
+<td>94-99</td>
+<td>A</td>
+</tr>
+<tr class="odd">
+<td>148-154</td>
+<td>90-93</td>
+<td>A-</td>
+</tr>
+<tr class="even">
+<td>143-147</td>
+<td>87-89</td>
+<td>B+</td>
+</tr>
+<tr class="odd">
+<td>139-142</td>
+<td>84-86</td>
+<td>B</td>
+</tr>
+<tr class="even">
+<td>132-138</td>
+<td>80-83</td>
+<td>B-</td>
+</tr>
+<tr class="odd">
+<td>127-131</td>
+<td>77-79</td>
+<td>C+</td>
+</tr>
+<tr class="even">
+<td>115-126</td>
+<td>70-76</td>
+<td>C</td>
+</tr>
+<tr class="odd">
+<td>99-114</td>
+<td>60-69</td>
+<td>D</td>
+</tr>
+<tr class="even">
+<td>0-98</td>
+<td>&lt;59</td>
+<td>F</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<p>Copyright &copy; Rick O. Gilmore. All rights reserved.</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+$(document).ready(function () {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
