@@ -10,6 +10,10 @@ Neuroscience is a rapidly developing field. I will post neuroscience-related new
 
 This is a list of talks that students may wish to attend. *Attendance is not required, however*. Reports on the talks could serve as the basis of one or more blog posts or a paper.
 
+#### Dr. Nadav Ahituv, Wednesday, January 11, 2017, 4 PM, 108 Wartik Lab
+
+"Functional Characterization of Gene Regulatory Elements"
+
 #### Dr. Claire Cheetham, January 12, 2017, 4 PM, 008 Mueller
 
 Dr. Cheetham’s research aims to elucidate the mechanisms through which neurons form and maintain precise connections. She approaches the question using the mouse olfactory bulb system, which is experimentally accessible in vivo and undergoes adult neurogenesis. She uses a combination of optogenetics, electrophysiology and behavior to study how new neurons are integrated into functional circuits. She has made important contributions to our understanding of synapse formation and maturation in both cortex and the olfactory bulb. She earned her PhD with Dr. Gerald Finnerty at University College London where she showed that a critical period for map reorganization in the visual cortex corresponded to presynaptic maturation. She then moved to NIH to work with Dr. Leo Belluscio where she developed her current model system. She is currently an independently-funded Research Assistant Professor at Carnegie Mellon.
