@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 lecture-notes/*.html
 lecture-notes/*.pdf
 lecture-notes/img/*
