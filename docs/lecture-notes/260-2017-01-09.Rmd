@@ -17,7 +17,7 @@ output:
 ---
 
 <div class="centered">
-### PSYCH 260.000 {.flexbox .vcenter}
+### PSYCH 260.003 {.flexbox .vcenter}
 ### Neurological Bases of Human Behavior
 <img src="img/fesi-source.jpg"/>
 </div>
@@ -45,7 +45,7 @@ Graduate Teaching Assistant</br>
 
 >- Why does taking/drinking X make me feel Y?
 >- My grandmother has Alzheimer's disease. What does that mean for her brain?
->- My aunt has bipolar disorder. Why does she take so many meds?
+>- Carrie Fisher had bipolar disorder. What's that about?
 >- Why is sleep so important for brain health?
 >- My mom says my brain isn't fully mature. Is she right?
 
@@ -246,6 +246,7 @@ Graduate Teaching Assistant</br>
 - Single functions -> multiple parts
 - Change structure/function over time (learning, development)
 - Biological systems not "designed" like human-engineered ones
+- What information is being processed? What is being controlled?
 
 ## Next time...
 
