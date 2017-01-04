@@ -12,6 +12,10 @@ navbar:
       href: deadlines.html
     - text: "Resources"
       href: resources.html
+    - text: "Policies"
+      href: policies.html
+    - text: "Values"
+      href: values.html
     - text: "Talks"
       href: talks.html
     - text: "Site info"
