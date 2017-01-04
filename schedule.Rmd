@@ -1,0 +1,316 @@
+---
+title: "Schedule"
+---
+
+## Week 1, January 9-13
+
+### Mon, Jan 9
+
+- Introduction to the course
+- What is a system?
+- Assignment
+    - Read W&B 1:2-19.
+    - Review <https://en.wikipedia.org/wiki/Systems_theory>
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-01-09.html)
+    - [Rmd](lecture-notes/260-2017-01-09.Rmd)
+    - [PDF](lecture-notes/260-2017-01-09.pdf)
+
+### Wed, Jan 11
+
+- History of neuroscience
+- Assignments
+    - Review <http://www.columbia.edu/cu/psychology/courses/1010/mangels/neuro/history/history.html>.
+   - Scan: <https://faculty.washington.edu/chudler/hist.html>
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-01-11.html)
+    - [Rmd](lecture-notes/260-2017-01-11.Rmd)
+    - [PDF](lecture-notes/260-2017-01-11.pdf)
+
+### Fri, Jan 13
+
+- Levels of analysis; neuroscience methods I
+- Assignments
+    - Read: W&B 2:24, 26, 44-49, 3:53, 70-76.
+    - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
+    - Optional
+        - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
+
+## Week 2, January 16-20
+
+### Mon, January 16
+
+- Neuroscience methods II
+- Assignment
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+
+### Wed, January 18
+
+- Neuroanatomy I.
+- Assignment
+    - Read W&B: 2:30-43.
+    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
+
+### Fri, January 20
+
+- Neuroanatomy II.
+- Assignment
+    - Read W&B: 2:30-43.
+    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
+
+## Week 3, January 23-27
+
+### Mon, January 23
+
+- A-L: Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu). Meet in lobby of  [Chandlee](http://www.registrar.psu.edu/soc_maps/chandlee.html).
+- M-Z: Neuroanatomy Lab
+
+### Wed, January 25
+
+- A-L: Neuroanatomy Lab
+- M-Z: Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu). Meet in lobby of  [Chandlee](http://www.registrar.psu.edu/soc_maps/chandlee.html).
+
+### Fri, January 27
+
+- Topic
+    - **Quiz 1**
+    - Cells of the nervous system.
+- Assignment
+    - Read W&B: 2:20-29.
+    - [Cellular outline](outlines/cellular-outline.md)
+
+## Week 4, January 30 - February 3
+
+### Mon, January 30
+
+- Neurophysiology I.
+- Assignment
+    - Read W&B 3:50-55.
+
+### Wed, February 1
+
+- Neurophysiology II.
+- Assignment
+    - Read W&B 3:55-59.
+    - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
+
+### Fri, February 3
+
+- Neurophysiology III.
+- Assignment
+    - Read W&B 3:59-69
+
+## Week 5, February 6-10
+
+### Mon, February 6
+
+- Exam 1 review
+
+### Wed, February 8
+
+- **Exam 1**.
+
+### Fri, February 10
+
+- Neurochemistry I.
+- Assignment
+    -  Read W&B 4:82-86.
+    -  [Neurotransmission outline](outlines/neurotransmission-outline.md)
+
+## Week 06, February 13-17
+
+### Mon, February 13
+
+- Neurochemistry II.
+- Assignment
+    - Read W&B: 4:86-107.
+
+### Wed, February 15
+
+- Hormones and the brain
+- Assignment
+    - Read W&B 8:208-226
+
+### Fri, February 17
+
+- **Quiz 2**.
+- Exam 1 returned.
+
+## Week 07, February 20-24
+
+### Mon, February 20
+
+- Your brain on sex
+- Assignment
+    - Read W&B 8:226-253
+
+### Wed, February 22
+
+- Biological rhythms and sleep
+- Assignment
+    - Read W&B 10:278-308.
+  
+### Fri, February 24
+
+- Homeostasis.
+- Assignment
+    - Read W&B 9:254-277.
+    - 1st blog post due.
+    
+## Week 8, February 27 - March 3
+
+### Mon, February 27
+
+- Exam 2 review
+
+### Wed, March 1
+
+- **Exam  2**
+
+### Fri, March 3
+
+- Evolution and development of the human brain.
+- Assignment
+    - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+    - Read W&B 13:393-407.
+
+## Spring Break, March 6 - 10
+
+- **No classes**
+
+## Week 9, March 13-17
+
+### Mon, March 13
+
+- Psychopathology I.
+- Assignment
+    - Read W&B 12:338-352.
+
+### Wed, March 15
+
+- Psychopathology II.
+- Assignment
+    - Read W&B 12:352-360.
+
+### Fri, March 17
+
+- Psychopathology III.
+- Assignment
+    - Read W&B 12:360-366.
+
+## Week 10, March 20-24
+
+#### Mon, March 20
+
+- Exam 2 returned.
+
+### Wed, March 22
+
+- Emotion, Fear, and Stress
+- Assignment
+    - Read W&B 11:310-336.
+
+### Fri, March 24
+
+- **Quiz 3**
+- Emotion, Fear, and Stress II.
+
+## Week 11, March 27-31 
+
+### Mon, March 27
+
+- Wrap-up on stress.
+- Sensory systems.
+- Assignment
+    - Read W&B 5:110-121
+
+### Wed, March 29
+
+- Somatosensation & pain
+- Assignment
+    - Read W&B 5:121-126; 6:162-164
+    - **Blog post #2 (of 3) due**
+
+### Fri, March 31
+
+- Action
+- Assignment
+    - Read W&B 5:126-143
+    - 2nd blog post due.
+    
+## Week 12, April 3-7
+
+### Mon, April 3
+
+- Action II
+
+### Wed, April 5
+<!--- Rick at SRCD -->
+
+- Exam 3 review
+    
+### Fri, April 7
+<!--- Rick at SRCD -->
+
+- **Exam 3**
+
+## Week 13, April 10-14
+
+### Mon, April 10
+
+- Audition
+- Assignment
+    - Read W&B 6:144-162
+
+### Wed, April 12
+
+- Vision I.
+- Assignment
+    - Read W&B 7:174-185.
+
+### Fri, April 14
+
+- Vision II.
+- Assignment
+    - Read W&B 7:185-207.
+
+## Week 14, April 17-21
+
+### Mon, April 17
+
+- **Quiz 4**
+- Exam 3 returned.
+- **Papers or blog post #3 (of 3) due**
+
+### Wed, April 19
+
+- Learning & memory.
+- Assignment
+    - Read 13:368-383
+
+### Fri, April 21
+
+- Learning & memory II.
+- Assignment
+    - Read 13:368-383-393
+
+## Week 15, April 24-28
+
+### Mon, April 24
+
+- Speed of nervous system conduction lab
+   
+### Wed, April 26
+
+- Review for Exam 4.
+
+### Fri, April 28
+
+- The Cerebral Symphony
+    
+## Week 16, May 1-5
+
+### TBA
+
+- **Exam 4**

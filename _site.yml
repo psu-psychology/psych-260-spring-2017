@@ -1,0 +1,25 @@
+name: "PSYCH 260.003 Spring 2017"
+navbar:
+  title: "PSYCH 260.003"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Deadlines"
+      href: deadlines.html
+    - text: "Resources"
+      href: resources.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Site info"
+      href: site-info.html
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html

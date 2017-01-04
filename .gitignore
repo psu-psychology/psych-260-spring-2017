@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+lecture-notes/*.html
+lecture-notes/*.pdf

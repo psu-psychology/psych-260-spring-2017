@@ -1,0 +1,11 @@
+---
+title: "Resources"
+---
+
+## Textbook
+
+Watson, N.V. & Breedlove, S.M. (2016). The Minds's Machine, 2/E. Sinauer: Sunderland, MA. http://2e.mindsmachine.com
+
+## Web links
+
+[BrainFacts.org](http://www.brainfacts.org) from [The Society for Neuroscience](http://sfn.org)
