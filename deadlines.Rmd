@@ -10,7 +10,7 @@ title: "Deadlines"
 | F Feb 24  | Blog post 1 due      |
 | W Mar 1  | Exam 2              |
 | F Mar 24   | Quiz 3              |
-| F Mar31   | Blog post 2 due      |
+| F Mar 31   | Blog post 2 due      |
 | F Apr 7  | Exam 3               |
 | M Apr 17   | Quiz 4               |
 | M Apr 17   | Short paper or Blog post 3 due |
