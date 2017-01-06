@@ -6,6 +6,10 @@ title: "News"
 
 Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.
 
+- Meyniel, F., Goodwin, G. M., Deakin, J. W., Klinge, C., MacFadyen, C., Milligan, H., … Gaillard, R. (2016). A specific role for serotonin in overcoming effort cost. eLife, 5, e17282. <https://doi.org/10.7554/eLife.17282>. #reward
+
+- Seelye, K. Q. (2016, December 31). Kitty Dukakis, a Beneficiary of Electroshock Therapy, Emerges as Its Evangelist. The New York Times. Retrieved from <http://www.nytimes.com/2016/12/31/us/kitty-dukakis-electroshock-therapy-evangelist.html>. #depression #ect
+
 ### Neuro talks @ PSU
 
 This is a list of talks that students may wish to attend. *Attendance is not required, however*. Reports on the talks could serve as the basis of one or more blog posts or a paper.
