@@ -33,22 +33,17 @@ Graduate Teaching Assistant</br>
 
 ## What is this course about?
 
-## What is behavior?
-
-## What distinguishes human behavior?
-
-## What are neurological bases?
-
-## What other bases are there?
-
-## How do the neurological bases of human behavior affect your life?
-
->- Why does taking/drinking X make me feel Y?
->- My grandmother has Alzheimer's disease. What does that mean for her brain?
->- Carrie Fisher had bipolar disorder. What's that about?
+>- What is behavior?
+>- What distinguishes human behavior?
+>- What are neurological bases?
+>- What other bases are there?
+>- How do the neurological bases of human behavior affect your life?
 
 ----
 
+>- Why does taking/drinking X make me feel Y?
+>- My grandmother has Alzheimer's disease. What's happening to her brain?
+>- Carrie Fisher had bipolar disorder. What's that about?
 >- Why is sleep so important for brain health?
 >- My mom says my brain isn't fully mature. Is she right?
 >- Is it safe for high school athletes to play football (or soccer, hockey, etc.)?
@@ -107,9 +102,8 @@ Graduate Teaching Assistant</br>
 ## Today's topics
 
 - Course overview
-- Neurological bases of human behavior?
-  - What does that mean?
-  - Why psychology (and neuroscience) is more difficult than physics
+- Why is biology essential for the science of behavior?
+- A bit about systems
 
 ## Course overview
 
@@ -123,9 +117,8 @@ Graduate Teaching Assistant</br>
 - Come to class.
 - Participate!
 
-## Neurological bases of human behavior
+## Why is biology essential for the science of behavior?
 
-- Why is biology essential for the science of behavior?
 - What is science?
   - What distinguishes sciences?
   - What is neuroscience?
