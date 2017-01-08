@@ -138,7 +138,7 @@ Graduate Teaching Assistant</br>
   - Strives for objectivity
   - Aims at reliable, reproducible, general, systematic, universal laws
   
-## Gilmore on science vs. religion
+## Gilmore on science vs. other ways of thinking
 
 - Science is a way of thinking
 - Science *describes*, but not well-suited to *proscribing*
@@ -146,10 +146,11 @@ Graduate Teaching Assistant</br>
 - Science rests on evidence and logic NOT on authorities
 - Science respects tradition, but questions and tests it
 
-## Gilmore on science vs. religion
+## Gilmore on science vs. other ways of thinking
 
-- Science (and allied fields) is why human health and prosperity have advanced so significantly over the past 300 years.
-- Science will be essential for maintaining and extending those advances in the future
+- Science (and allied fields) 
+    + has led to huge advances in human health and prosperity.
+    + will be essential for maintaining and extending those advances in the future
 
 ## Similarities between sciences
 
@@ -160,7 +161,7 @@ Graduate Teaching Assistant</br>
 - Where did X come from?
     - Origins, e.g., development/evolution
   
-## What distinguishes sciences
+## Differences among sciences
 
 - Phenomena of interest
 - Methods or tools
