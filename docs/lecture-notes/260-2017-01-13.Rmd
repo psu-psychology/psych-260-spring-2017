@@ -1,0 +1,332 @@
+---
+title: "260-2017-01-13-levels-methods"
+author: "Rick O. Gilmore"
+date: '`r Sys.time()`'
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
+</div>
+
+## Today's Topics
+
+- Levels of analysis in the study of brain and behavior
+    + Spatial
+    + Temporal
+- Methods to the madness
+
+## What does the practice of trephining suggest about our human ancestors?
+
+- A. That they knew nothing about how to treat mental illness
+- B. That they knew a lot about how to treat mental illness 
+- C. That they had some notion about the link between mental illness and the brain
+
+## What does the practice of trephining suggest about our human ancestors?
+
+- A. That they knew nothing about how to treat mental illness
+- B. That they knew a lot about how to treat mental illness 
+- **C. That they had some notion about the link between mental illness and the brain**
+
+## Spatial resolution
+
+<div class="centered">
+<img src="img/churchland-levels-of-analysis.gif"/>
+</div>
+
+## Spatial and Temporal Resolution
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)
+</div>
+
+## Spatial Resolution in Detail
+
+- Within an individual
+    + molecular
+        * genetic
+        * receptor
+    + chemical
+        * neurotransmitter
+    + cellular
+        * neuronal firing
+
+## Spatial Resolution in Detail
+
+- Internal to individuals
+    + network
+        * lateral inhibition
+    + area
+    + region
+    + system
+
+## Spatial Resolution in Detail
+
+- External to individuals
+    + Social
+        * Friends, family, teachers, others
+    + Non-social
+        * neighborhood, school, state/region, country
+        * Physical environment
+
+## Temporal Resolution in Detail
+
+- Within one lifetime
+    + Microseconds
+        * detection position from acoustic stimulation
+    + Milliseconds
+        * action potential
+    + Seconds
+        * changes in EEG power
+        * short-term memory
+
+## Temporal Resolution in Detail
+
+- Within one lifetime
+    + Minutes
+        * synaptic plasticity
+    + Hours
+        * memory consolidation
+    + Days
+    + Weeks
+    + Months
+
+## Temporal Resolution in Detail
+
+- Within one lifetime
+    + Years
+        * education & training
+        * disease processes
+        * cultural change
+        
+## Temporal Resolution in Detail
+
+- Across lifetimes
+    + Centuries
+        * cultural changes
+    + Millenia
+    
+## Why does this matter?
+
+- Different methods, different levels of analysis.
+- Challenge of interpretation.
+- Challenge of linking phenomena across levels.
+    + How does the micro affect macro or vice versa?
+
+## Methods to the madness
+
+- Tools in the neuroscientist’s toolkit
+- What they tell us, and what they don’t
+
+## Evaluating methods 
+
+- What is the question?
+- What are we measuring?
+    + Structure
+    + Activity
+- Strengths & Weaknesses
+    + Cost
+    + Invasiveness
+    + Spatial/temporal resolution
+
+## Spatial and Temporal Resolution
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)
+</div>
+
+## Types of methods
+
+- Structural
+    + Mapping the circuitry
+    + Anatomy
+- Functional (next time)
+    + What does it do?
+    + Physiology/Activity
+
+## ￼Mapping structures
+
+- Cell/axon stains
+    + Golgi stain -- whole cells
+        - [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi)
+    + Nissl stain -- cell bodies only
+        - [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl)
+    + Cellular distribution, concentration, microanatomy
+
+## [Golgi stain](http://2e.mindsmachine.com/glossary.html#G)
+
+<div class="centered">
+<a href="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg">
+<img src="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="400px"/>
+</a>
+</div>
+
+## [Nissl stain](http://2e.mindsmachine.com/glossary.html#N)
+
+<div class="centered">
+<a href="https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg">
+<img src="https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg">
+</a>
+</div>
+
+## Retrograde vs. anterograde [histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer)
+
+- *Retrograde* (from axon terminal to cell body); *anterograde* (from cell body to axon terminal)
+- What connects where
+
+## Retrograde vs. anterograde tracers
+
+<div class="centered">
+<a href="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png">
+<img src="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png" height="500px"/>
+</a>
+</div>
+
+## [Brainbow](http://cbs.fas.harvard.edu/science/connectome-project/brainbow)
+
+<div class="centered">
+<img src="img/lichtman-nrn2391-f1.jpg">
+
+[[@lichtman_technicolour_2008]](http://doi.org/10.1038/nrn2391)
+</div>
+
+## Brainbow
+
+<div class="centered">
+<img src="img/lichtman-nrn2391-f2.jpg" height=500px>
+
+[[@lichtman_technicolour_2008]](http://doi.org/10.1038/nrn2391)
+</div>
+
+## [Eyewire.org](http://eyewire.org)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c43jVfpzvZ0" frameborder="0" allowfullscreen></iframe>
+
+## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-NMfp13Uug" frameborder="0" allowfullscreen></iframe>
+
+## Mapping structures
+
+- Computed axial tomography (CAT), [CT](https://en.wikipedia.org/wiki/CT_scan)
+- X-ray based
+
+## Tomography
+
+<div class="centered">
+<a href="http://img.tfd.com/mk/T/X2604-T-22.png">
+<img src="img/ct-scanner.png" height="400px"/>
+</a>
+</div>
+
+## Tomography
+
+<div class="centered">
+<img src="http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg"/>
+
+<http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
+</div>
+
+## CT scan of stroke
+
+<div class="centered">
+<a href="http://1.bp.blogspot.com/-I5AIwDp1jJM/UF9gqPEw4vI/AAAAAAAB77M/VfLRw2JDEiY/s1600/mca+inferior+division+infarct+ct+brain.JPG">
+<img src="img/mca-inferior-division-infarct-ct-brain.jpg" height=500px>
+</a>
+</div>
+
+## [Magnetic Resonance Imaging (MRI)](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)
+
+- Magnetic resonance
+- Protons have spin (magnetic dipole)
+- Align with strong magnetic field
+- When perturbed, speed of realignment varies by tissue
+- Realignment gives off radio frequency signals
+
+## MRI
+
+<div class="centered">
+<img src="http://s.hswstatic.com/gif/mri-steps.jpg"/>
+
+<http://s.hswstatic.com/gif/mri-steps.jpg>
+</div>
+
+## How MRI works
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CGzk-nV06g" frameborder="0" allowfullscreen></iframe>
+
+## <span class="blue">Structural</span> MRI
+
+- Tissue density/type differences
+- [Gray matter](https://en.wikipedia.org/wiki/Grey_matter) (neurons & dendrites & axons & glia) vs. [white matter](https://en.wikipedia.org/wiki/White_matter) (mostly axons)
+- MR Spectroscopy
+- Region sizes/volumes
+
+## Structural MRI of the brain
+
+<div class="centered">
+<a href="http://www.brainfacts.org/~/media/Brainfacts/Article%20Multimedia/About%20Neuroscience/Technologies/MRI_blackandwhite.ashx">
+<img src="http://www.brainfacts.org/~/media/Brainfacts/Article%20Multimedia/About%20Neuroscience/Technologies/MRI_blackandwhite.ashx" width=900px>
+</a>
+</div>
+
+## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
+
+<div class="centered">
+<img src="https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg" width=800px>
+
+<https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg>
+</div>
+
+## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry)
+
+- [Voxels (volume-based elements)](https://en.wikipedia.org/wiki/Voxel)
+- Morphometry, measure ("metry") form/morphology.
+
+----
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg" height=500px>
+
+<http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg>
+</div>
+
+
+## Next time
+
+- Functional methods, including <span color="blue">functional</span> MRI (fMRI)
+
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+</style>
+## References {.smaller}

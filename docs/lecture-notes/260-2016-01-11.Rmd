@@ -3,8 +3,6 @@ title: "260-2017-01-11-history"
 author: "Rick O. Gilmore"
 date: '`r Sys.time()`'
 output:
-  beamer_presentation:
-    incremental: no
   ioslides_presentation:
     css: css/ioslides.css
     incremental: no
@@ -34,6 +32,7 @@ output:
 
 ## Today's topics
 
+- Wrap-up on [systems](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-01-09.html#29)
 - History of neuroscience
 
 ## History of neuroscience
