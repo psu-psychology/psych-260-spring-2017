@@ -2,7 +2,7 @@
 title: "Resources"
 ---
 
-## Textbook
+## *Required* Textbook
 
 <img src="http://www.sinauer.com/media/catalog/product/cache/1/image/234x/17f82f742ffe127f42dca9de82fb58b1/t/h/themindsmachine2_3.png">
 
