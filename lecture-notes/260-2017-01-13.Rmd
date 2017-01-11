@@ -28,6 +28,8 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
     + Temporal
 - Methods to the madness
 
+# Review of key concepts
+
 ## What does the practice of trephining suggest about our human ancestors?
 
 - A. That they knew nothing about how to treat mental illness
@@ -39,6 +41,26 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 - A. That they knew nothing about how to treat mental illness
 - B. That they knew a lot about how to treat mental illness 
 - **C. That they had some notion about the link between mental illness and the brain**
+
+## Descartes thought that this brain structure played a central role in linking sensory information with the actions it triggers.
+
+- A. The cerebral ventricles
+- B. The pineal gland
+- C. Cerebro-spinal fluid
+
+## Descartes thought that this brain structure played a central role in linking sensory information with the actions it triggers.
+
+- A. The cerebral ventricles.
+- **B. The pineal gland.**
+- C. Cerebro-spinal fluid.
+
+## Which of the following statements about the Egyptians is false?
+
+- A. They employed a word meaning "brain".
+- B. They removed the brain in the process of mummification.
+- **C. They created detailed drawings of human brain anatomy.**
+
+# Levels of analysis
 
 ## Spatial resolution
 
@@ -128,6 +150,8 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 - Challenge of interpretation.
 - Challenge of linking phenomena across levels.
     + How does the micro affect macro or vice versa?
+
+# Neuroscience methods
 
 ## Methods to the madness
 
@@ -298,10 +322,17 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 <https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg>
 </div>
 
+## [Diffusion tensor imaging (DTI)](https://en.wikipedia.org/wiki/Diffusion_MRI#Diffusion_tensor_imaging)
+
+- Type of structural MRI
+- Reveals integrity/density of axon fibers
+- Measure of connectivity
+
 ## [Voxel-based morphometry (VBM)](https://en.wikipedia.org/wiki/Voxel-based_morphometry)
 
 - [Voxels (volume-based elements)](https://en.wikipedia.org/wiki/Voxel)
 - Morphometry, measure ("metry") form/morphology.
+- How does brain size or thickness vary by age, disease status, etc.?
 
 ----
 
@@ -310,7 +341,6 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 
 <http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg>
 </div>
-
 
 ## Next time
 

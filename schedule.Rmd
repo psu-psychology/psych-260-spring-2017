@@ -35,6 +35,10 @@ title: "Schedule"
     - Watch: [Beautiful 3-D Brain Scans Show Every Synapse](https://youtu.be/nvXuq9jRWKE)
     - Optional
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-01-13.html)
+    - [Rmd](lecture-notes/260-2017-01-13.Rmd)
+    - [PDF](lecture-notes/260-2017-01-13.pdf)
 
 ## Week 2, January 16-20
 
