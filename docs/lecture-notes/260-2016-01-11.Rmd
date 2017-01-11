@@ -14,22 +14,6 @@ output:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R4GLAKEjU4w" frameborder="0" allowfullscreen></iframe>
 
-----
-
-<div class="centered">
-<img src="https://static01.nyt.com/images/2016/08/23/science/zika-radiology-image-3/zika-radiology-image-3-superJumbo.jpg" width=900px>
-
-<http://nyti.ms/2bfmN9F>
-</div>
-
-----
-
-<div class="centered">
-<img src="https://static01.nyt.com/images/2016/08/23/science/23TB-disco1/23TB-disco1-blog427.jpg">
-
-<http://nyti.ms/2byeiEJ>
-</div>
-
 ## Today's topics
 
 - Wrap-up on [systems](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-01-09.html#29)
@@ -54,7 +38,7 @@ output:
 </a>
 </div>
 
-## Pre/Early history
+# Pre/Early history
 
 ## [*Trephining* (trepanning)](https://en.wikipedia.org/wiki/Trepanning)
 
@@ -85,6 +69,8 @@ output:
 <img src="http://faculty.washington.edu/chudler/gif/papybr.gif" width=450px/>
 </a>
 </div>
+
+# Greek and Roman era
 
 ## Greeks
 
@@ -149,7 +135,7 @@ output:
 - [Ibn al-Haytham's](https://en.wikipedia.org/wiki/Alhazen) *Optics*, ~1000 CE
 - [Mansur's *Anatomy*](https://exhibitions.lib.cam.ac.uk/vesalius/artifacts/mansurs-anatomy/) ~1400 CE
 
-## New technologies, new ideas
+# Renaissance and the Enlightenment: New technologies, new ideas
 
 ## *Vesalius* (1543)
 
