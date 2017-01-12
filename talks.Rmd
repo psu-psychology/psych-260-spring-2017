@@ -6,6 +6,14 @@ title: "News"
 
 Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.
 
+- Keep Your Eye on the Balls to Become a Better Athlete. <https://www.nytimes.com/2017/01/04/sports/neurotracker-athletic-performance.html>. #vision
+
+- A Break in the Search for the Origin of Complex Life. <https://www.theatlantic.com/science/archive/2017/01/our-origins-in-asgard/512645/>. #evolution
+
+- Coming out of electroshock therapy. <https://www.theatlantic.com/notes/2017/01/ect/512102/>. #depression #bipolar #ect
+
+- Toddler temperament could be influenced by different types of gut bacteria. <https://www.sciencedaily.com/releases/2015/05/150527091438.htm>. #microbiome #development
+
 - What Happened Within This Player's Skull. <http://www.nytimes.com/interactive/2017/01/09/sports/football/what-happened-within-this-players-skull-football-concussions.html?_r=0>. #concussion
 
 - Kim, A. J., Fenk, L. M., Lyu, C., & Maimon, G. (2017). Quantitative Predictions Orchestrate Visual Signaling in Drosophila. Cell, 0(0). <https://doi.org/10.1016/j.cell.2016.12.005>. #perception
@@ -33,6 +41,10 @@ Dr. Cheetham’s research aims to elucidate the mechanisms through which neurons
 #### Dr. Rachel Roberts-Galbraith, January 17, 2017, 4 PM, 008 Mueller
 
 Dr. Roberts-Galbraith uses planarians as a model organism to study brain regeneration. She received her Ph.D. from Vanderbilt where she trained as a cell biologist under Dr. Kathleen Gould and received an NSF graduate fellowship. She developed her planarian model system in the laboratory of Dr. Philip Newmark at the University of Illinois where she received a prestigious Jane Coffin Childs fellowship. Using transcriptomic and genomic approaches, she has identified dozens of genes involved various aspects of nervous system regeneration. She plans to follow up this work to characterize fundamental mechanisms through which neurons and glia are made and organized following injury.
+ 
+#### Dr. Thomas Gould (Penn State), January 18, 2017, 4 PM, 108 Wartik
+
+"Epigenetics and the Long-term Effects of Nicotine on Learning and Hippocampus"
  
 #### Dr. Gyorgy Lur, January 26, 2017, 4 PM, 008 Mueller
 

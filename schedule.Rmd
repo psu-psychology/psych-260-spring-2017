@@ -54,15 +54,13 @@ title: "Schedule"
 - Neuroanatomy I.
 - Assignment
     - Read W&B: 2:30-43.
-    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
 
 ### Fri, January 20
 
 - Neuroanatomy II.
 - Assignment
     - Read W&B: 2:30-43.
-    - [Neuroanatomy outline](outlines/neuroanatomy-outline.md)
-
+ 
 ## Week 3, January 23-27
 
 ### Mon, January 23
@@ -82,7 +80,6 @@ title: "Schedule"
     - Cells of the nervous system.
 - Assignment
     - Read W&B: 2:20-29.
-    - [Cellular outline](outlines/cellular-outline.md)
 
 ## Week 4, January 30 - February 3
 
@@ -120,7 +117,6 @@ title: "Schedule"
 - Neurochemistry I.
 - Assignment
     -  Read W&B 4:82-86.
-    -  [Neurotransmission outline](outlines/neurotransmission-outline.md)
 
 ## Week 06, February 13-17
 
