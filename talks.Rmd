@@ -6,6 +6,11 @@ title: "News"
 
 Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.
 
+- The Health Effects of Cannabis and Cannabinoids: 
+The Current State of Evidence and Recommendations for Research (2017). National Academy of Sciences Engineering and Medicine. <https://www.nap.edu/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state>. #cannabinoids
+
+- Bacteria Send Electrical Pulses as Recruitment Ads. <https://www.theatlantic.com/science/archive/2017/01/bacteria-electrical-pulse/512825/> #electricalcommunication
+
 - Keep Your Eye on the Balls to Become a Better Athlete. <https://www.nytimes.com/2017/01/04/sports/neurotracker-athletic-performance.html>. #vision
 
 - A Break in the Search for the Origin of Complex Life. <https://www.theatlantic.com/science/archive/2017/01/our-origins-in-asgard/512645/>. #evolution
