@@ -44,15 +44,15 @@ title: "Schedule"
 
 ### Mon, January 16
 
-- Neuroscience methods II
-- Assignment
-    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
-    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+<span class="red">**NO CLASS MEETING**</div>
 
 ### Wed, January 18
 
+- Neuroscience methods II.
 - Neuroanatomy I.
 - Assignment
+    - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
+    - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
     - Read W&B: 2:30-43.
 
 ### Fri, January 20
