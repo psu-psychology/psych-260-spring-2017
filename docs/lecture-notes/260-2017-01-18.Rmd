@@ -1,0 +1,345 @@
+---
+title: "260-2017-01-18-methods-II"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zdgw4S0GgL8" frameborder="0" allowfullscreen></iframe>
+
+[[@han_integrated_2017]](http://doi.org/10.1016/j.cell.2016.12.027)
+
+## Spatial and Temporal Resolution
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)
+</div>
+
+## Which of the following statements about the brain imaging technique used in this figure is FALSE?
+
+<div class="centered">
+<img src="img/mid-sagittal-brain-mri.jpg" height=400px>
+</div>
+
+## Which of the following statements about the brain imaging technique used in this figure is FALSE?
+
+- A. It is non-invasive.
+- B. It provides information about brain structures.
+- C. It provides information about rapid (millisecond-level) changes in brain activity.
+- D. It cannot resolve details about individual neurons.
+
+## Which of the following statements about the brain imaging technique used in this figure is FALSE?
+
+- A. It is non-invasive.
+- B. It provides information about brain structures.
+- **C. It provides information about rapid (millisecond-level) changes in brain activity.**
+- D. It cannot resolve details about individual neurons.
+
+## Today's topics
+
+- Functional methods
+
+## Functional methods
+
+- Recording from the brain 
+- Interfering with the brain 
+- Stimulating the brain
+
+## ￼Recording from the brain
+
+- Single/multi unit recording
+- Microelectrodes
+- Small numbers of nerve cells
+
+## Single/multi-unit Recording
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg"/>
+
+<http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
+</div>
+
+## Single/multi-unit recording
+
+- What does neuron X respond to?
+- Great temporal (ms), spatial resolution (um)
+- Invasive
+- Rarely suitable for humans, but...
+
+## [Electrocorticography (ECoG)](https://en.wikipedia.org/wiki/Electrocorticography)
+
+<div class="centered">
+<a href="http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg">
+<img src="http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg" height=450px/>
+</a>
+</div>
+
+---- 
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HluVToAamXY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+Story about child who underwent ECoG surgery.
+</div>
+
+## Calcium imaging [[@Nguyen28122015]](http://doi.org/10.1073/pnas.1507110112)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/2Go4LjX5eHo" frameborder="0" allowfullscreen></iframe>
+
+<!-- Cut
+
+## Calcium imaging
+
+- Calcium (Ca++) enters neurons during chemical communication
+- Genetically engineered animals can express [proteins](http://www.scholarpedia.org/article/Fluorescent_proteins) that fluoresce in presence of Ca++ and fluorescent light
+- Nematode [C. Elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans) has 302 neurons.
+- Can image activity while worm moves!
+
+## Single unit recording, Ca++ imaging
+
+- Evaluating
+    - Spatial resolution high/fine (resolves small spatial details)
+    - Temporal resolution high/fine (rapid changes)
+    - Invasive
+
+-->
+
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GHLBcCv4rqk" frameborder="0" allowfullscreen></iframe>
+
+## [Positron Emission Tomography (PET)](https://en.wikipedia.org/wiki/Positron_emission_tomography)
+
+- Radioactive tracers (glucose, oxygen)
+- Positron decay
+- Experimental condition - control
+- Average across individuals
+
+## PET
+
+- Evaluating PET
+    + Temporal (~ s) and spatial (mm-cm) resolution worse than fMRI
+    + Radioactive exposures + mildly invasive 
+    + Dose < airline crew exposure in 1 yr
+
+## [Functional Magnetic Resonance Imaging (fMRI)](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging)
+
+- Neural activity -> local O^2 consumption increase
+- Blood Oxygen Level Dependent (BOLD) response
+    + Oxygenated vs. deoxygenated hemoglobin
+    + Do regional blood O^^2 levels (and flow) vary with behavior X?
+    
+## fMRI
+
+<div class="centered">
+<a href="http://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg">
+<img src="http://www.cmu.edu/news/stories/archives/2013/june/images/happysadbrainactivity_400x200.jpg" height=500px>
+</a>
+</div>
+
+## fMRI [[@dougherty_visual_2003]](http://doi.org/10.1167/3.10.1)
+
+<div class="centered">
+<a href="http://doi.org/10.1167/3.10.1">
+<img src="img/doughtery-retinotopy-m_jov-3-10-1-fig001.jpg" height=500px>
+</a>
+</div>
+
+## fMRI
+
+- Evaluating
+    + Non-invasive, but expensive
+    + Moderate but improving (mm) spatial, temporal (~sec) resolution
+- Hemodynamic Response Function
+    + 1s delay plus 3-6 s ramp-up
+
+## [Hemodynamic Response](https://en.wikipedia.org/wiki/Haemodynamic_response) Function (HRF)
+
+<div class="centered">
+<a href="http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png">
+<img src="http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png" width=700px/>
+</a>
+</div>
+
+## [Electroencephalography (EEG)](https://en.wikipedia.org/wiki/Electroencephalography)
+
+- How does it work?
+    - Electrodes on scalp or brain surface
+- What do we measure?
+    - Combined activity of huge # of neurons
+
+## EEG
+
+<div class="centered">
+<a href="http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg">
+<img src="http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg" height=500px/>
+</a>
+</div>
+
+## EEG
+
+- High temporal, poor spatial resolution
+- Analyze frequency bands
+    + LOW: deep sleep
+    + MIDDLE: Quiet, alert state
+    + HIGH:“Binding” information across senses
+  
+## EEG Frequency
+
+<div class="centered">
+<a href="http://www.peakmind.co.uk/images/frequency.jpg">
+<img src="http://www.peakmind.co.uk/images/frequency.jpg" height=500px/>
+</a>
+</div>
+
+## [Event-related potentials (ERPs)](https://en.wikipedia.org/wiki/Event-related_potential)
+
+- EEGs time-locked to some event - Averaged over many trials
+
+## ERPs
+
+<div class="centered">
+<a href="http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif">
+<img src="http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif" height=500px/>
+</a>
+</div>
+
+## [Brain Computer Interface (BCI)](http://computer.howstuffworks.com/brain-computer-interface.htm)
+
+<div class="centered">
+<img src="http://s.hswstatic.com/gif/brain-computer-interface-3.gif"/>
+
+<http://s.hswstatic.com/gif/brain-computer-interface-3.gif>
+</div>
+
+## [Magneto-encephalography (MEG)](https://en.wikipedia.org/wiki/Magnetoencephalography)
+
+- Like EEG, but measuring magnetic fields
+- High temporal resolution, low spatial resolution
+- Magnetic field propagates w/o distortion
+
+## MEG
+
+<div class="centered">
+<a href="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg">
+<img src="http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg" height="500px"/>
+</a>
+</div>
+
+## Manipulating the brain
+
+- Nature’s “experiments”
+    + Stroke, head injury, tumor
+    + Neuropsychology
+    + Remember Galen?
+- Logic: damage impairs performance = region critical for behavior
+- Poor spatial/temporal resolution, limited experimental control
+
+## [Phineas Gage](https://en.wikipedia.org/wiki/Phineas_Gage)
+
+<div class="centered">
+<a href="http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png">
+<img src="http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png" height="500px"/>
+</a>
+</div>
+
+## ￼Stimulating the brain
+
+- Pharmacological
+- Electrical ([transcranial Direct Current Stimulation - tDCS](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation))
+- Magnetic (Transcranial magnetic stimulation - TMS)
+- Optically (optogenetics)
+
+## tDCS
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nn.3422">
+<img src="http://www.nature.com/neuro/journal/v16/n7/images/nn.3422-F4.jpg" height="450px"/>
+</a>
+
+[[@dayan_noninvasive_2013]](http://doi.org/10.1038/nn.3422)
+</div>
+
+## TMS
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nn.3422">
+<img src="http://www.nature.com/neuro/journal/v16/n7/carousel/nn.3422-F1.jpg" height=450px/>
+</a>
+
+[[@dayan_noninvasive_2013]](http://doi.org/10.1038/nn.3422)
+</div>
+
+## [Optogenetic](https://en.wikipedia.org/wiki/Optogenetics) stimulation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G" frameborder="0" allowfullscreen></iframe>
+
+## Evaluating stimulation methods
+
+- Spatial/temporal resolution?
+    + Assume stimulation mimics natural activity?
+    + Optogenetic stimulation highly similar, others less so
+- Deep brain stimulation as therapy
+    + Parkinson’s Disease 
+    + Depression 
+    + Epilepsy
+
+## [Deep brain stimulation](https://en.wikipedia.org/wiki/Deep_brain_stimulation)
+
+<div class="centered">
+<a href="http://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies.shtml">
+<img src="http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/vns-200_60712_4.jpg" height=500px/>
+</a>
+</div>
+
+## ￼Simulating the brain
+
+- Computer/mathematical models of brain function
+- Example: neural networks
+- Cheap, noninvasive, can be stimulated or “lesioned”
+
+<!-- Cut
+
+## Growing a brain
+
+<div class="centered">
+<http://www.kurzweilai.net/most-complete-functioning-human-brain-model-to-date-according-to-researchers>
+
+<img src="http://www.kurzweilai.net/images/organoid-derivation-development.jpg" width="700px"/>
+
+<http://www.kurzweilai.net/images/organoid-derivation-development.jpg>
+</div>
+
+--->
+
+## Spatial and Temporal Resolution
+
+<div class="centered">
+<a href="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg">
+<img src="http://www.nature.com/neuro/journal/v17/n11/images/nn.3839-F1.jpg" width="600px">
+</a>
+
+[[[@sejnowski2014putting]](http://doi.org/10.1038/nn.3839)](http://doi.org/10.1038/nn.3839)
+</div>
+
+## Next time...
+
+- Neuroanatomy
+
+## References {.smaller}

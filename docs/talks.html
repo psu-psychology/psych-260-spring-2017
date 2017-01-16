@@ -19,12 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -151,7 +150,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -228,6 +226,9 @@ $(document).ready(function () {
 <h3>Neuroscience in the news</h3>
 <p>Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.</p>
 <ul>
+<li><p>Sarel, A., Finkelstein, A., Las, L., &amp; Ulanovsky, N. (2017). Vectorial representation of spatial goals in the hippocampus of bats. Science, 355(6321), 176–180. <a href="https://doi.org/10.1126/science.aak9589" class="uri">https://doi.org/10.1126/science.aak9589</a>. #hippcampus #perception</p></li>
+<li><p>Han, W., Tellez, L. A., Rangel, M. J., Motta, S. C., Zhang, X., Perez, I. O., … Araujo, I. E. de. (2017). Integrated Control of Predatory Hunting by the Central Nucleus of the Amygdala. Cell, 168(1), 311–324.e18. <a href="https://doi.org/10.1016/j.cell.2016.12.027" class="uri">https://doi.org/10.1016/j.cell.2016.12.027</a>.</p></li>
+<li><p>Neuroscience Can’t Explain How an Atari Works. <a href="https://www.technologyreview.com/s/603362/neuroscience-cant-explain-how-an-atari-works/" class="uri">https://www.technologyreview.com/s/603362/neuroscience-cant-explain-how-an-atari-works/</a>. #computation</p></li>
 <li><p>The Health Effects of Cannabis and Cannabinoids: The Current State of Evidence and Recommendations for Research (2017). National Academy of Sciences Engineering and Medicine. <a href="https://www.nap.edu/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state" class="uri">https://www.nap.edu/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state</a>. #cannabinoids</p></li>
 <li><p>Bacteria Send Electrical Pulses as Recruitment Ads. <a href="https://www.theatlantic.com/science/archive/2017/01/bacteria-electrical-pulse/512825/" class="uri">https://www.theatlantic.com/science/archive/2017/01/bacteria-electrical-pulse/512825/</a> #electricalcommunication</p></li>
 <li><p>Keep Your Eye on the Balls to Become a Better Athlete. <a href="https://www.nytimes.com/2017/01/04/sports/neurotracker-athletic-performance.html" class="uri">https://www.nytimes.com/2017/01/04/sports/neurotracker-athletic-performance.html</a>. #vision</p></li>
@@ -276,8 +277,11 @@ $(document).ready(function () {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 

@@ -44,23 +44,26 @@ title: "Schedule"
 
 ### Mon, January 16
 
-<span class="red">**NO CLASS MEETING**</div>
+**NO CLASS MEETING**
 
 ### Wed, January 18
 
 - Neuroscience methods II.
-- Neuroanatomy I.
 - Assignment
     - Watch: [Magnetic Resonance Imaging Explained](https://youtu.be/MiL0wCZr0Mw)
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
-    - Read W&B: 2:30-43.
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-01-18.html)
+    - [Rmd](lecture-notes/260-2017-01-18.Rmd)
+    - [PDF](lecture-notes/260-2017-01-18.pdf)
 
 ### Fri, January 20
 
-- Neuroanatomy II.
+- Topic
+    - Neuroanatomy I.
 - Assignment
     - Read W&B: 2:30-43.
- 
+
 ## Week 3, January 23-27
 
 ### Mon, January 23
@@ -76,17 +79,21 @@ title: "Schedule"
 ### Fri, January 27
 
 - Topic
+    - Neuroanatomy II.
     - **Quiz 1**
-    - Cells of the nervous system.
 - Assignment
+    - Read W&B: 2:30-43.
     - Read W&B: 2:20-29.
 
 ## Week 4, January 30 - February 3
 
 ### Mon, January 30
 
-- Neurophysiology I.
+- Topics
+    - Cells of the nervous system.
+    - Neurophysiology I.
 - Assignment
+    - Read W&B: 2:20-29.
     - Read W&B 3:50-55.
 
 ### Wed, February 1
@@ -177,7 +184,7 @@ title: "Schedule"
 
 ## Spring Break, March 6 - 10
 
-- **No classes**
+**NO CLASSES**
 
 ## Week 9, March 13-17
 
@@ -203,18 +210,18 @@ title: "Schedule"
 
 #### Mon, March 20
 
-- Exam 2 returned.
-
-### Wed, March 22
-
 - Emotion, Fear, and Stress
 - Assignment
     - Read W&B 11:310-336.
 
-### Fri, March 24
-
-- **Quiz 3**
+### Wed, March 22
+<!--- Rick possibly away -->
 - Emotion, Fear, and Stress II.
+
+### Fri, March 24
+<!-- Rick definitely away -->
+- **Quiz 3**
+- Exam 2 returned.
 
 ## Week 11, March 27-31 
 
