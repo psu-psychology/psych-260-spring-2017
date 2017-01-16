@@ -41,6 +41,8 @@ The Current State of Evidence and Recommendations for Research (2017). National 
 
 This is a list of talks that students may wish to attend. *Attendance is not required, however*. Reports on the talks could serve as the basis of one or more blog posts or a paper.
 
+<!-- Past talks
+
 #### Dr. Nadav Ahituv, Wednesday, January 11, 2017, 4 PM, 108 Wartik Lab
 
 "Functional Characterization of Gene Regulatory Elements"
@@ -48,7 +50,8 @@ This is a list of talks that students may wish to attend. *Attendance is not req
 #### Dr. Claire Cheetham, January 12, 2017, 4 PM, 008 Mueller
 
 Dr. Cheetham’s research aims to elucidate the mechanisms through which neurons form and maintain precise connections. She approaches the question using the mouse olfactory bulb system, which is experimentally accessible in vivo and undergoes adult neurogenesis. She uses a combination of optogenetics, electrophysiology and behavior to study how new neurons are integrated into functional circuits. She has made important contributions to our understanding of synapse formation and maturation in both cortex and the olfactory bulb. She earned her PhD with Dr. Gerald Finnerty at University College London where she showed that a critical period for map reorganization in the visual cortex corresponded to presynaptic maturation. She then moved to NIH to work with Dr. Leo Belluscio where she developed her current model system. She is currently an independently-funded Research Assistant Professor at Carnegie Mellon.
- 
+-->
+
 #### Dr. Rachel Roberts-Galbraith, January 17, 2017, 4 PM, 008 Mueller
 
 Dr. Roberts-Galbraith uses planarians as a model organism to study brain regeneration. She received her Ph.D. from Vanderbilt where she trained as a cell biologist under Dr. Kathleen Gould and received an NSF graduate fellowship. She developed her planarian model system in the laboratory of Dr. Philip Newmark at the University of Illinois where she received a prestigious Jane Coffin Childs fellowship. Using transcriptomic and genomic approaches, she has identified dozens of genes involved various aspects of nervous system regeneration. She plans to follow up this work to characterize fundamental mechanisms through which neurons and glia are made and organized following injury.
@@ -60,3 +63,27 @@ Dr. Roberts-Galbraith uses planarians as a model organism to study brain regener
 #### Dr. Gyorgy Lur, January 26, 2017, 4 PM, 008 Mueller
 
 Dr. Lur uses optical and electrophysiological approaches to study signaling in cortical networks. His long-term goal is to determine how multiple sensory signals are integrated modulated by behavior in the cortex. He received his Ph.D. from the University of Liverpool where he studied calcium signaling in polarized secretory cells. He is currently a postdoctoral fellow in the laboratory of Dr. Michael Higley at Yale University where he has pioneered new methods to combine cellular electrophysiology with 2-Photon imaging to make important new insights into synaptic integration in individual cortical neurons.
+
+#### Dr. Stephen Manuck (Pitt), January 30, 2017, 3:30 PM, 022 Biobehavioral Health Building
+
+"Can genes make men pugnacious?"
+
+#### Martin Picard, Ph.D. (Columbia), February 13, 2017, 3:30 PM, 005 BBH
+
+"Stress and health from organelle to organism: A mitochondrial perspective""
+
+#### Christopher Coe, Ph.D. (U Wisconsin), February 27, 2017, 3:30 PM, 005 BBH
+
+"Prenatal origins of resilience and vulnerability"
+
+#### Julie Blendy, Ph.D. (UPenn School of Medicine), March 13, 2017, 3:30 PM, 005 BBH
+
+"Sex, drugs, and transgenerational inheritance: Are the kids alright?:
+
+#### Anna Marsland, Ph.D. (Pitt), March 27, 2017, 3:30 PM, 005 BBH
+
+"Inflammation and neurocognitive aging"
+
+#### Janice Kiecolt-Glaser, Ph.D. (Ohio State), 3:30-5:00, 022 BBH
+
+"How stress kills: The damage and some remedies"
