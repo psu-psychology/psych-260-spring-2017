@@ -97,13 +97,13 @@ output:
 </a>
 </div>
 
-## Galen's and his ideas
+## Galen and his ideas
 
 - Physician in Roman Empire, of Greek descent
 - Anatomical reports based on dissection of monkeys, pigs
-- Human temperaments (~personalities) linked to "humors": blood, black bile, yellow bile, phlegm.
+- Influenced by Hippocrates notion of human temperaments (~personalities) linked to "humors": blood, black bile, yellow bile, phlegm
+- Speculated that fluid filling the brain cavities called *ventricles*, circulates through nerves, body
 - Gladiators' head injuries impaired thinking, movement
-- Fluid fills the brain cavities called *ventricles*, circulates through nerves, body
 
 ## Ventricles
 
