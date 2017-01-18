@@ -98,11 +98,11 @@ output:
 Story about child who underwent ECoG surgery.
 </div>
 
+<!-- Cut
+
 ## Calcium imaging [[@Nguyen28122015]](http://doi.org/10.1073/pnas.1507110112)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/2Go4LjX5eHo" frameborder="0" allowfullscreen></iframe>
-
-<!-- Cut
 
 ## Calcium imaging
 
@@ -166,7 +166,8 @@ Story about child who underwent ECoG surgery.
 - Evaluating
     + Non-invasive, but expensive
     + Moderate but improving (mm) spatial, temporal (~sec) resolution
-- Hemodynamic Response Function
+    + **Indirect** measure of brain activity
+- [Hemodynamic Response](https://en.wikipedia.org/wiki/Haemodynamic_response) Function (HRF)
     + 1s delay plus 3-6 s ramp-up
 
 ## [Hemodynamic Response](https://en.wikipedia.org/wiki/Haemodynamic_response) Function (HRF)
@@ -290,6 +291,7 @@ Story about child who underwent ECoG surgery.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G" frameborder="0" allowfullscreen></iframe>
 
+<!-- Start here on 2016-01-20 -->
 ## Evaluating stimulation methods
 
 - Spatial/temporal resolution?
