@@ -63,9 +63,13 @@ Dr. Roberts-Galbraith uses planarians as a model organism to study brain regener
 
 #### Dr. Patrick Drew (Penn State), January 20, 2017, 11:15 AM, 127 Noll Laboratory
 
-Imaging Cerebral Hemodynamics during Exercise” 
+"Imaging Cerebral Hemodynamics during Exercise” 
 
 The brain is an energetically demanding organ, and increases in blood flow (usually) accompany increases in neural activity. However, how exercise impacts blood flow to the brain is poorly understood.  I will discuss recent work from my lab using optical imaging in awake behaving mice to elucidate how voluntary locomotion drives hemodynamic signals in the cortex.  We find that locomotion-induced hemodynamic changes in the cortex are mostly driven by neural changes, not systemic cardiovascular changes, and that there are markedly different locomotion-related dynamics of vessels in the brain versus those in the dura.
+
+#### Dr. Matthew Dalva (Jefferson College of Biomedical Sciences), January 25, 2017, 4 PM , 108 Wartik
+
+"Visualizing the Dynamics in Synaptic Formation and Function"
 
 #### Dr. Gyorgy Lur, January 26, 2017, 4 PM, 008 Mueller
 
