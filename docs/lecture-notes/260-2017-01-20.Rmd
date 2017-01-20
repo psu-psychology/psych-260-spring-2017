@@ -88,6 +88,14 @@ output:
 </a>
 </div>
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDjWdtDyz5I" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Effects of DBS for Parkinson's.
+</div>
+
 ## ￼Simulating the brain
 
 - Computer/mathematical models of brain function
