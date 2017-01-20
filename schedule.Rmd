@@ -73,11 +73,13 @@ title: "Schedule"
 ### Mon, January 23
 
 - A-L: Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu). Meet in lobby of  [Chandlee](http://www.registrar.psu.edu/soc_maps/chandlee.html).
-- M-Z: Neuroanatomy Lab
+- M-Z: Neuroanatomy Lab. 
+    - Handout: [PDF](assignments/neuroanatomy-lab-handout.pdf). [HTML](assignments/neuroanatomy-lab-handout.html). [docx](assignments/neuroanatomy-lab-handout.docx). [Rmd](assignments/neuroanatomy-lab-handout.Rmd)
 
 ### Wed, January 25
 
-- A-L: Neuroanatomy Lab
+- A-L: Neuroanatomy Lab 
+    - Handout: [PDF](assignments/neuroanatomy-lab-handout.pdf). [HTML](assignments/neuroanatomy-lab-handout.html). [docx](assignments/neuroanatomy-lab-handout.docx). [Rmd](assignments/neuroanatomy-lab-handout.Rmd)
 - M-Z: Tour of [Social, Life, & Engineering Sciences Imaging Center (SLEIC)](http://imaging.psu.edu). Meet in lobby of  [Chandlee](http://www.registrar.psu.edu/soc_maps/chandlee.html).
 
 ### Fri, January 27
@@ -90,7 +92,7 @@ title: "Schedule"
     - Read W&B: 2:20-29.
 
 ## Week 4, January 30 - February 3
-
+<!-- Einat out this week -->
 ### Mon, January 30
 
 - Topics
@@ -163,7 +165,7 @@ title: "Schedule"
     - Read W&B 10:278-308.
   
 ### Fri, February 24
-
+<!-- Einat out. -->
 - Homeostasis.
 - Assignment
     - Read W&B 9:254-277.
@@ -219,7 +221,7 @@ title: "Schedule"
     - Read W&B 11:310-336.
 
 ### Wed, March 22
-<!--- Rick possibly away -->
+<!-- Rick definitely away -->
 - Emotion, Fear, and Stress II.
 
 ### Fri, March 24
@@ -258,12 +260,10 @@ title: "Schedule"
 
 ### Wed, April 5
 <!--- Rick at SRCD -->
-
 - Exam 3 review
     
 ### Fri, April 7
 <!--- Rick at SRCD -->
-
 - **Exam 3**
 
 ## Week 13, April 10-14
