@@ -102,6 +102,16 @@ Effects of DBS for Parkinson's.
 - Example: neural networks
 - Cheap, noninvasive, can be stimulated or “lesioned”
 
+---
+
+<div class="centered">
+<img src="http://cs231n.github.io/assets/cnn/convnet.jpeg" height=500px>
+</div>
+
+<div class="notes">
+Convolutional neural network.
+</div>
+
 ## Spatial and Temporal Resolution
 
 <div class="centered">
