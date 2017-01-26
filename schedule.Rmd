@@ -90,6 +90,10 @@ title: "Schedule"
 - Assignment
     - Read W&B: 2:30-43.
     - Read W&B: 2:20-29.
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-01-20.html)
+    - [Rmd](lecture-notes/260-2017-01-20.Rmd)
+    - [PDF](lecture-notes/260-2017-01-20.pdf)
 
 ## Week 4, January 30 - February 3
 <!-- Einat out this week -->
