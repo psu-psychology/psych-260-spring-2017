@@ -100,24 +100,32 @@ title: "Schedule"
 ### Mon, January 30
 
 - Topics
-    - Cells of the nervous system.
-    - Neurophysiology I.
-- Assignment
-    - Read W&B: 2:20-29.
-    - Read W&B 3:50-55.
+    + Neuroanatomy III
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-01-30.html)
+    - [Rmd](lecture-notes/260-2017-01-30.Rmd)
+    - [PDF](lecture-notes/260-2017-01-30.pdf)
 
 ### Wed, February 1
+
+- Topics
+    - Cells of the nervous system.
+- Assignment
+    - Read W&B: 2:20-29.
+    
+### Wed, February 1
+
+- Topics
+    - Neurophysiology I.
+- Assignment
+    - Read W&B 3:50-55.
+
+### Fri, February 3
 
 - Neurophysiology II.
 - Assignment
     - Read W&B 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
-
-### Fri, February 3
-
-- Neurophysiology III.
-- Assignment
-    - Read W&B 3:59-69
 
 ## Week 5, February 6-10
 
@@ -131,23 +139,21 @@ title: "Schedule"
 
 ### Fri, February 10
 
-- Neurochemistry I.
+- Neurophysiology III.
 - Assignment
-    -  Read W&B 4:82-86.
+    - Read W&B 3:59-69
 
 ## Week 06, February 13-17
 
 ### Mon, February 13
 
-- Neurochemistry II.
+- Neurochemistry I.
 - Assignment
-    - Read W&B: 4:86-107.
+    -  Read W&B 4:82-86.
 
 ### Wed, February 15
 
-- Hormones and the brain
-- Assignment
-    - Read W&B 8:208-226
+- Neurochemistry II.
 
 ### Fri, February 17
 
@@ -158,27 +164,27 @@ title: "Schedule"
 
 ### Mon, February 20
 
+- Hormones and the brain
+- Assignment
+    - Read W&B 8:208-226
+
+### Wed, February 22
+
 - Your brain on sex
 - Assignment
     - Read W&B 8:226-253
 
-### Wed, February 22
-
+### Fri, February 24
+<!-- Einat out. -->
 - Biological rhythms and sleep
 - Assignment
     - Read W&B 10:278-308.
-  
-### Fri, February 24
-<!-- Einat out. -->
-- Homeostasis.
-- Assignment
-    - Read W&B 9:254-277.
     - **1st blog post due**.
     
 ## Week 8, February 27 - March 3
 
 ### Mon, February 27
-
+<!-- Rick to Temple -->
 - Exam 2 review
 
 ### Wed, March 1
