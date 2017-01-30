@@ -13,10 +13,6 @@ output:
     latex_engine: xelatex
 ---
 
-## Prelude
-
-<iframe src="http://www.news.com.au/lifestyle/real-life/wtf/a-man-found-to-have-a-chopstick-deep-in-his-brain-after-a-restaurant-fight-with-his-brother/news-story/03d847ef6a15ba71b7335625690afb5a"></iframe>
-
 ## Today's topics
 
 - Neuroanatomy
