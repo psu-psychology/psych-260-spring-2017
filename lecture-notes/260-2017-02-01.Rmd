@@ -1,0 +1,336 @@
+---
+title: "260-2017-02-01"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Visualizing the microanatomy of the brain (4:29)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nvXuq9jRWKE" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Cells of the nervous system
+    + Glia
+    + Neurons
+- How do these cells communicate?
+
+## How many neurons and glia?
+
+- Old "lore": ~100 billion neurons
+- New estimate [@azevedo2009equal]
+    + ~86 +/- 8 billion neurons
+    + 85 +/- 9 billion glia
+- 100-500 trillion synapses, 1 billion/mm^3
+
+## Glia (neuroglia)
+
+- "Glia" means glue
+- Functions
+	+ Structural support
+	+ Metabolic support
+	+ Brain development
+	+ Neural plasticity?
+
+## Astrocytes
+
+- "Star-shaped"
+- Physical and metabolic support
+	+ Blood/brain barrier
+	+ Ion (Ca++/K+) buffering
+	+ Neurotransmitter (e.g., glutamate) buffering
+	
+## Astrocytes
+
+- Shape brain development, [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
+- Regulate local blood flow
+- Regulate/influence communication between neurons, [[@bazargani_astrocyte_2016]](http://doi.org/10.1038/nn.4201)
+- Disruption linked to cognitive impairment, disease [[@chung_glia_2015]](http://doi.org/10.1038/nn.4142)
+	
+## Astrocytes
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Human_astrocyte.png" height=450px>
+</a>
+</div>
+
+## Myelinating cells
+
+- Produce [myelin](https://en.wikipedia.org/wiki/Myelin) or myelin sheath
+  + White, fatty substance
+  + Surrounds many neurons
+  + The "white" in white matter
+- Provide electrical/chemical insulation
+- Make neuronal messages faster, less susceptible to noise
+  
+## Types of myelin-producing cells
+
+- [Oligodendrocytes](https://en.wikipedia.org/wiki/Oligodendrocyte)
+	+ In brain and spinal cord (CNS)
+	+ 1:many neurons
+- [Schwann cells](https://en.wikipedia.org/wiki/Schwann_cell)
+	+ In PNS
+	+ 1:1 neuron
+	+ Facilitate neuro-regeneration
+	
+## Oligodendrocytes
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oligodendendrocytes_in_rat_brain.tif/lossy-page1-800px-Oligodendendrocytes_in_rat_brain.tif.jpg" height=450px>
+</a>
+</div>
+
+## Schwann Cells
+
+<div class="centered">
+<a href="http://medcell.med.yale.edu/systems_cell_biology/nervous_system_lab/images/myelinated_axon_em_labels.jpg">
+<img src="http://medcell.med.yale.edu/systems_cell_biology/nervous_system_lab/images/myelinated_axon_em_labels.jpg" height=450px>
+</a>
+</div>
+
+## Microglia
+
+- [Phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis)
+- Clean-up damaged, dead tissue
+- Prune synapses in normal development and disease
+- Disruptions in microglia pruning -> impaired functional brain connectivity and social behavior, [[@zhan_deficient_2014]](http://doi.org/10.1038/nn.3641)
+
+## Microglia
+
+<div class="centered">
+<a href="http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/vetter/vetterfig2011.jpg">
+<img src="http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/vetter/vetterfig2011.jpg" height=450px>
+</a>
+</div>
+
+## [Neurons](https://en.wikipedia.org/wiki/Neuron)
+
+<div class="centered">
+<a href="http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg">
+<img src="http://www.extremetech.com/wp-content/uploads/2012/03/a-mouse-hippocampus-640x353.jpg" height=450px/>
+</a>
+</div>
+
+## Fun facts about [neurons](https://en.wikipedia.org/wiki/Neuron)
+
+- Specialized for electrical & chemical communication
+- Post-mitotic -- don't divide
+- Most [born early in life](http://www.ninds.nih.gov/disorders/brain_basics/ninds_neuron.htm), [[@bhardwaj_neocortical_2006]](http://doi.org/10.1073/pnas.0605177103)
+- Among longest-lived cells in body, may scale with organism lifespan [[@magrassi_lifespan_2013]](http://doi.org/10.1073/pnas.1217505110)
+- Can extend over long distances
+
+## Macrostructure of [neurons](https://en.wikipedia.org/wiki/Neuron)
+
+- [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+- [Soma (cell body)](https://en.wikipedia.org/wiki/Soma_(biology))
+- [Axons](https://en.wikipedia.org/wiki/Axon)
+- [Terminal buttons (boutons)](https://en.wikipedia.org/wiki/Axon_terminal)
+
+## Structure of neurons
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png" height=450px>
+</a>
+</div>
+
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+
+- Branch-like "extrusions" from cell body
+- Majority of input to neuron
+- Cluster close to cell body/soma
+- Usually receive info
+- Passive (do not regenerate electrical signal) vs. active (regenerate signal)
+- Spines
+
+## [Dendrites](https://en.wikipedia.org/wiki/Dendrite)
+
+<div class="centered">
+<a href="http://i.livescience.com/images/i/000/058/588/original/brain-cell.jpg?1383065356">
+<img src="http://i.livescience.com/images/i/000/058/588/original/brain-cell.jpg?1383065356" height=450px>
+</a>
+</div>
+
+## Dendritic Spines
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg" height=450px>
+</a>
+</div>
+
+## [Soma (cell body)](https://en.wikipedia.org/wiki/Soma_(biology))
+
+- Varied shapes
+- Nucleus
+	+ Chromosomes
+- Organelles
+	+ Mitochonrdria
+	+ Smooth and Rough Endoplasmic reticulum (ER)
+	
+## [Soma](https://en.wikipedia.org/wiki/Soma_(biology))
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Complete_neuron_cell_diagram_en.svg/1280px-Complete_neuron_cell_diagram_en.svg.png" height=450px>
+</a>
+</div>
+
+## [Axons](https://en.wikipedia.org/wiki/Axon)
+
+- Another branch-like "extrusion" from soma
+- Extend farther than dendrites
+- Usually transmit info
+- Parts
+    + Initial segment (closest to soma, unmyelinated)
+    + Nodes of Ranvier (unmyelinated segments along axon)
+    + Terminals, axon terminals, terminal buttons, synaptic terminals, synaptic boutons
+
+## Axons
+
+<div class="centered">
+<a href="http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/figure_07_02_labeled.jpg">
+<img src="http://droualb.faculty.mjc.edu/Course%20Materials/Physiology%20101/Chapter%20Notes/Fall%202007/figure_07_02_labeled.jpg" height=450px>
+</a>
+</div>
+
+## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal)
+
+- [Synapse](https://en.wikipedia.org/wiki/Chemical_synapse#Structure) (~5-10K per neuron) 
+- Presynaptic membrane (sending cell) and postsynaptic (receiving cell) membrane
+- Synaptic cleft -- space between cells
+- [Synaptic vesicles](https://en.wikipedia.org/wiki/Synaptic_vesicle)
+    + Pouches of neurotransmitters
+- [Autoreceptors](https://en.wikipedia.org/wiki/Autoreceptor) (detect NTs); [transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter) (transport NTs across membrane)
+
+## [Synaptic bouton (terminal button)](https://en.wikipedia.org/wiki/Axon_terminal)
+
+<div class="centered">
+<a href="http://antranik.org/wp-content/uploads/2012/04/synapse.jpg">
+<img src="http://antranik.org/wp-content/uploads/2012/04/synapse.jpg" height=450pix>
+</a>
+</div>
+
+## Classifying neurons
+
+- Functional role
+    + Input (sensory), output (motor/secretory), interneurons 
+- Anatomy
+    + Unipolar
+    + Bipolar
+    + Multipolar
+    
+## Classifying neurons
+
+- By specific anatomy
+    + Pyramidal cells
+    + Stellate cells 
+    + Purkinje cells 
+    + Granule cells
+
+## Neurons by type
+
+<div class="centered">
+<a href="http://blogs.scientificamerican.com/brainwaves/files/2012/05/selection-glamor-FINAL-300x225.jpg">
+<img src="http://blogs.scientificamerican.com/brainwaves/files/2012/05/selection-glamor-FINAL-300x225.jpg" height=450px>
+</a>
+</div>
+
+## Neural communication
+
+- Electrical
+    + Fast(er)
+    + Within neurons
+- Chemical
+    + Slow(er)
+    + Between neurons
+    
+## How are messages generated?
+
+- Electrical potential (== voltage)
+    + Think of potential energy
+    + Voltage ~ pressure
+    + Energy that will be released if something changes
+    
+## Potential energy
+
+<div class="centered">
+<a href="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
+<img src="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
+</a>
+</div>
+
+## Types of neural electrical potentials
+
+- [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+- [Action potential](https://en.wikipedia.org/wiki/Action_potential)
+
+## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+
+- Measurement
+    + Electrode on inside
+    + Electrode on outside
+    + Inside - Outside = potential
+    
+## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+</a>
+</div>
+
+## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+
+- Neuron (and other cells) have *potential energy*
+    + Inside neuron is -60-70 mV, with respect to outside
+    + About 1/20th typical AAA battery
+- Like charges repel, opposites attract, so
+    + Positively charged particles pulled in
+    + Negatively charged particles pushed out
+    
+## Where does the resting potential come from?
+
+- Ions
+- Ion channels
+- Separation between charges
+- A balance of forces
+
+## We are the champIONs, my friend
+
+- Potassium, K+
+- Sodium, Na+
+- Chloride, Cl-
+- Organic anions, A-
+
+## Party On
+
+- Annie (A-) was having a party.
+    + Used to date Nate (Na+), but now sees Karl (K+)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl and friends in or out, keep Nate out
+- Annie's friends (A-) and Karl's (K+) mostly inside
+- Nate and friends (Na+) mostly outside
+- Claudia (Cl-) tagging along
+
+## Party On
+
+<div class="centered">
+<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
+</div>
+
+## Next time
+
+- Neural communication

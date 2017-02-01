@@ -110,19 +110,19 @@ title: "Schedule"
 
 - Topics
     - Cells of the nervous system.
+    - Neurophysiology I
 - Assignment
     - Read W&B: 2:20-29.
-    
-### Wed, February 1
-
-- Topics
-    - Neurophysiology I.
-- Assignment
     - Read W&B 3:50-55.
-
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-02-01.html)
+    - [Rmd](lecture-notes/260-2017-02-01.Rmd)
+    - [PDF](lecture-notes/260-2017-02-01.pdf)
+    
 ### Fri, February 3
 
-- Neurophysiology II.
+- Topic
+    - Neurophysiology II.
 - Assignment
     - Read W&B 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
@@ -131,7 +131,11 @@ title: "Schedule"
 
 ### Mon, February 6
 
-- Exam 1 review
+- Topic
+    - Neurophysiology III
+    - Exam 1 review
+- Assignment
+    - Read W&B 3:59-69
 
 ### Wed, February 8
 
@@ -139,9 +143,7 @@ title: "Schedule"
 
 ### Fri, February 10
 
-- Neurophysiology III.
-- Assignment
-    - Read W&B 3:59-69
+- Neurophysiology IV
 
 ## Week 06, February 13-17
 
