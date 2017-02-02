@@ -126,6 +126,10 @@ title: "Schedule"
 - Assignment
     - Read W&B 3:55-59.
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
+- Lecture notes
+    - [HTML](lecture-notes/260-2017-02-03.html)
+    - [Rmd](lecture-notes/260-2017-02-03.Rmd)
+    - [PDF](lecture-notes/260-2017-02-03.pdf)
 
 ## Week 5, February 6-10
 

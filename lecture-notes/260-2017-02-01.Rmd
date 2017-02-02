@@ -109,9 +109,13 @@ output:
 ## Microglia
 
 <div class="centered">
-<a href="http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/vetter/vetterfig2011.jpg">
-<img src="http://www.bioscience.utah.edu/faculty/molecular-biology-faculty/vetter/vetterfig2011.jpg" height=450px>
+<a href="http://faculty.sites.uci.edu/kimgreen/bio/microglia-in-the-healthy-brain/">
+<img src="http://faculty.sites.uci.edu/kimgreen/files/2012/03/Lesion-mouse-NeuN-Iba-cool-DG-300x300.jpg" height=450px>
 </a>
+</div>
+
+<div class="notes">
+Microglia in red invading dentate gyrus.
 </div>
 
 ## [Neurons](https://en.wikipedia.org/wiki/Neuron)

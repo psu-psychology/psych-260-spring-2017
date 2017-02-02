@@ -1,0 +1,263 @@
+---
+title: "260-2017-02-03"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Measuring potentials in actual neurons
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/k48jXzFGMc8" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- The neuron at rest
+- The neuron in action
+
+## [Resting potential](https://en.wikipedia.org/wiki/Resting_potential)
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+</a>
+</div>
+
+----
+
+<div class="centered">
+<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
+</div>
+
+## Resting potential arises from
+
+- A balance of forces
+    + Force of diffusion
+    + Electrostatic force
+- Forces cause ion flows across membrane
+- Ion channels allow ion flow
+
+## Ion channels
+
+- Openings in neural membrane
+- Selective
+- Vary in permeability
+- Types
+    + Passive/leak
+    + Voltage-gated
+    + Ligand-gated (chemically-gated)
+    + Transporters/pumps
+    
+## Ion channels
+
+<div class="centered">
+<a href="http://www.zoology.ubc.ca/~gardner/F21-08.GIF">
+<img src="http://www.zoology.ubc.ca/~gardner/F21-08.GIF" width=800px>
+</a>
+</div>
+
+## Neuron at rest permeable to K+
+
+- Passive K+ channels open
+- K+ flows out
+
+## Force of diffusion
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png" height=450px>
+</a>
+</div>
+
+## Force of diffusion
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg" width=700px>
+</a>
+</div>
+
+## Neuron at rest permeable to K+
+
+- K+ outflow creates charge separation: K+ <-> A-
+- Organic anions (A-) to large to move outside of cell
+- Charge separation creates a voltage
+- Voltage prevents K+ from flowing back inside
+
+## The resting potential
+
+<div class="centered">
+<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
+</div>
+
+## Balance of forces in the neuron at rest
+
+- **Force of diffusion**
+    + K+ moves from high concentration (inside) to low (outside)
+    
+## Balance of forces in the neuron at rest
+
+- **Electrostatic force**
+    + Voltage build-up stops K+ outflow
+    + Specific voltage called *equilibrium potential* for K+
+    + K+ positive, so equilibrium potential negative (w/ respect to outside)
+    + Equilibrium potential close to neuron resting potential
+
+## Equilibrium potential and Nernst equation
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=700px>
+</a>
+</div>
+
+## Building on intution
+
+<div class="centered">
+<a href="http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg">
+<img src="http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg">
+</a>
+</div>
+
+## But, why is resting potential ≠ K+ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)?
+
+- K+ equilibrium potential: ~ -90 mV
+
+## Na+ role
+
+- Na+ concentrated **outside** neuron
+- Na+ has equilibrium potential ~ + 60 mV
+- Membrane at rest not very permeable to Na+
+- Some, but not much Na+ flows *in*
+- Equilibrium potential is positive (with respect to outside)
+
+## Resting potential
+
+- Net effects of ion flow across membrane
+- Goldman-Hodgkin-Katz equation
+
+<div class="centered">
+<a href="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
+<img src="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
+</a>
+</div>
+
+----
+
+<div class="centered">
+<img src="img/350px-Membrane_potential_ions_en.svg.png" height=450px>
+</div>
+
+## Electrical circuit model
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg">
+</a>
+</div>
+
+## Summary of forces
+
+| Ion | Concentration gradient | Electrostatic force | Permeability |
+|-----|------------------------|---------------------|--------------|
+| K+  | Inside >> Outside      | - (pulls K+ **in**)     | Higher       |
+| Na+ | Outside >> Inside      | - (pulls Na+ **in**)    | Lower        |
+
+## Party On
+
+- Annie (A-) was having a party.
+    + Used to date Nate (Na+), but now sees Karl (K+)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl and friends in or out, keep Nate out
+- Annie's friends (A-) and Karl's (K+) mostly inside
+- Nate and friends (Na+) mostly outside
+- Claudia (Cl-) tagging along
+
+## What happens if something changes?
+
+- Easier for Karl [K+] to exit?
+- Easier for Nate [Na+] to enter?
+- Some action!
+
+## Action potential
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px>
+</a>
+</div>
+ 
+## Action potential
+
+- Threshold of excitation
+- Increase (rising phase/depolarization)
+- Peak
+    + at positive voltage
+- Decline (falling phase/repolarization)
+- Return to resting potential (refractory period)
+
+## Action potential break-down
+
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Rise to threshold | + input makes membrane potential more + |
+| Rising phase      | Voltage-gated Na+ channels open, Na+ enters |
+| Peak              | Voltage-gated Na+ channels close and deactivate; voltage-gated K+ channels open |
+| Falling phase     | K+ exits |
+| Refractory period | Na+/K+ pump restores [Na+], [K+]; voltage-gated K+ channels close |
+
+## What's a [Na+/K+ pump](https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase)?
+
+- Enzyme (*Na+/K+ ATP-ase*) embedded in neuron membrane
+- Pumps Na+ and K+ *against* concentration gradients
+- Na+ out; K+ in
+- Uses [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate) or chemical energy
+
+## Example in another domain
+
+<div class="centered">
+<a href="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg">
+<img src="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg" height=500px>
+</a>
+</div>
+
+## Refractory periods
+
+- *Absolute*
+    + Cannot generate action potential (AP) no matter the size of the stimulus
+    + Voltage-gated Na+ channels inactivated, reactivate in time.
+- *Relative*
+    + Can generate AP with larg(er) stimulus
+    + Some voltage-gated K+ channels still open
+- Refractory periods put 'spaces' between APs
+
+## Generating APs
+
+- *Axon hillock*
+    + Portion of soma adjacent to axon
+    + Integrates/sums input to soma
+- *Axon initial segment*
+    + Umyelinated portion of axon adjacent to soma
+    + Voltage-gated Na+ and K+ channels exposed
+    + If sum of input to soma > threshold, voltage-gated Na+ channels open
+    
+## Axon hillock, axon initial segment
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png" height=450px>
+
+<a href="https://commons.wikimedia.org/wiki/File:Axon_Hillock.png#/media/File:Axon_Hillock.png">Axon Hillock</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:M.aljar3i&amp;action=edit&amp;redlink=1" class="new" title="User:M.aljar3i (page does not exist)">M.aljar3i</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>
+</div>
+    
+## Next time
+
+- How action potentials propagate
+- Review for Exam 1
