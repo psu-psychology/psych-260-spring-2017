@@ -6,12 +6,11 @@ title: "News"
 
 Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.
 
+- The purpose of sleep? To forget, scientists say. <https://www.nytimes.com/2017/02/02/science/sleep-memory-brain-forgetting.html>
+- Yokose, J., Okubo-Suzuki, R., Nomoto, M., Ohkawa, N., Nishizono, H., Suzuki, A., … Inokuchi, K. (2017). Overlapping memory trace indispensable for linking, but not recalling, individual memories. Science, 355(6323), 398–403. <https://doi.org/10.1126/science.aal2690>
 - Heavy alcohol use in adolescence alters brain electrical activity. <http://www.psypost.org/2017/01/study-heavy-alcohol-use-adolescence-alters-brain-electrical-activity-46952?utm_medium=email&utm_source=flipboard>. [Cited Paper](http://doi.org/10.1111/adb.12486)
-
 - Gene that enables memories, sense of direction produces schizophrenia-like symptoms when mutated. <http://www.psypost.org/2017/01/gene-enables-memories-sense-direction-produces-schizophrenia-like-symptoms-mutated-46977> #hippocampus #schizophrenia
-
 - How East and West Think in Profoundly Different Ways. <http://www.bbc.com/future/story/20170118-how-east-and-west-think-in-profoundly-different-ways?ocid=global_future_rss>
-
 - Sarel, A., Finkelstein, A., Las, L., & Ulanovsky, N. (2017). Vectorial representation of spatial goals in the hippocampus of bats. Science, 355(6321), 176–180. <https://doi.org/10.1126/science.aak9589>. #hippcampus #perception 
 
 - Han, W., Tellez, L. A., Rangel, M. J., Motta, S. C., Zhang, X., Perez, I. O., … Araujo, I. E. de. (2017). Integrated Control of Predatory Hunting by the Central Nucleus of the Amygdala. Cell, 168(1), 311–324.e18. https://doi.org/10.1016/j.cell.2016.12.027. 
@@ -65,7 +64,7 @@ Dr. Roberts-Galbraith uses planarians as a model organism to study brain regener
 
 "Epigenetics and the Long-term Effects of Nicotine on Learning and Hippocampus"
 
--->
+
 
 #### Dr. Patrick Drew (Penn State), January 20, 2017, 11:15 AM, 127 Noll Laboratory
 
@@ -84,6 +83,8 @@ Dr. Lur uses optical and electrophysiological approaches to study signaling in c
 #### Dr. Stephen Manuck (Pitt), January 30, 2017, 3:30 PM, 022 Biobehavioral Health Building
 
 "Can genes make men pugnacious?"
+
+-->
 
 #### Martin Picard, Ph.D. (Columbia), February 13, 2017, 3:30 PM, 005 BBH
 
