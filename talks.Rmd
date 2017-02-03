@@ -6,40 +6,27 @@ title: "News"
 
 Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.
 
+- Burdick, A. (2017). *Why Time Flies: A Mostly Scientific Investigation*. <https://www.amazon.com/Why-Time-Flies-Scientific-Investigation/dp/141654027X>. Review by L. Getlen in NY Post <http://nypost.com/2017/01/22/this-explorer-discovered-human-time-warp-by-living-in-a-cave/>
 - The purpose of sleep? To forget, scientists say. <https://www.nytimes.com/2017/02/02/science/sleep-memory-brain-forgetting.html>
 - Yokose, J., Okubo-Suzuki, R., Nomoto, M., Ohkawa, N., Nishizono, H., Suzuki, A., … Inokuchi, K. (2017). Overlapping memory trace indispensable for linking, but not recalling, individual memories. Science, 355(6323), 398–403. <https://doi.org/10.1126/science.aal2690>
 - Heavy alcohol use in adolescence alters brain electrical activity. <http://www.psypost.org/2017/01/study-heavy-alcohol-use-adolescence-alters-brain-electrical-activity-46952?utm_medium=email&utm_source=flipboard>. [Cited Paper](http://doi.org/10.1111/adb.12486)
 - Gene that enables memories, sense of direction produces schizophrenia-like symptoms when mutated. <http://www.psypost.org/2017/01/gene-enables-memories-sense-direction-produces-schizophrenia-like-symptoms-mutated-46977> #hippocampus #schizophrenia
 - How East and West Think in Profoundly Different Ways. <http://www.bbc.com/future/story/20170118-how-east-and-west-think-in-profoundly-different-ways?ocid=global_future_rss>
 - Sarel, A., Finkelstein, A., Las, L., & Ulanovsky, N. (2017). Vectorial representation of spatial goals in the hippocampus of bats. Science, 355(6321), 176–180. <https://doi.org/10.1126/science.aak9589>. #hippcampus #perception 
-
 - Han, W., Tellez, L. A., Rangel, M. J., Motta, S. C., Zhang, X., Perez, I. O., … Araujo, I. E. de. (2017). Integrated Control of Predatory Hunting by the Central Nucleus of the Amygdala. Cell, 168(1), 311–324.e18. https://doi.org/10.1016/j.cell.2016.12.027. 
-
 - Neuroscience Can’t Explain How an Atari Works. <https://www.technologyreview.com/s/603362/neuroscience-cant-explain-how-an-atari-works/>. #computation
-
 - The Health Effects of Cannabis and Cannabinoids: 
 The Current State of Evidence and Recommendations for Research (2017). National Academy of Sciences Engineering and Medicine. <https://www.nap.edu/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state>. #cannabinoids
-
 - Bacteria Send Electrical Pulses as Recruitment Ads. <https://www.theatlantic.com/science/archive/2017/01/bacteria-electrical-pulse/512825/> #electricalcommunication
-
 - Keep Your Eye on the Balls to Become a Better Athlete. <https://www.nytimes.com/2017/01/04/sports/neurotracker-athletic-performance.html>. #vision
-
 - A Break in the Search for the Origin of Complex Life. <https://www.theatlantic.com/science/archive/2017/01/our-origins-in-asgard/512645/>. #evolution
-
 - Coming out of electroshock therapy. <https://www.theatlantic.com/notes/2017/01/ect/512102/>. #depression #bipolar #ect
-
 - Toddler temperament could be influenced by different types of gut bacteria. <https://www.sciencedaily.com/releases/2015/05/150527091438.htm>. #microbiome #development
-
 - What Happened Within This Player's Skull. <http://www.nytimes.com/interactive/2017/01/09/sports/football/what-happened-within-this-players-skull-football-concussions.html?_r=0>. #concussion
-
 - Kim, A. J., Fenk, L. M., Lyu, C., & Maimon, G. (2017). Quantitative Predictions Orchestrate Visual Signaling in Drosophila. Cell, 0(0). <https://doi.org/10.1016/j.cell.2016.12.005>. #perception
-
 - Gomez, J., Barnett, M. A., Natu, V., Mezer, A., Palomero-Gallagher, N., Weiner, K. S., … Grill-Spector, K. (2017). Microstructural proliferation in human cortex is coupled with the development of face processing. Science, 355(6320), 68–71. <https://doi.org/10.1126/science.aag0311>. [NPR story](http://www.npr.org/sections/health-shots/2017/01/05/508237061/brain-area-that-recognizes-faces-gets-bigger-and-better-in-young-adults) #adolescence #structuralMRI
-
 - Westlye, L. T., Kaufmann, T., Alnæs, D., Hullstein, I. R., & Bjørnebekk, A. (2017). Brain connectivity aberrations in anabolic-androgenic steroid users. NeuroImage: Clinical, 13, 62–69. <https://doi.org/10.1016/j.nicl.2016.11.014>. #connectivity
-
 - Meyniel, F., Goodwin, G. M., Deakin, J. W., Klinge, C., MacFadyen, C., Milligan, H., … Gaillard, R. (2016). A specific role for serotonin in overcoming effort cost. eLife, 5, e17282. <https://doi.org/10.7554/eLife.17282>. #reward
-
 - Seelye, K. Q. (2016, December 31). Kitty Dukakis, a Beneficiary of Electroshock Therapy, Emerges as Its Evangelist. The New York Times. Retrieved from <http://www.nytimes.com/2016/12/31/us/kitty-dukakis-electroshock-therapy-evangelist.html>. #depression #ect
 
 ### Neuro talks @ PSU
