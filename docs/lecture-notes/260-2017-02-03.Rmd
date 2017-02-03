@@ -66,6 +66,7 @@ output:
 ## Neuron at rest permeable to K+
 
 - Passive K+ channels open
+- [K+] concentration inside >> outside
 - K+ flows out
 
 ## Force of diffusion
@@ -86,10 +87,12 @@ output:
 
 ## Neuron at rest permeable to K+
 
-- K+ outflow creates charge separation: K+ <-> A-
 - Organic anions (A-) to large to move outside of cell
+- A- and K+ largely in balance == no net internal charge
+- K+ outflow creates charge separation: K+ <-> A-
 - Charge separation creates a voltage
-- Voltage prevents K+ from flowing back inside
+- Outside +/inside -
+- Voltage build-up stops outflow of K+
 
 ## The resting potential
 
@@ -118,7 +121,7 @@ output:
 </a>
 </div>
 
-## Building on intution
+## Building on intuition
 
 <div class="centered">
 <a href="http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg">
@@ -126,28 +129,42 @@ output:
 </a>
 </div>
 
-## But, why is resting potential ≠ K+ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)?
+## [Equilibrium potentials calculated](http://www.physiologyweb.com/calculators/nernst_potential_calculator.html) under typical conditions
 
-- K+ equilibrium potential: ~ -90 mV
+| Ion | [inside]  | [outside]    | Voltage    |
+|-----|-----------|--------------|------------|
+| K+  | ~150 mM   | ~4 mM        | ~ -90 mV    |
+| Na+ | ~10 mM    | ~140 mM      | ~ +55-60 mV |
+| Cl- | ~10 mM    | ~110 mM      | - 65-80 mV  |
 
-## Na+ role
+<div class="centered">
+<a href="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=400px>
+</a>
+</div>
 
-- Na+ concentrated **outside** neuron
-- Na+ has equilibrium potential ~ + 60 mV
-- Membrane at rest not very permeable to Na+
-- Some, but not much Na+ flows *in*
-- Equilibrium potential is positive (with respect to outside)
+## Resting potential ≠ K+ [equilibrium potential](https://courses.washington.edu/conj/membpot/equilpot.htm)
 
-## Resting potential
+- Resting potential not just due to K+
+- Other ions flow
+- Resting potential == net effects of all ion flows across membrane
 
-- Net effects of ion flow across membrane
-- Goldman-Hodgkin-Katz equation
+## Goldman-Hodgkin-Katz equation
 
 <div class="centered">
 <a href="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
 <img src="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
 </a>
 </div>
+
+## Na+ role
+
+- Na+ concentrated **outside** neuron
+- Membrane at rest not very permeable to Na+
+- Some, but not much Na+ flows *in*
+- Na+ has equilibrium potential ~ + 60 mV
+- Equilibrium potential is positive (with respect to outside)
+- Would need positive interior to keep Na+ from flowing in
 
 ----
 
