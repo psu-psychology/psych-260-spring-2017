@@ -243,7 +243,7 @@ output:
 - Ca++ Imaging
 - EEG
 
-## Which of these of techniques relays on the hemodynamic response function in order to draw conclusions about brain activity?
+## Which of these of techniques relies on the hemodynamic response function (HRF) in order to draw conclusions about brain activity?
 
 - <span class="red">fMRI</span>
 - PET
