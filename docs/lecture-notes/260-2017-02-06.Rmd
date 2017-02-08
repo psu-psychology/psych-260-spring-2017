@@ -48,6 +48,27 @@ output:
 </a>
 </div>
 
+## Action potential and driving forces
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px>
+</a>
+</div>
+
+## Rising phase
+
+- Membrane permeability to Na+ increases
+- Na+ inflow
+- Na+ driving force (toward +55 mV) dominant
+
+## Falling phase
+
+- High Na+ permeability ends
+- Permeability to K+ increases
+- K+ outflow
+- K+ driving force (toward -90 mV) dominant
+
 ## AP propagation
 
 - Propagation
