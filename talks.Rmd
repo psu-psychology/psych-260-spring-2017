@@ -2,7 +2,7 @@
 title: "News"
 ---
 
-### Neuroscience in the news
+### News
 
 Neuroscience is a rapidly developing field. I will post neuroscience-related news items here from time to time.
 
@@ -29,7 +29,7 @@ The Current State of Evidence and Recommendations for Research (2017). National 
 - Meyniel, F., Goodwin, G. M., Deakin, J. W., Klinge, C., MacFadyen, C., Milligan, H., … Gaillard, R. (2016). A specific role for serotonin in overcoming effort cost. eLife, 5, e17282. <https://doi.org/10.7554/eLife.17282>. #reward
 - Seelye, K. Q. (2016, December 31). Kitty Dukakis, a Beneficiary of Electroshock Therapy, Emerges as Its Evangelist. The New York Times. Retrieved from <http://www.nytimes.com/2016/12/31/us/kitty-dukakis-electroshock-therapy-evangelist.html>. #depression #ect
 
-### Neuro talks @ PSU
+### Talks
 
 This is a list of talks that students may wish to attend. *Attendance is not required, however*. Reports on the talks could serve as the basis of one or more blog posts or a paper.
 
@@ -75,7 +75,11 @@ Dr. Lur uses optical and electrophysiological approaches to study signaling in c
 
 #### Martin Picard, Ph.D. (Columbia), February 13, 2017, 3:30 PM, 005 BBH
 
-"Stress and health from organelle to organism: A mitochondrial perspective""
+"Stress and health from organelle to organism: A mitochondrial perspective"
+
+#### Pablo Ariel Celnik, M.D. (Johns Hopkins Hospital), February 17, 2017, 3:45 pm to 5:00 pm, 127 Noll Lab
+
+"Neurophysiological Mechanisms Underlying Different Motor Learning Processes in Humans"
 
 #### Christopher Coe, Ph.D. (U Wisconsin), February 27, 2017, 3:30 PM, 005 BBH
 
