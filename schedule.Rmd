@@ -13,7 +13,7 @@ title: "Schedule"
     - Review <https://en.wikipedia.org/wiki/Systems_theory>
 - Lecture notes
     - [HTML](lecture-notes/260-2017-01-09.html)
-    - [Markdown](lecture-notes/260-2017-01-09.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-01-09.md)
     - [PDF](lecture-notes/260-2017-01-09.pdf)
 
 ### Wed, Jan 11
@@ -24,7 +24,7 @@ title: "Schedule"
    - Scan: <https://faculty.washington.edu/chudler/hist.html>
 - Lecture notes
     - [HTML](lecture-notes/260-2017-01-11.html)
-    - [Markdown](lecture-notes/260-2017-01-11.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-01-11.md)
     - [PDF](lecture-notes/260-2017-01-11.pdf)
 
 ### Fri, Jan 13
@@ -37,7 +37,7 @@ title: "Schedule"
         - [Grillner, Kozlov, Kotaleski (2005)](http://www.ncbi.nlm.nih.gov/pubmed/16146688).
 - Lecture notes
     - [HTML](lecture-notes/260-2017-01-13.html)
-    - [Markdown](lecture-notes/260-2017-01-13.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-01-13.md)
     - [PDF](lecture-notes/260-2017-01-13.pdf)
 
 ## Week 2, January 16-20
@@ -54,7 +54,7 @@ title: "Schedule"
     - Optional: <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 - Lecture notes
     - [HTML](lecture-notes/260-2017-01-18.html)
-    - [Markdown](lecture-notes/260-2017-01-18.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-01-18.md)
     - [PDF](lecture-notes/260-2017-01-18.pdf)
 
 ### Fri, January 20
@@ -65,7 +65,7 @@ title: "Schedule"
     - Read W&B: 2:30-43.
 - Lecture notes
     - [HTML](lecture-notes/260-2017-01-20.html)
-    - [Markdown](lecture-notes/260-2017-01-20.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-01-20.md)
     - [PDF](lecture-notes/260-2017-01-20.pdf)
 
 ## Week 3, January 23-27
@@ -92,7 +92,7 @@ title: "Schedule"
     - Read W&B: 2:20-29.
 - Lecture notes
     - [HTML](lecture-notes/260-2017-01-20.html)
-    - [Markdown](lecture-notes/260-2017-01-20.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-01-20.md)
     - [PDF](lecture-notes/260-2017-01-20.pdf)
 
 ## Week 4, January 30 - February 3
@@ -103,7 +103,7 @@ title: "Schedule"
     + Neuroanatomy III
 - Lecture notes
     - [HTML](lecture-notes/260-2017-01-30.html)
-    - [Markdown](lecture-notes/260-2017-01-30.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-01-30.md)
     - [PDF](lecture-notes/260-2017-01-30.pdf)
 
 ### Wed, February 1
@@ -116,7 +116,7 @@ title: "Schedule"
     - Read W&B 3:50-55.
 - Lecture notes
     - [HTML](lecture-notes/260-2017-02-01.html)
-    - [Markdown](lecture-notes/260-2017-02-01.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-01.md)
     - [PDF](lecture-notes/260-2017-02-01.pdf)
     
 ### Fri, February 3
@@ -128,7 +128,7 @@ title: "Schedule"
     - Watch <https://www.youtube.com/embed/PtKAeihnbv0>
 - Lecture notes
     - [HTML](lecture-notes/260-2017-02-03.html)
-    - [Markdown](lecture-notes/260-2017-02-03.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-03.md)
     - [PDF](lecture-notes/260-2017-02-03.pdf)
 
 ## Week 5, February 6-10
@@ -142,11 +142,11 @@ title: "Schedule"
     - Read W&B 3:59-69
 - Lecture notes
     - [HTML](lecture-notes/260-2017-02-06.html)
-    - [Markdown](lecture-notes/260-2017-02-06.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-06.md)
     - [PDF](lecture-notes/260-2017-02-06.pdf)
 - Exam 1 Study Guide
     - [HTML](lecture-notes/exam-1-study-guide.html)
-    - [Markdown](lecture-notes/exam-1-study-guide.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/exam-1-study-guide.md)
     - [PDF](lecture-notes/exam-1-study-guide.pdf)
 
 ### Wed, February 8
@@ -158,7 +158,7 @@ title: "Schedule"
 - Neurophysiology IV
 - Lecture notes
     - [HTML](lecture-notes/260-2017-02-10.html)
-    - [Markdown](lecture-notes/260-2017-02-10.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-10.md)
     - [PDF](lecture-notes/260-2017-02-10.pdf)
 
 ## Week 06, February 13-17
@@ -168,6 +168,9 @@ title: "Schedule"
 - Neurochemistry I.
 - Assignment
     -  Read W&B 4:82-86.
+    - [HTML](lecture-notes/260-2017-02-13.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-13.md)
+    - [PDF](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-13.pdf)
 
 ### Wed, February 15
 
