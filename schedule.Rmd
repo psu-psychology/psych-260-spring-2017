@@ -170,11 +170,16 @@ title: "Schedule"
     -  Read W&B 4:82-86.
     - [HTML](lecture-notes/260-2017-02-13.html)
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-13.md)
-    - [PDF](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-13.pdf)
+    - [PDF](lecture-notes/260-2017-02-13.pdf)
 
 ### Wed, February 15
 
 - Neurochemistry II.
+- Assignment
+    -  Read W&B 4:82-86.
+    - [HTML](lecture-notes/260-2017-02-16.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-16.md)
+    - [PDF](lecture-notes/260-2017-02-16.pdf)
 
 ### Fri, February 17
 
