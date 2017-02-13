@@ -114,7 +114,7 @@ output:
 - Autonomic nervous system
     + Sympathetic branch: preganglionic neuron
     + Parasympathetic branch: pre/postganglionic
-- Inactivation by acetylcholinesterase (ACh)
+- Inactivation by acetylcholinesterase (AChE)
     
 ## ACh anatomy {.smaller}
 
@@ -248,10 +248,11 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
     + postganglionic sympathetic neurons onto target tissues
 - Role in arousal, mood, eating, sexual behavior
 
-## NE and Monoamine oxidase inhibitors (MAOIs)
+## NE and monoamine oxidase
 
-- inactivate monoamines in neurons, astrocytes
-- MAOIs increase NE, DA
+- Monoamine oxidase inactivates monoamines in neurons, astrocytes
+- <span class="red>Monoamine oxidase inhibitors (MAOIs)</span> *increase* NE, DA
+    + Inhibiting inactivation ~ `-(-1) = + 1`
 - Treatment for depression, but have side effects
     
 ## NE Anatomy
@@ -268,6 +269,8 @@ Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do
 |--------------|----------------------|------------------------------------|
 | Metabotropic | $\alpha$ (1,2)       | antagonists treat anxiety, panic   |
 |              | $\beta$ (1,2,3)      | 'beta blockers' in cardiac disease |
+
+<!-- Stopped here 2017-02-13 -->
 
 ## Serotonin (5-HT)
 
