@@ -14,7 +14,7 @@ title: "Evaluation"
 | | **TOTAL POINTS POSSIBLE** | 165 |
 | Extra Credit | There may be extra credit opportunities provided at random and unannounced times during the semester. Come to class in order to benefit from them.| |
 
-[Data about recent performance in previous years](grades/analysis.pdf)
+### [Score histograms](grades.html) for this term
 
 ### Grading Scheme
 

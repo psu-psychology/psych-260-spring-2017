@@ -1,0 +1,52 @@
+---
+title: "Grades"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(dplyr)
+```
+
+## [Quiz 1](quiz/psych-260-quiz-1-ans.pdf)
+
+```{r quiz-1-files, include=FALSE}
+quiz.1 <- read.csv(file = "grades/csv/Canvas Report - Exam 6928 - Section17621.csv", skip = 2, header=FALSE)
+names(quiz.1) <- c("student", "id", "email", "section", "points")
+
+pts.poss = 10
+pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 150)
+grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+quiz.1$grade <- cut(x = quiz.1$points, 
+                    breaks = pts.poss*pct/100, 
+                    labels = grades, 
+                    right = FALSE)
+```
+
+```{r quiz-1 histogram, message=FALSE, echo=FALSE}
+quiz.1 %>%
+  ggplot() +
+  geom_histogram(mapping = aes(x=points, fill=grade))
+```
+
+## [Exam 1](exam/psych-260-exam-1-ans.pdf)
+
+```{r import-files, include=FALSE}
+exam.1 <- read.csv(file = "grades/csv/Canvas Report - Exam 7116 - Section17621.csv", skip = 2, header=FALSE)
+names(exam.1) <- c("student", "id", "email", "section", "points")
+
+pts.poss = 40
+pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 120)
+grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+exam.1$grade <- cut(x = exam.1$points, 
+                    breaks = pts.poss*pct/100, 
+                    labels = grades, 
+                    right = FALSE)
+```
+
+```{r exam-1 histogram, message=FALSE, echo=FALSE}
+exam.1 %>%
+  ggplot() +
+  geom_histogram(mapping = aes(x=points, fill=grade))
+```
