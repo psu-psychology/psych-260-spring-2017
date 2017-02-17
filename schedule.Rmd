@@ -185,6 +185,9 @@ title: "Schedule"
 
 - **Quiz 2**.
 - Exam 1 returned. [Answer key](exam/psych-260-exam-1-ans.pdf). [Score histogram](grades.html).
+    - [HTML](lecture-notes/260-2017-02-17.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-17.md)
+    - [PDF](lecture-notes/260-2017-02-17.pdf)
 
 ## Week 07, February 20-24
 
@@ -193,6 +196,9 @@ title: "Schedule"
 - Hormones and the brain
 - Assignment
     - Read W&B 8:208-226
+    - [HTML](lecture-notes/260-2017-02-20.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-20.md)
+    - [PDF](lecture-notes/260-2017-02-20.pdf)
 
 ### Wed, February 22
 
