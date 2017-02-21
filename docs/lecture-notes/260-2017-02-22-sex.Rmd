@@ -44,6 +44,30 @@ knitr::opts_chunk$set(echo = FALSE)
 - Melatonin
 - <span class="red">Adrenocorticotropic hormone (ACTH)</span>
 
+## All of the following are components of the SAM axis, *EXCEPT*:
+
+- Midbrain.
+- Sympathetic nervous system.
+- Adrenal medulla.
+- Hypothalamus.
+
+## All of the following are components of the SAM axis, *EXCEPT*:
+
+- <span class="red">Midbrain</span>.
+- Sympathetic nervous system.
+- Adrenal medulla.
+- Hypothalamus.
+
+---
+
+<a href="http://www.nature.com/nrn/journal/v10/n6/full/nrn2647.html">
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v10/n6/images/nrn2647-i1.jpg" height=450px>
+</a>
+
+[[@ulrich-lai_neural_2009]](http://doi.org/10.1038/nrn2647)
+</div>
+
 ## Factors influencing sexual development
 
 <div class="centered">
