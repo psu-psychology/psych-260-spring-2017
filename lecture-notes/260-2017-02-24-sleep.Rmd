@@ -1,0 +1,263 @@
+---
+title: "260-2017-02-24-sleep"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-DmAh0dObI" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Biological rhythms
+- To sleep, perchance to dream...
+
+## ￼I got rhythm...
+
+- Rhythms operate at multiple time scales 
+- Ultradian (> 1x day)
+    + 90-110 min cycles of heart rate, day dreaming
+- Circadian
+    + Diurnal vs. noctural
+
+## ￼Biological rhythms
+
+- Infradian (< 1x day)
+    + Menstrual or estrus cycles
+    + Circannual
+ 
+## Factors influencing rhythms
+
+- ￼Endogenous factors
+    + Internal oscillator or “clock”
+    + “Free-running” 
+- Exogenous factors
+    + “Zeitgeber” or “time-givers” reset clock (entrainment)
+    + Or, independent of clock
+
+## ￼Mechanisms of biological timekeeping
+
+- Endogenous
+    + Cellular, neural oscillators
+    + Genetic, hormonal variations 
+- Exogenous (external to organism)
+    + Light
+    + Temperature
+    + Sound
+
+## ￼Physiological mechanisms
+
+- Pineal gland & melatonin
+- Suprachiasmatic nucleus (SCN) of the hypothalamus
+
+## SCN Figure
+
+<div class="centered">
+<img src="http://thebrain.mcgill.ca/flash/a/a_11/a_11_cr/a_11_cr_hor/a_11_cr_hor_1a.jpg" height=450px>
+
+<http://thebrain.mcgill.ca/flash/a/a_11/a_11_cr/a_11_cr_hor/a_11_cr_hor_1a.jpg>
+</div>
+
+## ￼Pineal gland & melatonin 
+
+- Pineal gland
+    + Input from SCN via sympathetic NS
+- Melatonin
+    + Secretion peaks at bedtime
+    + Controls hibernation in some species
+
+## Pineal gland figure
+
+<div class="centered">
+<img src="http://images.radiopaedia.org/images/545341/8d9cf624be6236441fd0afcaecb18a.jpg" height=450px>
+
+<http://images.radiopaedia.org/images/545341/8d9cf624be6236441fd0afcaecb18a.jpg>
+</div>
+
+## Sleep
+
+- The structure of sleep
+- The neuroscience of sleep
+- Why do we sleep?
+
+## Structure of sleep
+
+- cyclic, has phases
+- 90-110 min cycles
+
+## Sleep structure figure
+
+<div class="centered">
+<img src="http://www.nature.com/nature/journal/v497/n7450_supp/images/497S2a-f1.2.jpg" height=450px>
+
+[[@peplow2013structure]](http://dx.doi.org/10.1038/497S2a)
+</div>
+
+## Sleep phases
+
+<div class="centered">
+<img src="http://www.nature.com/nature/journal/v497/n7450_supp/images/497S2a-f2.2.jpg" height=450px>
+
+[[@peplow2013structure]](http://dx.doi.org/10.1038/497S2a)
+</div>
+
+## Neuroscience of sleep
+
+- Electroencephalogram (EEG) evidence
+- EEG frequency bands
+    + Delta: 1-4 Hz
+    + Theta: 4-8 Hz
+    + Alpha: 8-12 Hz
+    + Beta: 13-30 Hz
+    + Gamma: >30-50 Hz
+    
+## Sleep stages and EEG
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/11768/fnsys-05-00073-r2/image_m/fnsys-05-00073-g001.jpg" height=450px>
+
+[[@klemm2011does]](http://doi.org10.3389/fnsys.2011.00073)
+</div>
+
+## Awake state
+
+- EEG
+    + Low amplitude
+    + High frequency
+- Beta band: attentive state
+- Alpha band: quiet rest
+
+## Stage 1 and 2
+
+- Stage 1
+    + Drowsy, don’t feel asleep 
+    + Theta wave
+- Stage 2
+    + Sleep spindles (12-14 Hz bursts)
+    + K complexes
+
+## ￼￼Slow-wave sleep (Stages 3 & 4)
+
+- EEG
+    + Synchronized
+    + Delta wave (1-4 Hz)
+- Groggy if awoken
+- Rarely report vivid dreaming
+
+## Sleep EEG figure
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v3/n9/images/nrn915-f3.gif" height=450px>
+
+[[@hobson2002cognitive]](http://dx.doi.org/10.1038/nrn915)
+</div>
+
+## Rapid Eye Movement (REM) Sleep
+
+- ~ 20% of sleep
+- Desynchronized EEG 
+    + Similar to Stage 1
+
+## ￼More on REM sleep
+
+- Muscular paralysis except eyes 
+- Vivid dream state
+- Cortex activity > awake state
+- “Paradoxical” sleep
+
+## REM sleep atonia circuit
+
+<div class="centered">
+<img src="http://www.nature.com/neuro/journal/v13/n12/images/nn1210-1448-F1.jpg" height=450px>
+
+[[@mcgregor2010illuminating]](http://dx.doi.org/10.1038/nn1210-1448)
+</div>
+
+## Brain systems and sleep
+
+- Basal forebrain
+    + Induces slow-wave sleep via GABA release?
+- Hypothalamus
+    + Coordinates between other areas
+    + Orexin/hypocretin
+- Thalamus
+    + Reticular nucleus
+    
+## Thalamocortical circuits
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v3/n9/images/nrn915-f2.gif" height=450px>
+
+[[@hobson2002cognitive]](http://dx.doi.org/10.1038/nrn915)
+</div>
+
+## Other structures and their functions
+
+- Pons
+    + Triggers REM sleep
+    + NE projection from Locus Coeruleus
+    + Induces muscle atonia via strong GABA, glycine activation
+
+## Inducing sleep
+
+<div class="centered">
+<img src="http://www.nature.com/nature/journal/v497/n7450_supp/images/497S2a-f4.2.jpg" height=450px>
+
+[[@peplow2013structure]](http://dx.doi.org/10.1038/497S2a)
+</div>
+
+## Sleep and development
+
+- Sleeping like a baby
+    + Babies sleep 70% of the time
+    + Mostly in REM
+    + But, no stable pattern before 3.5-4 mos
+- Sleep disorders common in elderly
+
+## Sleep and development
+
+<div class="centered">
+<img src="http://www.nature.com/nature/journal/v497/n7450_supp/images/497S2a-f3.2.jpg" height=450px>
+
+[[@peplow2013structure]](http://dx.doi.org/10.1038/497S2a)
+</div>
+
+## ￼￼Sleeping around the animal kingdom
+
+- ￼Highly variable patterns
+- Mammals and birds show SWS & REM
+
+## ￼Why do we sleep?
+
+- Animals with higher metabolic rate -> more sleep
+- Avoid predators
+- Conserve energy
+- Restore body
+    + Growth hormones released, but
+    + Amount of exercise unrelated to sleep duration
+- Consolidate learning & memory
+
+## Sleep, Learning & Memory
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v11/n2/images/nrn2762-f1.jpg" height=450px>
+
+[[@diekelmann2010memory]](http://dx.doi.org/10.1038/nrn2762)
+</div>
+
+## Main points
+
+- Sleep -- Get some!
+- Your brain needs it
+
+## References {.smaller}

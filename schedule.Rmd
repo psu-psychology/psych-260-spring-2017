@@ -205,6 +205,9 @@ title: "Schedule"
 - Your brain on sex
 - Assignment
     - Read W&B 8:226-253
+    - [HTML](lecture-notes/260-2017-02-22-sex.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-22-sex.md)
+    - [PDF](lecture-notes/260-2017-02-22-sex.pdf)
 
 ### Fri, February 24
 <!-- Einat out. -->
@@ -212,6 +215,9 @@ title: "Schedule"
 - Assignment
     - Read W&B 10:278-308.
     - **1st blog post due**.
+    - [HTML](lecture-notes/260-2017-02-24-sleep.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-24-sleep.md)
+    - [PDF](lecture-notes/260-2017-02-24-sleep.pdf)
     
 ## Week 8, February 27 - March 3
 
