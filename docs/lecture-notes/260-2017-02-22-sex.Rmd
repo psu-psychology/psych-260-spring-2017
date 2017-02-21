@@ -1,16 +1,16 @@
 ---
-title: "260-2016-10-05-sex"
+title: "260-2017-02-22-sex"
 author: "Rick Gilmore"
 date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
 output:
   ioslides_presentation:
-    css: css/gilmore.css
-    incremental: false
-    widescreen: true
-  html_document:
-    keep_md: true
-    self_contained: false
-bibliography: bib/bibliography.bib
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
 ---
 
 ```{r setup, include=FALSE}
@@ -23,76 +23,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Today's topics
 
-- Wrap-up on hormones
 - Your brain on sex
-
-## Case 1: Reponses to threat or challenge
-
-<div class="centered">
-<img src="http://archive.cnx.org/resources/8db70bfd813df0dc99a51d563a59b4cf8abe690d/Stress_Response.jpg" height=450px>
-</div>
-
-## Case 1: Responses to threat or challenge
-
-- Neural response
-    + *Sympathetic Adrenal Medulla (SAM) response*
-    + Sympathetic NS activation of adrenal medulla, other organs
-    + Releases NE and Epi
-
-## Case 1: Responses to threat or challenge
-
-- Endocrine response
-    + *Hypothalamic Pituitary Adrenal (HPA) axis*
-    + Adrenal hormones released
-- Hypothalamus
-    + *Corticotropin Releasing Hormone (CRH)*
-- Anterior pituitary
-    + *Adrenocorticotropic hormone (ACTH)*
-    
-## Case 1: Responses to threat or challenge
-
-- Adrenal cortex
-    + *Glucocorticoids (e.g., cortisol)*
-    + *Mineralocorticoids (e.g. aldosterone)*
-
-## ￼Adrenal hormones
-
-- *Steroids*
-    + Derived from cholesterol
-- *Cortisol*
-    + increases blood glucose, anti-inflammatory
-    + negative consequences of prolonged exposure 
-- *Aldosterone*
-    + Regulates Na (and water) retention in kidneys
-    
-## Case 2: Reproductive behavior -- the milk letdown reflex
-
-- Hypothalamus releases oxytocin into posterior pituitary
-- Targets milk ducts in breast tissue
-
-## Milk letdown reflex
-
-<div class="centered">
-<a href="https://my.bpcc.edu/content/blgy225/Endocrine/Prolactin.jpg">
-<img src="https://my.bpcc.edu/content/blgy225/Endocrine/Prolactin.jpg" height=450px>
-</a>
-</div>
-
-## Oxytocin's role
-
-- Sexual arousal
-- Released in bursts during orgasm
-- Stimulates uterine, vaginal contraction
-- Links to social interaction, bonding  [[@Weisman2013158]](http://dx.doi.org/10.1016/j.biopsych.2013.05.026)
-- Alters face processing in autism  [[@Domes2013164]](http://dx.doi.org/10.1016/j.biopsych.2013.02.007)
-
-## Oxytocin
-
-<div class="centered">
-<a href="http://columbusfreepress.com/sites/default/files/keep-calm-and-release-oxytocin-2(1).png">
-<img src="http://columbusfreepress.com/sites/default/files/keep-calm-and-release-oxytocin-2(1).png" height=500px>
-</a>
-</div>
 
 ## Sex and the brain
 
@@ -111,7 +42,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - Oxytocin
 - Vasopressin
 - Melatonin
-- **Adrenocorticotropic hormone (ACTH)**
+- <span class="red">Adrenocorticotropic hormone (ACTH)</span>
 
 ## Factors influencing sexual development
 
@@ -121,9 +52,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Hormones have
 
-- Organizing effects
+- *Organizing* effects
     - Influence sexual development
-- Activating effects
+- *Activating* effects
     - Influence sexual behavior
 - But sexuality in humans is complex
 
@@ -146,7 +77,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - outward signs of estrous (i.e. higher body temperature, breast swelling, sugar cravings, etc.) less obvious
 - copulate throughout the reproductive cycle, not just at estrous
-- after ejaculation/orgasm in males and females, oxytocin release  has sedative effect
+- after ejaculation/orgasm in males and females, oxytocin release has sedative effect
 - sex in multiple positions
 - couples live in large social groups
 
@@ -184,9 +115,17 @@ knitr::opts_chunk$set(echo = FALSE)
 [[@joel_sex_2015]](http://doi.org/10.1073/pnas.1509654112)
 </div>
 
-## Male and female brain *structures* similar {.smaller}
+## Male and female brain *structures* similar
 
-*Consistent with previous findings (14, 15), our analysis of the structure of the human brain, which included most regions of gray and white matter, as well as measures of connectivity, revealed many nondimorphic group-level sex/gender differences in brain structure. There was extensive overlap of the distributions of females and males for all brain regions and connections assessed, irrespective of the type of sample, measure, or analysis (including analysis of absolute brain volumes). This extensive overlap undermines any attempt to distinguish between a “male” and a “female” form for specific brain features...*
+*Consistent with previous findings (14, 15), our analysis of the structure of the human brain, which included most regions of gray and white matter, as well as measures of connectivity, revealed many nondimorphic group-level sex/gender differences in brain structure. There was extensive overlap of the distributions of females and males for all brain regions and connections assessed, irrespective of the type of sample, measure, or analysis (including analysis of absolute brain volumes)...*
+
+[[@joel_sex_2015]](http://doi.org/10.1073/pnas.1509654112)
+
+---
+
+*This extensive overlap undermines any attempt to distinguish between a “male” and a “female” form for specific brain features...*
+
+[[@joel_sex_2015]](http://doi.org/10.1073/pnas.1509654112)
 
 ## But, different connectivity patterns?
 
@@ -198,9 +137,22 @@ knitr::opts_chunk$set(echo = FALSE)
 [[@ingalhalikar_sex_2014]](http://doi.org/10.1073/pnas.1316909110)
 </div>
 
+---
+
+*Sex differences are of high scientific and societal interest because of their prominence in behavior of humans and nonhuman species. This work is highly significant because it studies a very large population of 949 youths (8–22 y, 428 males and 521 females) using the diffusion-based structural connectome of the brain, identifying novel sex differences. <span class="red">The results establish that male brains are optimized for intrahemispheric and female brains for interhemispheric communication</span>...*
+
+[[@ingalhalikar_sex_2014]](http://doi.org/10.1073/pnas.1316909110)
+
+---
+
+*The developmental trajectories of males and females separate at a young age, demonstrating wide differences during adolescence and adulthood. The observations suggest that male brains are structured to facilitate connectivity between perception and coordinated action, whereas female brains are designed to facilitate communication between analytical and intuitive processing modes.*
+
+[[@ingalhalikar_sex_2014]](http://doi.org/10.1073/pnas.1316909110)
+
 ## Different sizes in hypothalamic nuclei
 
 - Sexually dimorphic nucleus of the hypothalamus
+    + *Dimorphic* means two forms
 - Males >> females
 - Controls male sexual behavior
 
