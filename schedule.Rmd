@@ -86,7 +86,7 @@ title: "Schedule"
 
 - Topic
     - Neuroanatomy II.
-    - **Quiz 1**. [Answer Key](quiz/psych-260-quiz-1-ans.pdf)
+    - **Quiz 1**. [Answer Key](quiz/psych-260-quiz-1-ans.pdf). [Score histogram](grades.html#quiz-1)
 - Assignment
     - Read W&B: 2:30-43.
     - Read W&B: 2:20-29.
@@ -151,7 +151,7 @@ title: "Schedule"
 
 ### Wed, February 8
 
-- **Exam 1**.
+- **Exam 1**. [Answer Key](exam/psych-260-exam-1.ans.pdf). [Score Distribution](grades.html#exam-1)
 
 ### Fri, February 10
 
@@ -183,8 +183,8 @@ title: "Schedule"
 
 ### Fri, February 17
 
-- **Quiz 2**.
-- Exam 1 returned. [Answer key](exam/psych-260-exam-1-ans.pdf). [Score histogram](grades.html).
+- **Quiz 2**. [Answer Key](quiz/psych-260-quiz-2-ans.pdf). [Score histogram](grades.html#quiz-2)
+- Exam 1 returned. [Answer key](exam/psych-260-exam-1-ans.pdf). [Score histogram](grades.html#exam-1).
     - [HTML](lecture-notes/260-2017-02-17.html)
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-02-17.md)
     - [PDF](lecture-notes/260-2017-02-17.pdf)
