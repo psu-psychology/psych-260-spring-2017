@@ -50,3 +50,24 @@ exam.1 %>%
   ggplot() +
   geom_histogram(mapping = aes(x=points, fill=grade))
 ```
+
+## [Quiz 2](quiz/psych-260-quiz-2-ans.pdf)
+
+```{r quiz-2-files, include=FALSE}
+quiz.2 <- read.csv(file = "grades/csv/Canvas Report - Exam 7277 - Section17621.csv", skip = 2, header=FALSE)
+names(quiz.2) <- c("student", "id", "email", "section", "points")
+
+pts.poss = 10
+pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 150)
+grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+quiz.2$grade <- cut(x = quiz.2$points, 
+                    breaks = pts.poss*pct/100, 
+                    labels = grades, 
+                    right = FALSE)
+```
+
+```{r quiz-2 histogram, message=FALSE, echo=FALSE}
+quiz.2 %>%
+  ggplot() +
+  geom_histogram(mapping = aes(x=points, fill=grade))
+```
