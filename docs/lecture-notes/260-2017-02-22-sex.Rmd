@@ -112,7 +112,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Cautionary notes
 
-- Biology isn’t "destiny""
+- Biology isn’t "destiny"
 - “Natural” doesn’t mean morally right
 - Human behavior shaped by biology AND culture
 
