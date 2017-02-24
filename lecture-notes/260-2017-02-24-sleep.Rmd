@@ -22,15 +22,15 @@ output:
 - Biological rhythms
 - To sleep, perchance to dream...
 
-## ￼I got rhythm...
+## I got rhythm...
 
 - Rhythms operate at multiple time scales 
 - Ultradian (> 1x day)
     + 90-110 min cycles of heart rate, day dreaming
 - Circadian
     + Diurnal vs. noctural
-
-## ￼Biological rhythms
+    
+## Biological rhythms
 
 - Infradian (< 1x day)
     + Menstrual or estrus cycles
@@ -38,14 +38,14 @@ output:
  
 ## Factors influencing rhythms
 
-- ￼Endogenous factors
+- Endogenous factors
     + Internal oscillator or “clock”
     + “Free-running” 
 - Exogenous factors
     + “Zeitgeber” or “time-givers” reset clock (entrainment)
     + Or, independent of clock
 
-## ￼Mechanisms of biological timekeeping
+## Mechanisms of biological timekeeping
 
 - Endogenous
     + Cellular, neural oscillators
@@ -55,7 +55,7 @@ output:
     + Temperature
     + Sound
 
-## ￼Physiological mechanisms
+## Physiological mechanisms
 
 - Pineal gland & melatonin
 - Suprachiasmatic nucleus (SCN) of the hypothalamus
@@ -68,7 +68,7 @@ output:
 <http://thebrain.mcgill.ca/flash/a/a_11/a_11_cr/a_11_cr_hor/a_11_cr_hor_1a.jpg>
 </div>
 
-## ￼Pineal gland & melatonin 
+## Pineal gland & melatonin 
 
 - Pineal gland
     + Input from SCN via sympathetic NS
@@ -146,7 +146,7 @@ output:
     + Sleep spindles (12-14 Hz bursts)
     + K complexes
 
-## ￼￼Slow-wave sleep (Stages 3 & 4)
+## Slow-wave sleep (Stages 3 & 4)
 
 - EEG
     + Synchronized
@@ -168,7 +168,7 @@ output:
 - Desynchronized EEG 
     + Similar to Stage 1
 
-## ￼More on REM sleep
+## More on REM sleep
 
 - Muscular paralysis except eyes 
 - Vivid dream state
@@ -232,12 +232,12 @@ output:
 [[@peplow2013structure]](http://dx.doi.org/10.1038/497S2a)
 </div>
 
-## ￼￼Sleeping around the animal kingdom
+## Sleeping around the animal kingdom
 
-- ￼Highly variable patterns
+- Highly variable patterns
 - Mammals and birds show SWS & REM
 
-## ￼Why do we sleep?
+## Why do we sleep?
 
 - Animals with higher metabolic rate -> more sleep
 - Avoid predators

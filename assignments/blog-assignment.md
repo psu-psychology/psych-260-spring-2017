@@ -12,7 +12,7 @@
 
 Create a blog at <http://sites.psu.edu> or add to an existing blog you have created.
 
-Write at least three posts between now and **Monday, April 17 at 5:00 pm** that discuss different issues on any topic related to the biology of behavior. Your posts should be 1-3 paragraphs in length. Blog post #1 is due **Friday, February 24**; Blog post #2 is due **Friday, March 31**. Blog post #3 is due **Monday, April 17.**
+Write at least three posts between now and **Monday, April 17 at 5:00 pm** that discuss different issues on any topic related to the biology of behavior. Your posts should be 1-3 paragraphs in length, or approximately 1-1.5 pp double-spaced. Blog post #1 is due **Friday, February 24**; Blog post #2 is due **Friday, March 31**. Blog post #3 is due **Monday, April 17.**
 
 You may choose to comment on articles from the popular or scientific press. You can find appropriate articles in general interest magazines such as Time, The Economist, in a newspaper such as The New York Times, in general science publications such as Scientific American, The American Scientist, Science News, or Discover, or scientific journals such as Science, Nature, Current Directions in Psychological Science, etc. You may choose to discuss a topic we covered in class, perhaps how it might relate to you or to someone you know but you should incorporate the scientific literature.
 
