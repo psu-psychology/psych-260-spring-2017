@@ -223,7 +223,8 @@ title: "Schedule"
 
 ### Mon, February 27
 <!-- Rick to Temple -->
-- Exam 2 review
+- Exam 2 Study Guide
+    - [HTML](lecture-notes/exam-2-study-guide.html)
 
 ### Wed, March 1
 
