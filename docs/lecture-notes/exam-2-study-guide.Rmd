@@ -31,7 +31,7 @@ output:
 
 ## Synaptic transmission
 
-- [Steps in](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-02-10.html#5)
+- [Steps in](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-02-10.html#5). [Summary Figure](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-02-10.html#25)
 - [Ionotropic and metabotropic receptors](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-02-10.html#11)
 - [Mechanisms of NT inactivation](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-02-10.html#15)
 
