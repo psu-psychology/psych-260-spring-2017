@@ -151,7 +151,7 @@ title: "Schedule"
 
 ### Wed, February 8
 
-- **Exam 1**. [Answer Key](exam/psych-260-exam-1.ans.pdf). [Score Distribution](grades.html#exam-1)
+- **Exam 1**. [Answer Key](exam/psych-260-exam-1-ans.pdf). [Score Distribution](grades.html#exam-1)
 
 ### Fri, February 10
 
