@@ -235,7 +235,8 @@ title: "Schedule"
 - Evolution and development of the human brain.
 - Assignment
     - Read [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
-    - Read W&B 13:393-407.
+    - [HTML](lecture-notes/260-2017-03-03-evo-devo.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-03-evo-devo.md)
 
 ## Spring Break, March 6 - 10
 
