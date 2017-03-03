@@ -34,6 +34,13 @@ output:
 [[@miller2006public]](http://dx.doi.org/10.1126/science.1126746)
 </div>
 
+## Principles of evolution
+
+- Life forms existing in the Earth's past differed from those living today
+- New generations of life forms inherit properties from their predecessors
+- New life forms evolved as a result of *mutations*, *selection pressures*, and *geological events* 
+- Greater survival/reproductive success for some, not others
+
 ## Types of evidence
 
 - Fossil
@@ -44,6 +51,12 @@ output:
 - Genetic
     + Rates of mutation
 - Anatomical
+
+---
+
+<div class="centered">
+<img src="http://s.ngm.com/games/img/jigsaw-polar-475.jpg">
+</div>
 
 ## Dobzhansky
 
@@ -83,6 +96,8 @@ output:
 
 # How we got here
 
+## Evolution in a nutshell
+
 ## History of life on Earth
 
 <div class="centered">
@@ -102,7 +117,6 @@ output:
 ## Cambrian Explosion
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qNtQwUO9ff8" frameborder="0" allowfullscreen></iframe>
-
 
 ## What sparked the explosion? [[@fox_what_2016]](http://doi.org/10.1038/530268a)
 
@@ -319,22 +333,4 @@ output:
 - Specialized pattern of development
     + Significant time post-natal/pre-reproductive (childhood)
 
-## Human brain development take homes
-
-- Prenatal
-    + **Neuro- and gliogenesis**
-    + Neural and glial **migration**
-    + **Synaptogenesis** begins
-    + **Differentiation**
-    + **Apoptosis** (cell death)
-    + **Myelination** begins
-
-## Human brain development take homes
-
-- Postnatal
-    + **Synaptogenesis**
-    + Cortical expansion, activity-dependent change
-    + **Myelination**
-    + Prolonged period of postnatal/pre-reproductive development, i.e., childhood [@konner_evolution_2011]
-    
 ## References {.smaller}
