@@ -34,7 +34,7 @@ quiz.1 %>%
 
 ## [Exam 1](exam/psych-260-exam-1-ans.pdf)
 
-```{r import-files, include=FALSE}
+```{r import-exam-1, include=FALSE}
 exam.1 <- read.csv(file = "grades/csv/Canvas Report - Exam 7116 - Section17621.csv", skip = 2, header=FALSE)
 names(exam.1) <- c("student", "id", "email", "section", "points")
 
@@ -74,6 +74,29 @@ quiz.2$pts.poss <- pts.poss
 
 ```{r quiz-2 histogram, message=FALSE, echo=FALSE}
 quiz.2 %>%
+  ggplot() +
+  geom_histogram(mapping = aes(x=points, fill=grade))
+```
+
+## [Exam 2](exam/psych-260-exam-2-ans.pdf)
+
+```{r import-exam-2, include=FALSE}
+exam.2 <- read.csv(file = "grades/csv/Canvas Report - Exam 7418 - Section17621.csv", skip = 2, header=FALSE)
+names(exam.2) <- c("student", "id", "email", "section", "points")
+
+pts.poss = 40
+pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 120)
+grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+exam.2$grade <- cut(x = exam.2$points, 
+                    breaks = pts.poss*pct/100, 
+                    labels = grades, 
+                    right = FALSE)
+exam.2$eval <- "exam2"
+exam.2$pts.poss <- pts.poss
+```
+
+```{r exam-2 histogram, message=FALSE, echo=FALSE}
+exam.2 %>%
   ggplot() +
   geom_histogram(mapping = aes(x=points, fill=grade))
 ```

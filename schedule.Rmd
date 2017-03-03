@@ -228,7 +228,7 @@ title: "Schedule"
 
 ### Wed, March 1
 
-- **Exam  2**
+- **Exam  2**. [Answer Key](exam/psych-260-exam-2-ans.pdf). [Score histogram](grades.html#exam-2)
 
 ### Fri, March 3
 
