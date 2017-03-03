@@ -96,7 +96,11 @@ output:
 
 # How we got here
 
-## Evolution in a nutshell
+## The dawn of time
+
+<div class="centered">
+<img src="https://cdn.spacetelescope.org/archives/images/large/heic0916a.jpg" height=500px>
+</div>
 
 ## History of life on Earth
 
