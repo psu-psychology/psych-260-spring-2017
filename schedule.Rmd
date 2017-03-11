@@ -249,6 +249,8 @@ title: "Schedule"
 - Psychopathology I.
 - Assignment
     - Read W&B 12:338-352.
+    - [HTML](lecture-notes/260-2017-03-13-schizophrenia.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-13-schizophrenia.html.md)
 
 ### Wed, March 15
 
