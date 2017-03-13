@@ -1,7 +1,7 @@
 260-2017-03-13-schizophrenia
 ================
 Rick Gilmore
-2017-03-13 07:59:48
+2017-03-13 08:04:46
 
 Prelude
 -------
@@ -164,8 +164,14 @@ Evidence against...
 -   New, *atypical antipsychotics*
     -   (e.g. Clozapine) INCREASE DA in frontal cortex, affect 5-HT
 -   Mixed evidence for high DA metabolite levels in CSF
--   Glutamate hypothesis
-    -   Underactivation of NMDA receptors?
+
+Glutamate hypothesis
+--------------------
+
+-   *Psychomimetic* drugs induce schizophrenia-like states
+    -   Phencyclidine (PCP), ketamine
+    -   NMDA receptor antagonists
+-   Schizophrenia == *underactivation* of NMDA receptors?
     -   NMDA receptor role in learning, plasticity
     -   DG neurons in [(Jiao et al. 2017)](10.1073/pnas.1618213114) were glutamate-releasing.
 
