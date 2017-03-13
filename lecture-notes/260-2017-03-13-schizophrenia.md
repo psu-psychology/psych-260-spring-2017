@@ -1,7 +1,7 @@
 260-2017-03-13-schizophrenia
 ================
 Rick Gilmore
-2017-03-11 09:34:34
+2017-03-13 07:59:48
 
 Prelude
 -------
@@ -11,7 +11,13 @@ Prelude
 Today's Topics
 --------------
 
+-   Prevalence of mental illness
 -   Schizophrenia
+
+Mental illness lifetime prevalence
+----------------------------------
+
+<a href=""> <img src="https://www.nimh.nih.gov/images/stats/nsduh-smi-2015-graph-020317_154208_1.png" height=450px> </a>
 
 Schizophrenia
 -------------
@@ -27,7 +33,7 @@ Overview
 --------
 
 -   Lifetime prevalence ~ 1/100
--   1/3 chronic & severe
+-   ~1/3 chronic & severe
 -   Onset post-puberty, early adulthood
 -   Pervasive disturbance in mood, thinking, movement, action, memory, perception
 
@@ -76,6 +82,15 @@ Historical background
 -   Impaired executive function
 -   Anhedonia (loss of pleasure)
 -   Catatonia (reduced movement)
+
+Cognitive symptoms
+------------------
+
+-   Memory
+-   Attention
+-   Planning, decision-making
+-   Social cognition
+-   Movement
 
 Biological bases
 ----------------
@@ -131,14 +146,22 @@ Evidence for DA hypothesis
 
 -   DA (D2 receptor) antagonists (e.g. chlorpromazine)
     -   improve positive symptoms
+-   *Typical antipsychotics* are DA D2 antagonists
 -   DA agonists
     -   amphetamine, cocaine, L-DOPA
     -   mimic or exacerbate symptoms
 
+Tardive Dyskinesia a side effect of DA antagonists
+--------------------------------------------------
+
+<video width="640" height="480" controls>
+<source src="http://2e.mindsmachine.com/ch/12/av/mm2e_1203_tardive_dyskinesia.mp4" type="video/mp4"> Your browser does not support the video tag.
+</video>
+
 Evidence against...
 -------------------
 
--   New drugs
+-   New, *atypical antipsychotics*
     -   (e.g. Clozapine) INCREASE DA in frontal cortex, affect 5-HT
 -   Mixed evidence for high DA metabolite levels in CSF
 -   Glutamate hypothesis
@@ -152,6 +175,12 @@ Schizophrenia summed up
 -   Wide-ranging disturbance of mood, thought, action, perception
 -   Broad changes in brain structure, function, chemistry, development
 -   Genetic risk + environmental factors
+
+Early life stress increases risk
+--------------------------------
+
+-   Urban vs. rural living
+-   Exposure to infection *in utero*, other birth complications
 
 Early life stress
 -----------------
