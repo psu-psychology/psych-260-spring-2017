@@ -250,19 +250,21 @@ title: "Schedule"
 - Assignment
     - Read W&B 12:338-352.
     - [HTML](lecture-notes/260-2017-03-13-schizophrenia.html)
-    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-13-schizophrenia.html.md)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-13-schizophrenia.md)
 
 ### Wed, March 15
 
 - Psychopathology II.
 - Assignment
-    - Read W&B 12:352-360.
+    - Read W&B 12:358-359.
+    - [HTML](lecture-notes/260-2017-03-15-bipolar.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-15-bipolar.md)
 
 ### Fri, March 17
 
 - Psychopathology III.
 - Assignment
-    - Read W&B 12:360-366.
+    - Read W&B 12:352-358.
 
 ## Week 10, March 20-24
 
