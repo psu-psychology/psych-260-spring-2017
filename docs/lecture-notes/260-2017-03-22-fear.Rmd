@@ -1,0 +1,229 @@
+---
+title: "260-2017-03-22-fear"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Don't You Worry 'Bout a Thing
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/vJTxzsHsako" frameborder="0" allowfullscreen></iframe>
+
+## Today's topics
+
+- Fear
+- Stress
+
+## Inducing "fear-like" behavior in animals
+
+<div class="centered">
+<img src="img/ledoux-lab-fear_conditioning.jpg" height=450px>
+
+<http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg>
+</div>
+
+## Rat vs. Human
+
+<div class="centered">
+<img src="img/davis-anxiety-rat-vs-human.jpg" height=450px>
+
+Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
+</div>
+
+## Your thoughts: Can we use an animal model to study 'emotion'?
+
+## Amygdala circuits
+
+<div class="centered">
+<img src="img/fear-conditioning-amygdala-nrn728-f2.gif" height=450px>
+
+[[@medina2002parallels]](http://dx.doi.org/10.1038/nrn728)
+</div>
+
+## Amygdala role
+
+- Convergent inputs
+    + Thalamus
+    + Cerebral cortex
+- Lesions of amygdala impair 'fear conditioning'
+- Project to
+    + CG (central gray matter) of tegmentum: behavior
+    + LH (lateral hyp): ANS
+    + PVN (paraventricular n. of hyp): hormones
+
+## Cerebral cortex role
+
+- Response discrimination?
+    + Cortex lesions cause generalized not cue-specific fear response 
+- Fast, crude responses vs. slower, detailed ones
+    + That’s a stick, not a snake!
+    + Prefrontal cortex and response inhibition
+
+## Amygdala as processing hub
+
+<div class="centered">
+<img src="img/pessoa-nrn.jpg" height=450px>
+
+[[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+</div>
+
+## Circuits for survival
+
+<div class="centered">
+<img src="img/ledoux-2012-f3.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## Emotion as global "state"
+
+<div class="centered">
+<img src="img/ledoux-2012-f4.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## "Emotional" stimuli serve multiple roles
+
+<div class="centered">
+<img src="img/ledoux-2012-table-1.jpg" height=450px>
+
+[[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+## Biological imperatives and stress
+
+- Sustenance
+    + Hunger, thirst
+- Well-being/defense
+    + Threat
+    
+## Biological imperatives and stress
+
+- Reproduction
+    + Rejection
+- Affiliation
+    + Loneliness
+     
+## Stress and the brain
+
+<div class="centered">
+<img src="img/mcewen-2007-f1.jpg" height=450px>
+
+[[@mcewen_physiology_2007]](http://dx.doi.org/10.1152/physrev.00041.2006)
+</div>
+
+## Brain under stress 
+
+- Brain detects threat
+- Mobilizes physiological, behavioral responses
+- **Acute** stress
+    + Short duration
+    + Fast action required
+    + HPA (Cortisol), SAM (NE/Epi) axes
+- vs. **Chronic** stress
+    + Long duration, unremitting
+    
+## Glucocorticoids
+
+- Adrenal cortex releases hormones
+    + Cortisol (hydrocortisone)
+        * Increases blood glucose levels
+        * Suppresses immune system
+        * Reduces inflammation
+        * Aids in metabolism
+    + Receptors in brain and body
+
+## Cortisol and the brain
+
+<div class="centered">
+<img src="img/cortisol-molecular-brain.jpg" height=450px>
+
+<http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg>
+</div>
+
+## Glucocorticoid cascade hypothesis
+
+- Cort receptors in hip, amyg, hyp
+- Hip regulates HPA axis via hyp
+- Prolonged cortisol exposure reduces hip response
+- Reduced volume, connectivity in hip
+- Hip critical for long-term memory formation
+- Chronic stress impairs long-term memory
+
+## But, cortisol -> stress link not straightforward
+
+<div class="centered">
+<img src="img/faresjo-2013.jpg" width=800px>
+
+[[@faresjo_higher_2013]](http://dx.doi.org/10.1371/journal.pone.0073828)
+</div>
+
+## Let it go...
+
+- *Reaction* to stress more important than its *frequency* [[@sin_linking_2016]](http://doi.org/10.1097/PSY.0000000000000306)
+- *"...Individual differences in daily negative affect and responses to daily stressors were more strongly related to cardiovascular autonomic regulation than the frequency of such stressors."*
+
+## [[@sin_linking_2016]](http://doi.org/10.1097/PSY.0000000000000306)
+
+<div class="centered">
+<a href="img/sin-etal-2016.jpg">
+<img src="img/sin-etal-2016.jpg" height=500px>
+</a>
+</div>
+
+## Can Poverty Impede Cognitive Function?
+
+<div class="centered">
+<img src="img/mani-2013-F1.large.jpg" width=800px>
+
+[[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
+</div>
+
+## [[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
+
+<div class="centered">
+<img src="img/mani-2013-F4.jpg" width=800px>
+
+[[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
+</div>
+
+## Stress and coping across the animal kingdom
+
+- Pain thresholds lower (sensitivity greater) when a mouse's cage mate is also in pain
+- Rats will cooperate to release distressed cage mage, foregoing food rewards
+- [[@sapolsky_psychiatric_2016]](http://doi.org/10.1038/nn.4397)
+
+## Why Zebras Don't Get Ulcers
+
+<div class="centered">
+<img src="img/zebras-sapolsky.jpg" height=450px>
+</div>
+
+## Your stress ain't like mine
+
+- Phasic (short-term) vs. Chronic (long-term)
+- Physical stress (hunger, thirst, injury, disease) vs. social stress
+
+## Main points
+
+- Biological approach to emotion
+    + Behavior
+    + Physiological states
+    + Subjective feelings
+    + Adaptive function
+- Networks of brain systems, multiple NT systems
+
+## Why Worry Now?
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/7no9Ak2uSrQ" frameborder="0" allowfullscreen></iframe>
+
+## References {.smaller}

@@ -251,6 +251,7 @@ title: "Schedule"
     - Read W&B 12:338-352.
     - [HTML](lecture-notes/260-2017-03-13-schizophrenia.html)
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-13-schizophrenia.md)
+    - [PDF](lecture-notes/260-2017-03-13-schizophrenia.pdf)
 
 ### Wed, March 15
 
@@ -259,24 +260,31 @@ title: "Schedule"
     - Read W&B 12:358-359.
     - [HTML](lecture-notes/260-2017-03-15-bipolar.html)
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-15-bipolar.md)
+    - [PDF](lecture-notes/260-2017-03-15-bipolar.pdf)
 
 ### Fri, March 17
 
 - Psychopathology III.
 - Assignment
     - Read W&B 12:352-358.
+    - [HTML](lecture-notes/260-2017-03-17-depression.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-17-depression.md)
+    - [PDF](lecture-notes/260-2017-03-17-depression.pdf)
 
 ## Week 10, March 20-24
 
 #### Mon, March 20
 
-- Emotion, Fear, and Stress
+- Emotion
 - Assignment
     - Read W&B 11:310-336.
+    - [HTML](lecture-notes/260-2017-03-20-reward.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-20-reward.md)
+    - [PDF](lecture-notes/260-2017-03-20-reward.pdf)
 
 ### Wed, March 22
 <!-- Rick definitely away -->
-- Emotion, Fear, and Stress II.
+- Fear, and Stress II.
 
 ### Fri, March 24
 <!-- Rick definitely away -->

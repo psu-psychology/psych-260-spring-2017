@@ -187,11 +187,6 @@ output:
 - Urban vs. rural living
 - Exposure to infection *in utero*, other birth complications
 
-## Early life stress
-
-<iframe src="http://www.psypost.org/2016/09/offspring-parents-babies-holocaust-worse-course-schizophrenia-44985">
-</iframe>
-
 ## [[@levine_transgenerational_2016]](10.1016/j.schres.2016.06.019)
 
 - Children (N=51,233) of parents who born during Nazi era (1922-1945)

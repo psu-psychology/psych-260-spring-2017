@@ -1,7 +1,7 @@
 260-2017-03-13-schizophrenia
 ================
 Rick Gilmore
-2017-03-13 08:04:46
+2017-03-15 12:36:38
 
 Prelude
 -------
@@ -188,11 +188,6 @@ Early life stress increases risk
 -   Urban vs. rural living
 -   Exposure to infection *in utero*, other birth complications
 
-Early life stress
------------------
-
-<iframe src="http://www.psypost.org/2016/09/offspring-parents-babies-holocaust-worse-course-schizophrenia-44985">
-</iframe>
 [(Levine et al. 2016)](10.1016/j.schres.2016.06.019)
 ----------------------------------------------------
 

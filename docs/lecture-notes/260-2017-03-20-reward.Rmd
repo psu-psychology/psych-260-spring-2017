@@ -1,0 +1,381 @@
+---
+title: "260-2017-03-20-emotion-reward"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Happiness Is...
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d13_LoHQkRM" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Biology of emotion
+- Happiness/pleasure
+- Quiz 3 Friday
+
+## Biology of Emotion
+
+- What is emotion?
+- What are the types of emotions?
+- Biological systems involved in emotion
+
+## What is emotion?
+
+- Feelings
+- Physiological state
+- Actions (now)
+- Propensity to act (in the future)
+
+## What are the different types of emotions?
+
+<div class="centered">
+<img src="http://puix.org/wp-content/uploads/plutchik-wheel-emotion.png" height=450px>
+
+[[@plutchik1980emotion]](img/plutchik-wheel-emotion.png)
+</div>
+
+## Emotions
+
+- Vary in <span class="blue">valence</span>
+    + Positive/negative
+- Vary in <span class="blue">intensity</span> (arousal)
+- Vary in <span class="blue">action tendency</span>
+    + Approach/avoid
+
+## Emotions serve biological goals
+
+- Ingestion
+- Defense
+- Reproduction
+
+- Affiliation
+
+## Plutchik
+
+<div class="centered">
+<img src="http://puix.org/wp-content/uploads/plutchik-wheel-emotion.png" height=450px>
+
+[[@plutchik1980emotion]](img/plutchik-wheel-emotion.png)
+</div>
+
+## Biological goals served by
+
+- Anger
+- Fear
+- Disgust
+- Trust
+- Sadness
+- Happiness
+
+## Do *all* emotions serve biological goals?
+
+- Shame
+- Guilt
+- Pride
+- Embarrassment
+- Regret
+
+## Are 'social' goals *biological*?
+
+>- Darwinian view: 
+>- If influence on reproductive outcomes, **yes**.
+>- Do 'social' goals -- shame, pride, etc. -- influence reproductive success?
+
+## Emotion <==> Cognition?
+
+<div class="centered">
+<img src="img/swanson-fig-7.5.jpg" height=450px>
+
+[@swanson2012brain]
+</div>
+
+## Emotion <==> Cognition?
+
+<div class="centered">
+<img src="img/pessoa-nrn.jpg" height=450px>
+
+[[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+</div>
+
+<div class="notes">
+Pessoa noted that from a network perspective, the amygdala is among the most centrally connected parts of the brain. It's a 'hub', in other words.
+</div>
+
+## [[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+
+<div class="centered">
+*Here, I will argue that complex cognitive–emotional behaviours have their basis in dynamic coalitions of networks of brain areas, none of which should be conceptualized as specifically affective or cognitive. Central to cognitive–emotional interactions are brain areas with a high degree of connectivity, called hubs, which are critical for regulating the flow and integration of information between regions.*
+</div>
+
+## [[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+
+<div class="centered">
+*Here, I will argue that complex cognitive–emotional behaviours have their basis in dynamic coalitions of networks of brain areas, <span class="blue">none of which should be conceptualized as specifically affective or cognitive</span>. Central to cognitive–emotional interactions are brain areas with a high degree of connectivity, called hubs, which are critical for regulating the flow and integration of information between regions.*
+</div>
+
+## Emotion as "computing"
+
+- Input
+- Processing/evaluation
+- Output
+
+## Emotion as "computing"
+
+- **Input**
+- Processing/evaluation
+- Output
+
+## Emotion as "computing"
+
+- Input
+    + External
+    + Internal
+    
+## External Input
+
+<div class="centered">
+<a href="http://www.bodylanguageuniversity.com/public/images/197.jpg">
+<img src="http://www.bodylanguageuniversity.com/public/images/197.jpg" height=500px>
+</a>
+</div>
+
+----
+
+<div class="centered">
+<img src="http://www.inspirefirst.com/wp-content/uploads/2012/08/0457.jpg" height=500px>
+</div>
+
+----
+
+<div class="centered">
+<audio controls>
+<source src="snd/9999-ang-chk-a.wav" type="audio/wav">
+</audio>
+</br>
+<audio controls>
+<source src="snd/9999-hap-chk-a.wav" type="audio/wav">
+</audio>
+
+Cole, P., Gilmore, R.O., Scherf, K.S. & Perez-Edgar, K. (2016). The Proximal Emotional Environment Project (PEEP). Databrary. Retrieved October 31, 2016 from <https://nyu.databrary.org/volume/248>. 
+</div>
+
+----
+
+<div class="centered">
+<img src="http://i192.photobucket.com/albums/z300/lilyesmith/FOF%202016/feast-750x400.jpg" height=500px>
+</div>
+
+<div class="notes">
+Or food.
+</div>
+
+## Emotional "computing"
+
+- Input
+- **Processing/evaluation**
+
+## Emotional "computing"
+
+- Input
+- Processing/evaluation
+    + Current state + past states (memory)
+    + Food/non
+    + Threat/non
+    + Mate/non; offspring/non
+
+## Emotional "computing"
+
+- Input
+- Processing/evaluation
+- **Output**
+
+## Emotional "computing"
+
+- Output
+    + Physiological state
+        * Autonomic nervous system
+        * Hormones
+
+## Emotional "computing"
+
+- Output
+    + Actions
+        * Facial expression
+        * Vocalization
+        * Gestures, body posture
+        * Locomotion or freezing
+
+## [[@pollick_ape_2007]](http://doi.org/10.1073/pnas.0702624104)
+
+*...The study distinguished 31 manual gestures and 18 facial/vocal signals. It was found that homologous facial/vocal displays were used very similarly by both [bonobos and chimpanzees], yet the same did not apply to gestures. Both within and between species gesture usage varied enormously. Moreover, bonobos showed greater flexibility in this regard than chimpanzees and were also the only species in which multimodal communication (i.e., combinations of gestures and facial/vocal signals) added to behavioral impact on the recipient.*
+
+## Are non-human animals consistent in their use of emotion-expressing actions?
+
+<div class="centered">
+<img src="img/pollick-waal-2007-F3.medium.gif" height=450px>
+</div>
+
+[[@pollick_ape_2007]](http://doi.org/10.1073/pnas.0702624104)
+
+## Are different emotions processed differently in humans?
+
+- Autonomic responses related to feelings
+- Autonomic specificity: emotions autonomically unique vs. autonomically identical? [[@levenson_autonomic_2003]](http://conium.org/~ucbpl/docs/72-Autonomic%20Specificity03.pdf)
+- Belief in idea stronger than evidence
+
+## Bodily maps of emotions
+
+<div class="centered">
+<img src="http://www.pnas.org/content/111/2/646/F1.medium.gif" height=450px>
+
+[[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+</div>
+[[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+
+## [[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+
+<div class="centered">
+<img src="http://www.pnas.org/content/111/2/646/F2.medium.gif" height=450px>
+
+[[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+</div>
+
+## [[@nummenmaa2014bodily]](http://dx.doi.org/10.1073/pnas.1321664111)
+
+>> *We propose that emotions are represented in the somatosensory system as culturally universal categorical somatotopic maps. Perception of these emotion-triggered bodily changes may play a key role in generating consciously felt emotions.*
+    
+## Biological systems involved in specific emotions
+
+- Happiness
+
+## Components of happiness
+
+- [Aristotle](http://plato.stanford.edu/entries/aristotle-ethics/)
+- Hedonia
+    + Pleasure
+- Eudaimonia
+    + A life well-lived
+    
+## "Computing" 'happiness'
+
+- Inputs
+    + External
+    + Internal
+- Processing
+- Outputs
+    + Feelings
+    + Actions
+    
+## Neuroanatomy of 'happiness'
+
+<div class="centered">
+<img src="img/kringelbach-2009-fig-1.jpg" width=700px>
+</div>
+
+[[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006)
+
+## Neuroanatomy of 'happiness'
+
+<div class="centered">
+<img src="img/kringelbach-2009-fig-2.jpg" width=700px>
+</div>
+
+[[@kringelbach2009towards]](http://dx.doi.org/10.1016/j.tics.2009.08.006)
+
+## Rewards
+
+- A *reward* reinforces (makes more prevalent/probable) some behavior
+- Milner and Olds [[@milner_discovery_1989]](http://doi.org/10.1016/S0149-7634(89)80013-2) discovered 'rewarding' power of electrical self-stimulation
+- [[@heath1963electrical]](http://doi.org/10.1176/ajp.120.6.571) studied effects in human patients.
+
+## Electrical self-stimulation
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/de_b7k9kQp0" frameborder="0" allowfullscreen></iframe>
+
+## "Reward" circuitry in the brain
+
+<div class="centered">
+<img src="img/nestler-fig-1.jpg" height=450px>
+
+[[@nestler2006mesolimbic]](http://dx.doi.org/10.1016/j.biopsych.2005.09.018)
+</div>
+
+## Nodes in the "reward" circuit
+
+- Ventral tegmental area (VTA) in midbrain
+- Nucleus accumbens (nAcc)
+- Hypothalamus (Hyp)
+- Amygdala (Amy)
+- Hippocampus (HP)
+- Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
+- Prefrontal cortex (PFC)
+
+## Nucleus accumbens and dorsal striatum
+
+<div class="centered">
+<img src="img/kohls-fig-2.jpg" height=450px>
+
+[[@kohls2012social]](http://dx.doi.org/10.1186/1866-1955-4-10)
+</div>
+
+## Psychopharmacology of 'happiness'
+
+- Dopamine
+- Opioids
+- Cannabinoids
+- Serotonin, Norepinephrine
+- ACh
+
+## Endogenous opioids (endorphins) from hyp, NST
+
+<div class="centered">
+<img src="img/endorphins-niaa.gif" height=450px>
+
+[[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)
+</div>
+
+## Endogenous cannabinoid system
+
+- CB1 receptors in CNS; CB2 in body, immune system
+<div class="centered">
+<img src="img/fnins-07-00256-g001.jpg" height=400px>
+
+[[@flores_cannabinoid-hypocretin_2013]](http://dx.doi.org/10.3389/fnins.2013.00256)
+</div>
+
+## Brain contains its own systems for drugs of 'pleasure'
+
+- Endogenous opioids (endorphins)
+- Endogenous cannabinoids
+
+## ACh projections in the CNS
+
+<div class="centered">
+<img src="img/ncpneuro0775-f4.jpg" height=450px>
+
+[[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775)
+</div>
+
+## Generalizations about happiness/pleasure
+
+- Types of pleasure activate overlapping areas
+- Pleasure/happiness engage a network of brain areas
+- Pleasure/happiness signaling involves multiple neuromodulators, but DA especially important
+- “Reward” pathways activated by many different inputs.
+
+## Next time
+
+- Fear
+- Stress
+
+## References {.smaller}
