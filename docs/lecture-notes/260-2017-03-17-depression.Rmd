@@ -4,6 +4,7 @@ author: "Rick Gilmore"
 date: "`r Sys.time()`"
 bibliography: bib/bibliography.bib
 output:
+  github_document: default
   ioslides_presentation:
     css: css/ioslides.css
     incremental: no
@@ -21,25 +22,19 @@ output:
 
 - Depression
 
-## Major affective (emotional) disorders
-
-- Types
-    + Bipolar disorder
-    + Depression
-    + Anxiety
-- Heritability
-    + *proportion of variance in trait accounted for by genetic factors*
-    + Monozygotic: .69
-    + Dizygotic: .13
-    
 ## Depression
 
 - Symptoms
-    + Insomnia, lethargy, loss of pleasure, interest, energy
+    + Unhappy moode, insomnia, lethargy, loss of pleasure, interest, energy
 - Agitation
 - Lasting for several weeks or more
+
+## Depression
+
+- Experienced by ~7% Americans in any year
 - Prevalence (up to ~20% lifetime)
-- Females 2-3x males
+- Females 2-3x males, higher 40+ years of age
+- MZ concordance ~60% vs. DZ ~20% suggests genetic component
 
 ## Symptoms, [[@mahar_stress_2014]](http://doi.org/10.1016/j.neubiorev.2013.11.009)
 
@@ -150,26 +145,6 @@ output:
 - Drugs
 - Exercise
 
-## Electroconvulsive Therapy (ECT)
-
-- Electric current delivered to the brain causes 30-60s seizure.
-- ECT usually done in a hospital's operating or recovery room  under general anesthesia.
-- Once every 2 - 5 days for a total of 6 - 12 sessions.
-
-## Patients speak
-
-- Kitty Dukakis' story: <http://www.nytimes.com/2016/12/31/us/kitty-dukakis-electroshock-therapy-evangelist.html>
-
----
-
-<div class="centered">
-<a href="www.ectreatment.org">
-<img src="http://www.ecttreatment.org/images/dukakis1.jpg" height=450px>
-</a>
-
-[www.ectreatment.org](http://www.ectreatment.org)
-</div>
-
 ## Drugs
 
 - Monoamine oxidase (MAO) inhibitors
@@ -230,6 +205,7 @@ output:
 - Stimulate neurogenesis?
     + Link to neurotrophin, brain-derived nerve growth factor (BDNF)
     + BDNF boosts neurogenesis
+    + SSRIs stimulate new neurons in hippocampus
 
 ## Exercise as a treatment
 
@@ -268,10 +244,30 @@ output:
 ## Electroconvulsive Therapy (ECT)
 
 - Last line of treatment for drug-resistant depression
+- Electric current delivered to the brain causes 30-60s seizure.
+- ECT usually done in a hospital's operating or recovery room  under general anesthesia.
+- Once every 2 - 5 days for a total of 6 - 12 sessions.
+
+## Electroconvulsive Therapy (ECT)
+
 - Remission rates of up to 50.9% [[@dierckx_efficacy_2012]](http://doi.org/10.1111/j.1399-5618.2012.00997.x)
 - Seems to work via
     + Anticonvulsant (block Na+ channel or enhance GABA function) effects
     + Neurotrophic (stimulates neurogenesis) effects
+
+## Patients speak
+
+- Kitty Dukakis' story: <http://www.nytimes.com/2016/12/31/us/kitty-dukakis-electroshock-therapy-evangelist.html>
+
+---
+
+<div class="centered">
+<a href="www.ectreatment.org">
+<img src="http://www.ecttreatment.org/images/dukakis1.jpg" height=450px>
+</a>
+
+[www.ectreatment.org](http://www.ectreatment.org)
+</div>
     
 ## Neurogenesis hypothesis, [[@mahar_stress_2014]](http://doi.org/10.1016/j.neubiorev.2013.11.009)
 
