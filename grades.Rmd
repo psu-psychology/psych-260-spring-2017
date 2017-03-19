@@ -104,14 +104,15 @@ exam.2 %>%
 <!--- Create combined grade file. -->
 
 ```{r combined-grade-file, echo=FALSE}
-grades.merged <- Reduce(f = function(x,y) merge(x,y, all=TRUE), list(quiz.1, quiz.2, exam.1))
+grades.merged <- rbind(quiz.1, quiz.2, exam.1, exam.2)
 
 grades.merged %>%
   select(student, id, eval, eval, grade, points, pts.poss) %>%
   group_by(student, id) %>%
   mutate(tot.pts = sum(points),
          n.evals = n(),
-         pct.pts = 100*tot.pts/pts.poss) ->
+         tot.poss = sum(pts.poss),
+         pct.pts = 100*tot.pts/tot.poss) ->
   grades.merged
 write.csv(x = grades.merged, file = "grades/csv/grades.merged.csv", row.names = FALSE)
 ```

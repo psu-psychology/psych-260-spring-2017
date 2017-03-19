@@ -48,16 +48,21 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@medina2002parallels]](http://dx.doi.org/10.1038/nrn728)
 </div>
 
-## Amygdala role
+## Key idea
+
+- Amygdala and cerebral cortex serve different roles
+
+## Amygdala's inputs & outputs
 
 - Convergent inputs
     + Thalamus
     + Cerebral cortex
-- Lesions of amygdala impair 'fear conditioning'
 - Project to
     + CG (central gray matter) of tegmentum: behavior
     + LH (lateral hyp): ANS
     + PVN (paraventricular n. of hyp): hormones
+- Fast-acting, involuntary responses
+- Lesions of amygdala impair 'fear conditioning'
 
 ## Cerebral cortex role
 
@@ -66,6 +71,11 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 - Fast, crude responses vs. slower, detailed ones
     + That’s a stick, not a snake!
     + Prefrontal cortex and response inhibition
+    
+## But, are we really studying learned 'fear'?
+
+- Amygdala connected to other 'affective' nodes in neural network
+- Emotion not just about subjective feelings
 
 ## Amygdala as processing hub
 
@@ -75,7 +85,7 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
 </div>
 
-## Circuits for survival
+## Amygdala as key hub in circuit for survival
 
 <div class="centered">
 <img src="img/ledoux-2012-f3.jpg" height=450px>
@@ -83,7 +93,7 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
 </div>
 
-## Emotion as global "state"
+## Emotion as global physiological/behavioral "state"
 
 <div class="centered">
 <img src="img/ledoux-2012-f4.jpg" height=450px>
@@ -99,14 +109,20 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
 </div>
 
-## Biological imperatives and stress
+## Stress
+
+<div class="centered">
+<img src="http://visionarity.com/wp-content/uploads/2016/03/stress_managment.jpg" height=450px>
+</div>
+
+## Stressors linked with biological imperatives
 
 - Sustenance
     + Hunger, thirst
 - Well-being/defense
     + Threat
     
-## Biological imperatives and stress
+## Stressors linked with biological imperatives
 
 - Reproduction
     + Rejection
@@ -130,7 +146,7 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
     + Fast action required
     + HPA (Cortisol), SAM (NE/Epi) axes
 - vs. **Chronic** stress
-    + Long duration, unremitting
+    + Long duration, persistent
     
 ## Glucocorticoids
 
@@ -152,12 +168,12 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 
 ## Glucocorticoid cascade hypothesis
 
-- Cort receptors in hip, amyg, hyp
-- Hip regulates HPA axis via hyp
-- Prolonged cortisol exposure reduces hip response
-- Reduced volume, connectivity in hip
+- Cort receptors in hippocampus, amygdala, hypothalamus
+    - Hippocampus regulates HPA axis via hypothalamus
+- Prolonged cortisol exposure reduces hippocampus response
+    - Reduced volume, connectivity in hippocampus
 - Hip critical for long-term memory formation
-- Chronic stress impairs long-term memory
+    - Chronic stress impairs long-term memory
 
 ## But, cortisol -> stress link not straightforward
 
@@ -178,22 +194,6 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 <a href="img/sin-etal-2016.jpg">
 <img src="img/sin-etal-2016.jpg" height=500px>
 </a>
-</div>
-
-## Can Poverty Impede Cognitive Function?
-
-<div class="centered">
-<img src="img/mani-2013-F1.large.jpg" width=800px>
-
-[[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
-</div>
-
-## [[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
-
-<div class="centered">
-<img src="img/mani-2013-F4.jpg" width=800px>
-
-[[@mani_poverty_2013]](http://dx.doi.org/10.1126/science.1238041)
 </div>
 
 ## Stress and coping across the animal kingdom
@@ -221,9 +221,5 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
     + Subjective feelings
     + Adaptive function
 - Networks of brain systems, multiple NT systems
-
-## Why Worry Now?
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/7no9Ak2uSrQ" frameborder="0" allowfullscreen></iframe>
 
 ## References {.smaller}

@@ -25,7 +25,7 @@ output:
 ## Depression
 
 - Symptoms
-    + Unhappy moode, insomnia, lethargy, loss of pleasure, interest, energy
+    + Unhappy mood, insomnia, lethargy, loss of pleasure, interest, energy
 - Agitation
 - Lasting for several weeks or more
 
@@ -74,7 +74,7 @@ output:
 ## [[@fitzgerald_meta-analytic_2008]](http://dx.doi.org/10.1002/hbm.20426){.smaller}
 
 <div class="centered">
-<img src="img/fitzgerald-2008.jpg" height=450px>
+<img src="img/fitzgerald-2008.jpg" height=400px>
 
 (a) patients v. controls, (b) patients on SSRIs, (c) patients v. ctrls (happy stim), (d) patients v. controls (sad stim)
 </div>

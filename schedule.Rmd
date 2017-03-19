@@ -275,7 +275,7 @@ title: "Schedule"
 
 #### Mon, March 20
 
-- Emotion
+- Emotion, Happiness, Reward
 - Assignment
     - Read W&B 11:310-336.
     - [HTML](lecture-notes/260-2017-03-20-reward.html)
@@ -284,7 +284,11 @@ title: "Schedule"
 
 ### Wed, March 22
 <!-- Rick definitely away -->
-- Fear, and Stress II.
+- Fear and Stress.
+- Assignment
+    - [HTML](lecture-notes/260-2017-03-22-fear.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-22-fear.md)
+    - [PDF](lecture-notes/260-2017-03-22-fear.pdf)
 
 ### Fri, March 24
 <!-- Rick definitely away -->
