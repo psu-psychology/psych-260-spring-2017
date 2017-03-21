@@ -311,15 +311,24 @@ Or food.
 [[@nestler2006mesolimbic]](http://dx.doi.org/10.1016/j.biopsych.2005.09.018)
 </div>
 
+<div class="notes">
+The accidental discovery that electrical stimulation could be pleasurable launched a research program into the circuits that control both pleasure and positive feelings. The electrical stimulation involved a path from the ventral tegmental area (VTA) in the midbrain to the nucleus accumbens (NAc) in the ventral striatum -- the anterior-most part of the caudate and putamen nuclei of the basal ganglia.
+</div>
+
 ## Nodes in the "reward" circuit
 
 - Ventral tegmental area (VTA) in midbrain
 - Nucleus accumbens (nAcc)
+
 - Hypothalamus (Hyp)
 - Amygdala (Amy)
 - Hippocampus (HP)
 - Dorsal Raphe Nucleus/Locus Coeruleus (DR/LC)
 - Prefrontal cortex (PFC)
+
+<div class="notes">
+Other nodes in this "reward" network include...
+</div>
 
 ## Nucleus accumbens and dorsal striatum
 
@@ -327,6 +336,10 @@ Or food.
 <img src="img/kohls-fig-2.jpg" height=450px>
 
 [[@kohls2012social]](http://dx.doi.org/10.1186/1866-1955-4-10)
+</div>
+
+<div class="notes">
+Here's another view of some of the circuits involved in pleasure/reweard that shows their interconnections. Here, the nucleus accumbens is called the ventral striatum (VS).
 </div>
 
 ## Psychopharmacology of 'happiness'
@@ -337,12 +350,20 @@ Or food.
 - Serotonin, Norepinephrine
 - ACh
 
-## Endogenous opioids (endorphins) from hyp, NST
+<div class="notes">
+The network involved in pleasure/reward involves a distinct set of neurotransmitters: dopamine, opioids, cannabinoids, serotonin and norepinephrine, and acetylcholine.
+</div>
+
+## Endogenous morphine-like NTs (endorphins) from hyp, NST
 
 <div class="centered">
 <img src="img/endorphins-niaa.gif" height=450px>
 
 [[@clapp-niaa]](http://pubs.niaaa.nih.gov/publications/arh314/310-339.htm)
+</div>
+
+<div class="notes">
+Researchers in the 1970s first discovered that there were *endogenous* chemicals in the brain that had similar chemical properties to opioid drugs like heroin and morphine. These substances were later shown to be neurotransmitters. So, the brain releases its own *endogenous morphine-like* substances or endorphins. Endorphins bind to receptors that also bind exogenous drugs like heroin.
 </div>
 
 ## Endogenous cannabinoid system
@@ -354,10 +375,18 @@ Or food.
 [[@flores_cannabinoid-hypocretin_2013]](http://dx.doi.org/10.3389/fnins.2013.00256)
 </div>
 
+<div class="notes">
+Later, researchers discovered that the brain has an endogenous cannabinoid system that exogenous substances like marijuana and hashish bind to. Receptors for cannabinoids are found all over the brain and body.
+</div>
+
 ## Brain contains its own systems for drugs of 'pleasure'
 
 - Endogenous opioids (endorphins)
 - Endogenous cannabinoids
+
+<div class="notes">
+This means that the brain contains its own receptors for substances that are known as drugs of pleasure.
+</div>
 
 ## ACh projections in the CNS
 
@@ -365,6 +394,10 @@ Or food.
 <img src="img/ncpneuro0775-f4.jpg" height=450px>
 
 [[@cock_sleep_2008]](http://dx.doi.org/10.1038/ncpneuro0775)
+</div>
+
+<div class="notes">
+Acetylcholine also plays a role in the pleasure/reward circuit. We've talked about ACh as the primary NT of CNS output, but it is also a neuromodulator that projects widely, including from the nucleus accumbens (basal forebrain BF), and the dorsal raphe (DR: NE), and locus coeruleus (LC: 5-HT) in the brainstem.
 </div>
 
 ## Generalizations about happiness/pleasure

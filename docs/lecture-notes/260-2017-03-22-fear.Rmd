@@ -30,6 +30,10 @@ output:
 <http://www.cns.nyu.edu/labs/ledouxlab/images/image_research/fear_conditioning.jpg>
 </div>
 
+<div class="notes">
+Today we turn to the other side of the emotional coin and again, we look for parallels between humans and non-human animals. It's possible to induce "fear-like" behavior in rats by using classical conditioning -- pairing a tone (conditioned stimulus or CS) with a painful foot shock (US) caused by electrifying the floor of an animal's cage. Here, the animal increasingly shows "freezing" behavior when it hears the tone, but not to an unrelated odor.
+</div>
+
 ## Rat vs. Human
 
 <div class="centered">
@@ -38,7 +42,15 @@ output:
 Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 </div>
 
+<div class="notes">
+Some people are skeptical that rats and humans have similar emotions, but here is a table showing parallels between the behavioral and physiological responses rats who've undergone "fear conditioning" and humans.
+</div>
+
 ## Your thoughts: Can we use an animal model to study 'emotion'?
+
+<div class="notes">
+So, what do you think? Do these data support the idea that we can study human emotion using an experimental animal model?
+</div>
 
 ## Amygdala circuits
 
@@ -47,22 +59,32 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 
 [[@medina2002parallels]](http://dx.doi.org/10.1038/nrn728)
 </div>
+<div class="notes">
+Researchers studying the circuits involved in fear conditioning have found the amygdala important. It receives both auditory and somatosensory/pain inputs, and it projects to downstream regions that regulate behavior, ANS and hormonal responses.
+</div>
 
-## Key idea
-
-- Amygdala and cerebral cortex serve different roles
-
-## Amygdala's inputs & outputs
+## Amygdala's inputs
 
 - Convergent inputs
     + Thalamus
     + Cerebral cortex
+    
+<div class="notes">
+The amygdala gets two types of inputs. One, a "direct" or "fast" route from the thalamus, the other an "indirect" or "slow" route from the cerebral cortex.
+</div>
+
+## Amygdala's outputs
+
 - Project to
     + CG (central gray matter) of tegmentum: behavior
     + LH (lateral hyp): ANS
     + PVN (paraventricular n. of hyp): hormones
 - Fast-acting, involuntary responses
 - Lesions of amygdala impair 'fear conditioning'
+
+<div class="notes">
+The amygdala's outputs go to the central gray matter of the ventral midbrain (tegmentum) where they activate neurons that trigger freezing, defecation, and other behaviors in response to fear conditioning. The amygdala also projects to nuclei in the hypothalamus that control the SAM (autonomic nervous system) and HPA (cortico-steroid) axes. Thus, the amygdala rapidly triggers a set of fast-acting involuntary responses.
+</div>
 
 ## Cerebral cortex role
 
@@ -72,10 +94,18 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
     + That’s a stick, not a snake!
     + Prefrontal cortex and response inhibition
     
+<div class="notes">
+Lesions of the amygdala impair the involuntary responses. But, lesions of the auditory cortex, cause the animals to make responses to a wider range of tones. Scientists think that this means the slower cortical route provides more detailed processing while the faster thalamic route causes quick responses. Have you ever mistaken a stick for a snake while walking down a path? If somewhere in mid-jump you realized your mistake, that was your cortex talking, probably your prefrontal cortex.
+</div>
+
 ## But, are we really studying learned 'fear'?
 
 - Amygdala connected to other 'affective' nodes in neural network
 - Emotion not just about subjective feelings
+
+<div class="notes">
+Despite these advances and the parallels between rats and humans, many researchers aren't sure we're really studying "fear."
+</div>
 
 ## Amygdala as processing hub
 
@@ -83,6 +113,10 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 <img src="img/pessoa-nrn.jpg" height=450px>
 
 [[@pessoa_relationship_2008]](http://dx.doi.org/10.1038/nrn2317)
+</div>
+
+<div class="notes">
+Remember we talked previously about how the amygdala is connected to numerous brain regions.
 </div>
 
 ## Amygdala as key hub in circuit for survival
@@ -93,12 +127,20 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
 </div>
 
+<div class="notes">
+Joe LeDoux, a pioneer in studying fear conditioning now thinks that calling these behavioral and physiological responses "fear" is misleading. The amygdala is a a hub, but it's not fear center, as some have called it.
+</div>
+
 ## Emotion as global physiological/behavioral "state"
 
 <div class="centered">
 <img src="img/ledoux-2012-f4.jpg" height=450px>
 
 [[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
+</div>
+
+<div class="notes">
+LeDoux thinks that emotion reflects the global physiological and behavioral state of human and non-human animals.
 </div>
 
 ## "Emotional" stimuli serve multiple roles
@@ -109,10 +151,18 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@ledoux_rethinking_2012]](http://dx.doi.org/10.1016/j.neuron.2012.02.004)
 </div>
 
+<div class="notes">
+And, that "emotional" stimuli can serve multiple roles in guiding behavior depending on the context. Perhaps because human feelings are so strong, we have a harder time seeing how all of the pieces of the "emotional" brain fit together.
+</div>
+
 ## Stress
 
 <div class="centered">
 <img src="http://visionarity.com/wp-content/uploads/2016/03/stress_managment.jpg" height=450px>
+</div>
+
+<div class="notes">
+Let's talk about an emotion related to fear: stress.
 </div>
 
 ## Stressors linked with biological imperatives
@@ -122,12 +172,20 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 - Well-being/defense
     + Threat
     
+<div class="notes">
+We can think about various sorts of situations that threaten our biological well-being, that relate to biological imperatives.
+</div>
+    
 ## Stressors linked with biological imperatives
 
 - Reproduction
     + Rejection
 - Affiliation
     + Loneliness
+    
+<div class="notes">
+Most of these situations require us to act in some way, and in acting, the situation usually improves. So, the stressor is short-lived.
+</div>
      
 ## Stress and the brain
 
@@ -136,17 +194,31 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 
 [[@mcewen_physiology_2007]](http://dx.doi.org/10.1152/physrev.00041.2006)
 </div>
+<div class="notes">
+In studying how stress affects the brain, scientists have studied the environment, major life events, extreme trauma and abuse, and tried to understand how *perceived* stress affects physiological and behavioral responses. It turns out that your stress ain't like mine. 
+</div>
 
 ## Brain under stress 
 
-- Brain detects threat
-- Mobilizes physiological, behavioral responses
 - **Acute** stress
     + Short duration
     + Fast action required
     + HPA (Cortisol), SAM (NE/Epi) axes
+- Brain detects threat
+- Mobilizes physiological, behavioral responses
+
+<div class="notes">
+It's critical to distinguish between short-term, acute stressors where fast or short-term action is required. Like studying for an exam. This activates the HPA and SAM axes so your body and brain can respond. When the circumstances change, your systems return to a baseline state.
+</div>
+
+## Brain under stress
+
 - vs. **Chronic** stress
     + Long duration, persistent
+
+<div class="notes">
+But, when the stressors continue for a long time or are perceived to be long-lasting or hard to cope with, more negative consequences emerge.
+</div>
     
 ## Glucocorticoids
 
@@ -157,6 +229,10 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
         * Reduces inflammation
         * Aids in metabolism
     + Receptors in brain and body
+    
+<div class="notes">
+We'll focus on the effects of glucocorticoids like cortisol. As you recall, these are released by the adrenal gland into the bloodstream. As you might guess from their name, they increase *glucose* levels, providing the body more fuel to respond to threats, among other functions. Their receptors are everywhere.
+</div>
 
 ## Cortisol and the brain
 
@@ -166,14 +242,22 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 <http://www.molecularbrain.com/content/figures/1756-6606-3-2-1-l.jpg>
 </div>
 
+<div class="notes">
+Many places in the brain have cortisol receptors, too. Ones you'd expect like the hypothalamus, but also the hippocampus. Cortisol influences memory formation and retrieval in the hippocampus.
+</div>
+
 ## Glucocorticoid cascade hypothesis
 
 - Cort receptors in hippocampus, amygdala, hypothalamus
     - Hippocampus regulates HPA axis via hypothalamus
 - Prolonged cortisol exposure reduces hippocampus response
-    - Reduced volume, connectivity in hippocampus
+    - Reduces volume, connectivity in hippocampus
 - Hip critical for long-term memory formation
     - Chronic stress impairs long-term memory
+    
+<div class="notes">
+Since cortisol levels normally rise and fall, both across the day and in response to acute threats, abnormal things happen when cortisol levels remain high for a long time. The glucocorticoid cascade hypothesis tries to explain them. 
+</div>
 
 ## But, cortisol -> stress link not straightforward
 
@@ -183,6 +267,11 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 [[@faresjo_higher_2013]](http://dx.doi.org/10.1371/journal.pone.0073828)
 </div>
 
+<div class="notes">
+So, it appears that chronic stress can cause changes in brain circuitry. But, it also turns out that the link between stress and cortisol levels is not straightforward. In this study, perceived stress and cortisol levels were unrelated. So, individual and cultural/geographic differences play a role in how we perceive and respond to the stresses of life. 
+</div>
+
+<!--
 ## Let it go...
 
 - *Reaction* to stress more important than its *frequency* [[@sin_linking_2016]](http://doi.org/10.1097/PSY.0000000000000306)
@@ -195,6 +284,7 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 <img src="img/sin-etal-2016.jpg" height=500px>
 </a>
 </div>
+--->
 
 ## Stress and coping across the animal kingdom
 
@@ -202,16 +292,28 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 - Rats will cooperate to release distressed cage mage, foregoing food rewards
 - [[@sapolsky_psychiatric_2016]](http://doi.org/10.1038/nn.4397)
 
+<div class="notes">
+And, humans aren't the only animals that find social situations sources of stress.
+</div>
+
 ## Why Zebras Don't Get Ulcers
 
 <div class="centered">
 <img src="img/zebras-sapolsky.jpg" height=450px>
 </div>
 
+<div class="notes">
+But, as Robert Sapolsky writes in this marvelous book that Dr. Gilmore strongly recommends. Some animals you'd think would be stressed out aren't really. Read the book to learn more about why.
+</div>
+
 ## Your stress ain't like mine
 
 - Phasic (short-term) vs. Chronic (long-term)
 - Physical stress (hunger, thirst, injury, disease) vs. social stress
+
+<div class="notes">
+Ok, I'll give you a hint. It turns out that *social* animals have lots of stresses that can be chronic and unpredictable. I'm sure you can relate.
+</div>
 
 ## Main points
 
