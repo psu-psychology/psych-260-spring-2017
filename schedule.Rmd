@@ -303,6 +303,10 @@ title: "Schedule"
 - Sensory systems.
 - Assignment
     - Read W&B 5:110-121
+- Assignment
+    - [HTML](lecture-notes/260-2017-03-27-sensation.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-27-sensation.md)
+    - [PDF](lecture-notes/260-2017-03-27-sensation.pdf)
 
 ### Wed, March 29
 

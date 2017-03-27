@@ -91,7 +91,7 @@ output:
 >- If influence on reproductive outcomes, **yes**.
 >- Do 'social' goals -- shame, pride, etc. -- influence reproductive success?
 
-## Is emotion different from cogntion?
+## Is emotion different from cognition?
 
 <div class="centered">
 <img src="img/swanson-fig-7.5.jpg" height=450px>
@@ -99,7 +99,7 @@ output:
 [@swanson2012brain]
 </div>
 
-## Is emotion different from cogntion?
+## Is emotion different from cognition?
 
 <div class="centered">
 <img src="img/pessoa-nrn.jpg" height=450px>
