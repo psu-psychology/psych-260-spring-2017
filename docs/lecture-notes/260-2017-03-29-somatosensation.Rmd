@@ -1,0 +1,193 @@
+---
+title: "260-2017-03-29-somatosensation"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  github_document: default
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/otCpCn0l4Wo" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- Somatosensation
+
+## Types of somatosensation
+
+- Internal (interoceptive)
+    + Where am I?  How do I feel?
+    + Proprioception
+- External (exteroceptive)
+    + What’s in the world?
+    + Where is it?
+
+## Internal senses
+
+- Vestibular sense
+    + Head position (relative to gravity)
+    + Head movement (rotation, translation)
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j_R0LcPnZ_w" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+The vestibular system is the cause of one of the fastest and most important reflexes in your body -- the vestibulo-ocular reflex. This reflex keeps your eyes pointing in the same direction even when your head moves.
+</div>
+
+----
+
+<div class="centered">
+<img src="https://www.mcgill.ca/vestibular-gazecontrol-lab/files/vestibular-gazecontrol-lab/images/222_0.gif">
+</div>
+    
+## Internal senses
+
+- Kinesthesia
+    + Body position
+    + Movement 
+- Pain
+
+## External senses
+
+- Cutaneous senses (touch)
+    + Hot, cold
+    + Pressure
+    + Vibration
+    + Damage (pain)
+- Plus kinesthesia (why?)
+
+## Cutaneous receptors
+
+<div class="centered">
+<img src="img/cuteneous-receptors.jpg" height=450px>
+</div>
+
+## Receptors specialize
+
+<div class="centered">
+<img src="img/pacinian-meissner.jpg" width=350px>
+<img src="img/merkel-ruffini.jpg" width=350>
+</div>
+
+## Combined thermo and chemo receptors
+
+- Why are spicy foods hot?
+- Why are minty foods cool?
+
+## Combined thermo and chemo receptors
+
+- Menthol/mint receptor (CMR1)
+    + Also signals "cool"
+- Vanilloid Receptors (VR1, VRL1)
+    + Also signal "hot
+    + Capsaicin
+    
+## Menthol & vanilloid receptors
+
+<div class="centered">
+<img src="img/menthol-vanilloid-receptors.jpg" height=450px>
+</div>
+
+## Size/speed trade-off
+
+<div class="centered">
+<img src="img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## From skin to brain
+
+- Cutaneous receptors
+- Dorsal root ganglion
+- Ventral posterior lateral thalamus
+- Primary somatosensory cortex (S1)
+    + Parietal lobe
+    
+## Dermatomes
+
+<div class="centered">
+<img src="img/skin-to-spinal-cord.jpg" height=450px>
+</div>
+    
+## Dermatomes
+
+<div class="centered">
+<img src="img/dermatomes.jpg" height=500px>
+</div>
+
+## Functional segregation
+
+<div class="centered">
+<img src="http://teachmeanatomy.info/wp-content/uploads/Overview-of-the-Dorsal-Column-Medial-Lemniscal-Pathway-1.jpg" height=500px>
+</div>
+
+----
+
+<div class="centered">
+<img src="http://teachmeanatomy.info/wp-content/uploads/The-Spinothalamic-Tracts-Ascending-Sensory-1.jpg" height=500px>
+</div>
+
+## Functional segregation
+
+- Dorsal column/medial leminiscal pathway
+    - Touch, proprioception
+- Spinothalamic tract
+    - Pain, temperature
+
+## Somatatopic maps
+
+<div class="centered">
+<img src="img/s1.jpg" height=450px>
+</div>
+
+## Non-uniform mapping of skin surface
+
+<div class="centered">
+<img src="img/homunculus.jpg" height=450px>
+</div>n
+
+## Non-uniform mapping of skin surface
+
+<div class="centered">
+<img src="img/two-point-thresholds.jpg" height=450px>
+
+<http://jov.arvojournals.org/data/Journals/JOV/933499/jov-3-10-1-fig001.jpeg>
+</div>
+
+## Columnar organization/functional segregation
+
+<div class="centered">
+<img src="img/s1-columns.jpg" height=450px>
+</div>
+
+## Phantom Limbs
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1mHIv5ToMTM" frameborder="0" allowfullscreen></iframe>
+
+##  What/where
+
+- Perceiving Where
+    + Somatotopic maps -- where on skin
+    + Kinesthesia -- configuration of limbs
+- Perceiving What
+    + Patterns of smoothness, roughness, shape, temperature
+    
+## Somatosensation in other animals
+
+<div class="centered">
+<img src="http://www.bristol.ac.uk/media-library/sites/synaptic/migrated/images/somcort.gif" height=500px>
+</div>
+
+## Next time...
+
+- The "real" reason for brains

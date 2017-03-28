@@ -1,0 +1,363 @@
+---
+title: "260-2017-03-31-action"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/L0CVoFsUhC4" frameborder="0" allowfullscreen></iframe>
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XaI5IRuS2aE" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- The neuroscience of action
+
+## The Real Reason for Brains
+
+<iframe src="https://embed-ssl.ted.com/talks/daniel_wolpert_the_real_reason_for_brains.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+## The neuroscience of action
+
+- What types of actions are there?
+- How are they produced?
+    + By the muscles
+    + By the nervous system
+    
+## Remember
+
+- Nervous system "output" includes
+    + Movements
+    + Autonomic responses
+    + Endocrine responses
+    
+## Types of actions
+
+<div class="centered">
+<img src="http://www.kidport.com/reflib/science/humanbody/muscularsystem/images/Reflexes.jpg" height=450px>
+
+<http://www.kidport.com/reflib/science/humanbody/muscularsystem/images/Reflexes.jpg>
+</div>
+
+## Types of actions
+
+- Reflexes
+    + Simple, highly stereotyped, unlearned, rapid
+- vs. Planned or voluntary actions
+    + Complex, flexible, acquired, slower
+- Discrete (reaching) vs. rhythmic (walking)
+- Ballistic (no feedback) vs. controlled (feedback)
+
+## Multiple, parallel controllers
+
+<div class="centered">
+<img src="img/motor-controllers-biopsych.jpg" height=450px>
+</div>
+
+## Key "nodes" in network
+
+- Primary motor cortex (M1)
+- Non-primary motor cortex
+- Basal ganglia
+- Brain stem
+- Cerebellum
+- Spinal cord
+
+## Muscle classes
+
+- Axial
+    + Trunk, neck, hips
+- Proximal
+    + Shoulder/elbow, pelvis/knee
+- Distal
+    + Hands/fingers, feet/toes
+    
+## Muscles
+
+<div class="centered">
+<img src="http://classroom.sdmesa.edu/eschmid/F08.12a.L.150.jpg" height=450px>
+
+<http://classroom.sdmesa.edu/eschmid/F08.12a.L.150.jpg>
+</div>
+
+## Muscle types
+
+- Smooth
+    + Arteries, hair follicles, uterus, intestines
+    + Regulated by ANS (involuntary)
+- Striated (striped)
+    + Skeletal
+    + Voluntary control, mostly connected to tendons and bones
+- Cardiac
+
+## Muscle types
+
+<div class="centered">
+<img src="http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg" height=450px>
+
+<http://graphics8.nytimes.com/images/2007/08/01/health/adam/19917.jpg>
+</div>
+
+## How skeletal muscles contract
+
+- Motoneuron (ventral horn of spinal cord)
+- Neuromuscular junction
+    + Releases ACh
+    
+## From spinal cord to muscle
+
+<div class="centered">
+<img src="img/from-spinal-cord-to-muscle.jpg" height=450px>
+</div>
+    
+## How skeletal muscles contract
+
+- Motor endplate
+    + Nicotinic ACh receptor
+- Excitatory endplate potential
+    + Muscle fibers depolarize
+    + Depolarization spreads along fibers like an action potential
+    + Sarcomeres are segments of fibers
+    + Intramuscular stores release Ca++
+    
+## Motor endplate
+
+<div class="centered">
+<a href="http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg">
+<img src="http://www.siumed.edu/~dking2/ssb/images/NM040b.jpg" height=450px>
+</a>
+</div>
+
+## How skeletal muscles contract
+
+- Myofibrils (w/in sarcomere)
+    + Actin & mysosin proteins
+    + “Molecular gears”
+- Bind, move, unbind in presence of Ca++,  ATP
+
+## Anatomy of muscle fibers
+
+<div class="centered">
+<img src="img/muscle-fibers-biopsych.jpg" height=450px>
+</div>
+
+## Anatomy of motor endplate
+
+<div class="centered">
+<img src="img/motor-endplate-nt-release.jpg" height=450px>
+</div>
+
+## Muscle contraction
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Cjx3vSm54N8" frameborder="0" allowfullscreen></iframe>
+
+## Agonist/antagonist muscle pairs
+
+<div class="centered">
+<img src="http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg" height=450px>
+
+<http://2.bp.blogspot.com/-TpOC4my_NBc/T0J-MhEv29I/AAAAAAAAF88/dYLv7QzFwmg/s1600/Hamstring-Quad4.jpg>
+</div>
+
+## Meat preference?
+
+<div class="centered">
+<img src="img/turkey.jpg" height=450px>
+</div>
+
+## Muscle fiber types
+
+- Fast twitch/fatiguing
+    + Type II
+    + White meat
+- Slow twitch/fatiguing
+    + Type I
+    + Red meat
+    
+## Muscles are sensory organs, too!
+
+<div class="centered">
+<img src="http://cdn.xl.thumbs.canstockphoto.com/canstock6466988.jpg" height=450px>
+</div>
+
+## Two muscle fiber types
+
+<div class="centered">
+<img src="img/muscle-fiber-types.jpg" height=450px>
+</div>
+
+## Two muscle fiber types
+
+- Extrafusal fibers
+    + Generate force
+    + ennervated by alpha ($\alpha$) motor neurons
+- Intrafusal fibers
+    + Sense length/tension
+    + Contain muscle spindles linked to Ia afferents
+    + ennervated by gamma ($\gamma$) motor neurons
+    
+## Monosynaptic stretch (myotatic) reflex
+
+- Muscle stretched (length increases)
+- Muscle spindle activates
+- Ia afferent sends signal to spinal cord
+    + Activates alpha ($\alpha$) motor neuron
+- Muscle contracts, shortens length
+
+## Monosynaptic stetch (myotatic) reflex
+
+<div class="centered">
+<img src="img/intrafusal-extrafusal-fibers.jpg" height=400px>
+</div>
+
+- Gamma ($\gamma$) motor neuron fires to take up intrafusal fiber slack
+
+## Monosynaptic stretch (myotatic) reflex
+
+<div class="centered">
+<img src="img/stretch-reflex.jpg" height=450px>
+</div>
+
+## Why doesn't antagonist muscle respond?
+
+<div class="centered">
+<img src="img/stretch-reflex.jpg" height=450px>
+</div>
+
+## Why doesn't antagonist muscle respond?
+
+- Polysynaptic inhibition of antagonist muscle
+- Prevents/dampens tremor
+
+## Brain gets fast(est) sensory info from spindles
+
+<div class="centered">
+<img src="img/axon-size-speed-tradeoff.jpg" height=450px>
+</div>
+
+## How the brain controls the muscles
+
+- Pyramidal tracts
+    + Pyramidal cells (Cerebral Cortex Layer 5) in primary motor cortex (M1)
+    + Corticobulbar (cortex -> brainstem) tract
+    + Corticospinal (cortex -> spinal cord) tract
+- Crossover (decussate) in medulla
+    + L side of brain ennervates R side of body
+    
+## Corticospinal tract
+
+<div class="centered">
+<img src="img/gray-corticospinal-tract.png" height=450px>
+
+<https://commons.wikimedia.org/wiki/File:Gray764.png#/media/File:Gray764.png>
+</div>
+    
+## How the brain controls the muscles
+
+- Extrapyramidal system
+    + Tectospinal tract
+    + Vestibulospinal tract
+    + Reticulospinal tract
+- Involuntary movements
+    + Posture, balance, arousal
+    
+## Extrapyramidal system
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Gray672.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/b/be/Gray672.png>
+</div>
+
+## Disorders
+
+- Parkinson's
+- Huntington's
+
+## Parkinson's
+
+<div class="centered">
+<img src="http://a3.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjM0MjU0NDkzMTk2.jpg" height=400px>
+
+Maurice White, Musician
+</div>
+
+## The Faces of Parkinson's
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CqEwPqUO1Bw" frameborder="0" allowfullscreen></iframe>
+
+## Parkinson's
+
+- Slow, absent movement, resting tremor
+- Cognitive deficits, depression
+- DA Neurons in substantia nigra degenerate
+- Treatments
+    + DA agonists
+    + DA agonists linked to impulse control disorders in ~1/7 patients [[@ramirez-zamora_treatment_2016]](http://dx.doi.org/10.1586/14737175.2016.1158103)
+    + Levodopa (L-Dopa), DA precursor
+    
+## Awakenings
+
+<div class="centered">
+<a src="https://en.wikipedia.org/wiki/Awakenings">
+<img src="https://upload.wikimedia.org/wikipedia/en/2/2b/Awakenings.jpg" height=500px>
+</a>
+</div>
+
+## Huntington's
+
+<div class="centered">
+<img src="http://cp91279.biography.com/1000509261001/1000509261001_1733824754001_woody-guthrie-centennial-1.jpg" height=450px>
+<http://cp91279.biography.com/1000509261001/1000509261001_1733824754001_woody-guthrie-centennial-1.jpg>
+</div>
+
+## Huntington's
+
+- Formerly Huntington’s Chorea
+    + "Chorea" from Greek for "dance"
+    + “Dance-like” pattern of involuntary movements
+- Cognitive decline
+- Genetic + environmental influences
+- Disturbance in striatum
+- No effective treatment
+
+## Huntington's
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBLrY_nXU_U" frameborder="0" allowfullscreen></iframe>
+
+## Final thoughts
+
+- Control of movement determined by multiple sources
+- Cerebral cortex + basal ganglia + cerebellum + spinal circuits
+
+## Multiple, parallel controllers
+
+<div class="centered">
+<img src="img/motor-controllers-biopsych.jpg" height=450px>
+</div>
+
+## Cerebellum as predictor of future sensory states? [[@ito_control_2008]](10.1038/nrn2332) {.smaller}
+
+<div class="centered">
+<img src="http://venturebeat.com/wp-content/uploads/2009/10/star-trek-holodeck.jpg" height=450px>
+
+<http://venturebeat.com/wp-content/uploads/2009/10/star-trek-holodeck.jpg>
+</div>
+
+## Next time...
+
+- Audition
+
+## References {.smaller}
