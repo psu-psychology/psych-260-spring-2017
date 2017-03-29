@@ -309,10 +309,12 @@ title: "Schedule"
 
 ### Wed, March 29
 
-- Somatosensation & pain
+- Somatosensation
 - Assignment
     - Read W&B 5:121-126; 6:162-164
-    - **Blog post #2 (of 3) due**
+    - [HTML](lecture-notes/260-2017-03-29-somatosensation.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-29-somatosensation.md)
+    - [PDF](lecture-notes/260-2017-03-29-somatosensation.pdf)
 
 ### Fri, March 31
 
