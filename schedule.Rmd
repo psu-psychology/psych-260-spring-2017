@@ -320,7 +320,7 @@ title: "Schedule"
 - Action
 - Assignment
     - Read W&B 5:126-143
-    - 2nd blog post due.
+    - **Blog post #2 (of 3) due**
     
 ## Week 12, April 3-7
 
