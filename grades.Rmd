@@ -9,6 +9,32 @@ library(ggplot2)
 library(dplyr)
 ```
 
+```{r create-eval-processing-function}
+Process.exam.quiz <- function(canvas.fn, eq.name="quiz1", pts.poss=10) {
+  # Takes a raw Canvas-format .csv file and processes it.
+  
+  stopifnot(file.exists(canvas.fn))
+  if (pts.poss < 0) {
+    stop("Must specify pts.poss.")
+  }
+  
+  eq <- read.csv(canvas.fn, skip = 2, header = FALSE)
+  names(eq) <- c("student", "id", "email", "section", "points")
+  
+  pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 150)
+  grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+  quiz.1$grade <- cut(x = eq$points, 
+                      breaks = pts.poss*pct/100, 
+                      labels = grades, 
+                      right = FALSE)
+  eq$eval <- "quiz1"
+  eq$pts.poss <- pts.poss
+  
+  eq
+}
+```
+
+
 ## [Quiz 1](quiz/psych-260-quiz-1-ans.pdf)
 
 ```{r quiz-1-files, include=FALSE}
@@ -101,10 +127,33 @@ exam.2 %>%
   geom_histogram(mapping = aes(x=points, fill=grade))
 ```
 
+## [Quiz 3](quiz/psych-260-quiz-3-ans.pdf)
+
+```{r quiz-3-files, include=FALSE}
+quiz.3 <- read.csv(file = "grades/csv/Canvas Report - Exam 7651 - Section17621.csv", skip = 2, header=FALSE)
+names(quiz.3) <- c("student", "id", "email", "section", "points")
+
+pts.poss = 10
+pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 150)
+grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+quiz.3$grade <- cut(x = quiz.3$points, 
+                    breaks = pts.poss*pct/100, 
+                    labels = grades, 
+                    right = FALSE)
+quiz.3$eval <- "quiz2"
+quiz.3$pts.poss <- pts.poss
+```
+
+```{r quiz-3 histogram, message=FALSE, echo=FALSE}
+quiz.3 %>%
+  ggplot() +
+  geom_histogram(mapping = aes(x=points, fill=grade))
+```
+
 <!--- Create combined grade file. -->
 
 ```{r combined-grade-file, echo=FALSE}
-grades.merged <- rbind(quiz.1, quiz.2, exam.1, exam.2)
+grades.merged <- rbind(quiz.1, quiz.2, exam.1, exam.2, quiz.3)
 
 grades.merged %>%
   select(student, id, eval, eval, grade, points, pts.poss) %>%

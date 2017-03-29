@@ -292,14 +292,13 @@ title: "Schedule"
 
 ### Fri, March 24
 <!-- Rick definitely away -->
-- **Quiz 3**
+- **Quiz 3**. [Answer Key](quiz/psych-260-quiz-3-ans.pdf). [Score histogram](grades.html#quiz-3)
 - Exam 2 returned.
 
 ## Week 11, March 27-31 
 
 ### Mon, March 27
 
-- Wrap-up on stress.
 - Sensory systems.
 - Assignment
     - Read W&B 5:110-121
