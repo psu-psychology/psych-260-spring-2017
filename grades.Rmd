@@ -9,7 +9,7 @@ library(ggplot2)
 library(dplyr)
 ```
 
-```{r create-eval-processing-function}
+```{r create-eval-processing-function, include=FALSE}
 Process.exam.quiz <- function(canvas.fn, eq.name="quiz1", pts.poss=10) {
   # Takes a raw Canvas-format .csv file and processes it.
   

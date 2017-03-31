@@ -222,28 +222,6 @@ $(document).ready(function () {
 </div>
 
 
-<pre class="r"><code>Process.exam.quiz &lt;- function(canvas.fn, eq.name=&quot;quiz1&quot;, pts.poss=10) {
-  # Takes a raw Canvas-format .csv file and processes it.
-  
-  stopifnot(file.exists(canvas.fn))
-  if (pts.poss &lt; 0) {
-    stop(&quot;Must specify pts.poss.&quot;)
-  }
-  
-  eq &lt;- read.csv(canvas.fn, skip = 2, header = FALSE)
-  names(eq) &lt;- c(&quot;student&quot;, &quot;id&quot;, &quot;email&quot;, &quot;section&quot;, &quot;points&quot;)
-  
-  pct &lt;- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 150)
-  grades &lt;- c(&quot;F&quot;, &quot;D&quot;, &quot;C&quot;,&quot;C+&quot;, &quot;B-&quot;, &quot;B&quot;, &quot;B+&quot;, &quot;A-&quot;, &quot;A&quot;)
-  quiz.1$grade &lt;- cut(x = eq$points, 
-                      breaks = pts.poss*pct/100, 
-                      labels = grades, 
-                      right = FALSE)
-  eq$eval &lt;- &quot;quiz1&quot;
-  eq$pts.poss &lt;- pts.poss
-  
-  eq
-}</code></pre>
 <div id="quiz-1" class="section level2">
 <h2><a href="quiz/psych-260-quiz-1-ans.pdf">Quiz 1</a></h2>
 <p><img src="grades_files/figure-html/quiz-1%20histogram-1.png" width="672" /></p>

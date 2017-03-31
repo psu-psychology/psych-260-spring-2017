@@ -1,5 +1,5 @@
 ---
-title: "260-2017-03-31-action"
+title: "260-2017-04-03-action"
 author: Rick Gilmore
 date: "`r Sys.time()`"
 bibliography: bib/bibliography.bib
@@ -358,6 +358,6 @@ Maurice White, Musician
 
 ## Next time...
 
-- Audition
+- Exam 3 review
 
 ## References {.smaller}

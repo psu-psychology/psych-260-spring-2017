@@ -302,14 +302,13 @@ title: "Schedule"
 - Sensory systems.
 - Assignment
     - Read W&B 5:110-121
-- Assignment
     - [HTML](lecture-notes/260-2017-03-27-sensation.html)
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-27-sensation.md)
     - [PDF](lecture-notes/260-2017-03-27-sensation.pdf)
 
 ### Wed, March 29
 
-- Somatosensation
+- ~~Somatosensation~~
 - Assignment
     - Read W&B 5:121-126; 6:162-164
     - [HTML](lecture-notes/260-2017-03-29-somatosensation.html)
@@ -318,16 +317,23 @@ title: "Schedule"
 
 ### Fri, March 31
 
-- Action
+- Somatosensation
 - Assignment
-    - Read W&B 5:126-143
-    - **Blog post #2 (of 3) due**
+    - Read W&B 5:121-126; 6:162-164
+    - **Blog post #2 (of 3) due**    
+    - [HTML](lecture-notes/260-2017-03-29-somatosensation.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-29-somatosensation.md)
+    - [PDF](lecture-notes/260-2017-03-29-somatosensation.pdf)
+
     
 ## Week 12, April 3-7
 
 ### Mon, April 3
 
-- Action II
+- Action
+- Somatosensation (see slides for 2017-03-29)
+- Assignment
+    - Read W&B 5:126-143
 
 ### Wed, April 5
 <!--- Rick at SRCD -->
@@ -388,6 +394,8 @@ title: "Schedule"
 - Review for Exam 4.
 
 ### Fri, April 28
+<!-- Grace Desjardins -->
+<!-- Justin Slovin -->
 
 - The Cerebral Symphony
     
