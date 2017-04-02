@@ -1,6 +1,6 @@
-psych-260-quiz-2.tex
-psych-260-quiz-2.synctex.gz
-psych-260-quiz-2.pdf
-psych-260-quiz-2.log
-psych-260-quiz-1-ans.tex
+*.log
+*.gz
 img
+*.tex
+*.log
+*.gz

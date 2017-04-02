@@ -286,14 +286,6 @@ output:
 - Parkinson's
 - Huntington's
 
-## Parkinson's
-
-<div class="centered">
-<img src="http://a3.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTIwNjA4NjM0MjU0NDkzMTk2.jpg" height=400px>
-
-Maurice White, Musician
-</div>
-
 ## The Faces of Parkinson's
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CqEwPqUO1Bw" frameborder="0" allowfullscreen></iframe>
@@ -308,13 +300,13 @@ Maurice White, Musician
     + DA agonists linked to impulse control disorders in ~1/7 patients [[@ramirez-zamora_treatment_2016]](http://dx.doi.org/10.1586/14737175.2016.1158103)
     + Levodopa (L-Dopa), DA precursor
     
-## Awakenings
+<!-- ## Awakenings -->
 
-<div class="centered">
-<a src="https://en.wikipedia.org/wiki/Awakenings">
-<img src="https://upload.wikimedia.org/wikipedia/en/2/2b/Awakenings.jpg" height=500px>
-</a>
-</div>
+<!-- <div class="centered"> -->
+<!-- <a src="https://en.wikipedia.org/wiki/Awakenings"> -->
+<!-- <img src="https://upload.wikimedia.org/wikipedia/en/2/2b/Awakenings.jpg" height=500px> -->
+<!-- </a> -->
+<!-- </div> -->
 
 ## Huntington's
 
