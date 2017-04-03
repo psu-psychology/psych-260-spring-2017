@@ -1,0 +1,68 @@
+---
+title: "exam-3-study-guide"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Action
+
+- Monosynaptic stretch reflex
+- Intrafusal/extrafusal muscle fibers
+    - Extrafusal == produce force
+    - Intrafusal == take up slack in muscle spindles
+- Parkinson's, Huntington's
+- Wolpert's ideas about role of brains in movement planning
+
+## Somatosensation
+
+- Functional segregation
+    - Different receptors detect different qualities/dimensions
+- Similarities to, differences from vision, audition
+- Relation between sensitivity, receptor density, receptive field size, and corresponding cortical area.
+    - Higher sensitivity == > density, < receptive field size, > cortical area size
+
+## Disorders
+
+- Serotonin/monoamine hypothesis of depression, treatments
+- Treatments for bipolar disorder
+- Dopamine hypothesis of schizophrenia & alternative
+
+## Emotion
+
+- Plutchik
+- Fear, stress circuits
+- Reward/happiness circuits
+
+## Sleep
+
+- Suprachiasmatic Nucleus, melatonin
+
+## Hormones
+
+- Oxytocin
+- Cortisol
+
+## Neuroanatomy
+
+- Ventricles
+- Lobes of the cerebral cortex
+- Parts of the brain
+
+## Neurophysiology
+
+- Resting, action potentials
+- Postsynaptic potentials, end plate potential (muscle fiber)
+
+## Next time
+
+- Exam 3
+
+## References {.smaller}
