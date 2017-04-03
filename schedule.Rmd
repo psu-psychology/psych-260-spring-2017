@@ -325,7 +325,6 @@ title: "Schedule"
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-03-29-somatosensation.md)
     - [PDF](lecture-notes/260-2017-03-29-somatosensation.pdf)
 
-    
 ## Week 12, April 3-7
 
 ### Mon, April 3
@@ -339,8 +338,13 @@ title: "Schedule"
 
 ### Wed, April 5
 <!--- Rick at SRCD -->
+- Wrap-up on Action
 - Exam 3 review
-    
+- Assignment
+    - [HTML](lecture-notes/exam-3-study-guide.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/exam-3-study-guide.md)
+    - [PDF](lecture-notes/exam-3-study-guide.pdf)
+
 ### Fri, April 7
 <!--- Rick at SRCD -->
 - **Exam 3**

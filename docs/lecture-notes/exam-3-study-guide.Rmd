@@ -15,6 +15,8 @@ output:
 ## Action
 
 - Monosynaptic stretch reflex
+    - Also called "myotatic"
+    - Polysynaptic component
 - Intrafusal/extrafusal muscle fibers
     - Extrafusal == produce force
     - Intrafusal == take up slack in muscle spindles
@@ -25,6 +27,8 @@ output:
 
 - Functional segregation
     - Different receptors detect different qualities/dimensions
+- What information projects to brain fastest & why?
+    - Thick axons & thick myelin -> proprioception from muscle spindles
 - Similarities to, differences from vision, audition
 - Relation between sensitivity, receptor density, receptive field size, and corresponding cortical area.
     - Higher sensitivity == > density, < receptive field size, > cortical area size
@@ -40,15 +44,20 @@ output:
 - Plutchik
 - Fear, stress circuits
 - Reward/happiness circuits
+    - Milner & Olds stimulation experiment
 
 ## Sleep
 
-- Suprachiasmatic Nucleus, melatonin
+- Suprachiasmatic nucleus, melatonin
 
 ## Hormones
 
 - Oxytocin
 - Cortisol
+
+## Evolution
+
+- Relative brain sizes among mammals
 
 ## Neuroanatomy
 
@@ -60,6 +69,9 @@ output:
 
 - Resting, action potentials
 - Postsynaptic potentials, end plate potential (muscle fiber)
+- Role of Ca++ in
+    - Synaptic communication
+    - Muscular contraction
 
 ## Next time
 
