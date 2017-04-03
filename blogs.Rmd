@@ -2,12 +2,15 @@
 title: "Blogs"
 ---
 
+Some PSYCH 260 students have agreed to make their blogs available to other readers.
+
 <!-- - Jiwon Baek, <https://sites.psu.edu/jyb5683/> -->
-<!-- - Madeline Carey, <https://sites.psu.edu/mccpsych260/> -->
+- Madeline Carey, <https://sites.psu.edu/mccpsych260/>
 <!-- - Dakota Edmiston, <http://sites.psu.edu/neuropsychinmyworld/> -->
+<!-- - Tom Ewald, <https://sites.psu.edu/87ab/> -->
 <!-- - Kristin Graf, <https://sites.psu.edu/kmg5882/> -->
-<!-- - Boyoung Kang, <https://sites.psu.edu/bbk5152/> -->
-<!-- - Olivia Kreider, <http://sites.psu.edu/oliviaann/> -->
+- Boyoung Kang, <https://sites.psu.edu/bbk5152/>
+- Olivia Kreider, <http://sites.psu.edu/oliviaann/>
 <!-- - Ruiyan Liu, <http://sites.psu.edu/psych260blogruiyanliu> -->
 <!-- - Victoria Lohman, <https://sites.psu.edu/vloh5065/> -->
 <!-- - Amanda Murcia, <https://sites.psu.edu/akm5422psy/> -->

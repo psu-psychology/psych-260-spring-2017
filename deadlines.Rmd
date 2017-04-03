@@ -7,11 +7,11 @@ title: "Deadlines"
 | F Jan 27  | Quiz 1                |
 | W Feb 8  | Exam 1              |
 | F Feb 17   | Quiz 2             |
-| F Feb 24  | Blog post 1 due      |
+| F Feb 24  | [Blog post 1](blogs.html) due      |
 | W Mar 1  | Exam 2              |
 | F Mar 24   | Quiz 3              |
-| F Mar 31   | Blog post 2 due      |
+| F Mar 31   | [Blog post 2](blogs.html) due      |
 | F Apr 7  | Exam 3               |
 | M Apr 17   | Quiz 4               |
-| M Apr 17   | Short paper or Blog post 3 due |
+| M Apr 17   | Short paper or [Blog post 3](blogs.html) due |
 | TBA       | Exam 4               |

@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "News & Talks"
 ---
 
 ### News
@@ -51,8 +51,6 @@ Dr. Roberts-Galbraith uses planarians as a model organism to study brain regener
 
 "Epigenetics and the Long-term Effects of Nicotine on Learning and Hippocampus"
 
-
-
 #### Dr. Patrick Drew (Penn State), January 20, 2017, 11:15 AM, 127 Noll Laboratory
 
 "Imaging Cerebral Hemodynamics during Exercise” 
@@ -71,8 +69,6 @@ Dr. Lur uses optical and electrophysiological approaches to study signaling in c
 
 "Can genes make men pugnacious?"
 
-
-
 #### Martin Picard, Ph.D. (Columbia), February 13, 2017, 3:30 PM, 005 BBH
 
 "Stress and health from organelle to organism: A mitochondrial perspective"
@@ -81,8 +77,6 @@ Dr. Lur uses optical and electrophysiological approaches to study signaling in c
 
 "Neurophysiological Mechanisms Underlying Different Motor Learning Processes in Humans"
 
-
-
 #### Christopher Coe, Ph.D. (U Wisconsin), February 27, 2017, 3:30 PM, 005 BBH
 
 "Prenatal origins of resilience and vulnerability"
@@ -90,7 +84,7 @@ Dr. Lur uses optical and electrophysiological approaches to study signaling in c
 #### Pat Levitt, Children's Hospital Los Angeles, March 1, 2017, 4:00 PM, 108 Wartik Lab
 
 "Biological Origins of Autism Heterogeneity"
--->
+
 #### Julie Blendy, Ph.D. (UPenn School of Medicine), March 13, 2017, 3:30 PM, 005 BBH
 
 "Sex, drugs, and transgenerational inheritance: Are the kids alright?
@@ -103,3 +97,4 @@ Dr. Lur uses optical and electrophysiological approaches to study signaling in c
 #### Anna Marsland, Ph.D. (Pitt), March 27, 2017, 3:30 PM, 005 BBH
 
 "Inflammation and neurocognitive aging"
+-->

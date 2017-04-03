@@ -26,3 +26,26 @@ ebb5161 AT-SIGN psu PERIOD edu</br>
 
 MWF 9:05AM - 9:55AM</br>
 267 [Willard Building](http://www.psumap.com/#Willard)
+
+## About this course
+
+There is perhaps no more fascinating scientific frontier than the study of the brain and behavior. The goal of this course is to introduce you to the principal methods, theories, and findings of the scientific fields that seek to open this frontier. At the end of the term, you will know more about the following topics:
+
+- how the nervous system is structured and how it functions;
+- how the nervous system evolved and develops; and
+- how the nervous system influences behavior, thought, action, and emotion.
+
+## *Required* Textbook
+
+<img src="http://www.sinauer.com/media/catalog/product/cache/1/image/234x/17f82f742ffe127f42dca9de82fb58b1/t/h/themindsmachine2_3.png">
+
+Watson, N.V. & Breedlove, S.M. (2016). The Minds's Machine, 2/E. Sinauer: Sunderland, MA. <http://2e.mindsmachine.com>
+
+On reserve at Pattee Library: Call number **QP376.W26 2016**
+
+## Web links
+
+[Glossary](http://2e.mindsmachine.com/glossary.html) for the text.
+
+[BrainFacts.org](http://www.brainfacts.org) from [The Society for Neuroscience](http://sfn.org).
+

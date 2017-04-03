@@ -4,20 +4,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
     - text: "Schedule"
       href: schedule.html
     - text: "Evaluation"
       href: evaluation.html
     - text: "Deadlines"
       href: deadlines.html
-    - text: "Resources"
-      href: resources.html
     - text: "Policies"
       href: policies.html
-    - text: "Values"
-      href: values.html
+    - text: "Blogs"
+      href: blogs.html
     - text: "News"
       href: talks.html
     - text: "Site info"
