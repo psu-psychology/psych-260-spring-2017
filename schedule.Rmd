@@ -340,7 +340,6 @@ title: "Schedule"
 <!--- Rick at SRCD -->
 - Wrap-up on Action
 - Exam 3 review
-- Assignment
     - [HTML](lecture-notes/exam-3-study-guide.html)
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/exam-3-study-guide.md)
     - [PDF](lecture-notes/exam-3-study-guide.pdf)
