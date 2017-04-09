@@ -353,6 +353,9 @@ title: "Schedule"
 ### Mon, April 10
 
 - Audition
+    - [HTML](lecture-notes/260-2017-04-10-audition.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-04-10-audition.md)
+    - [PDF](lecture-notes/260-2017-04-10-audition.pdf)
 - Assignment
     - Read W&B 6:144-162
 
