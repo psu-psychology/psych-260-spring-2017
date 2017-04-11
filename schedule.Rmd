@@ -364,6 +364,9 @@ title: "Schedule"
 - Vision I.
 - Assignment
     - Read W&B 7:174-185.
+    - [HTML](lecture-notes/260-2017-04-12-vision.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-04-12-vision.md)
+    - [PDF](lecture-notes/260-2017-04-12-vision.pdf)
 
 ### Fri, April 14
 
@@ -409,6 +412,6 @@ title: "Schedule"
     
 ## Week 16, May 1-5
 
-### TBA
+### Wednesday, May 3, 2017, 12:20-2:10pm
 
 - **Exam 4**

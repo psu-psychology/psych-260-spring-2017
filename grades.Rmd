@@ -144,16 +144,40 @@ quiz.3$eval <- "quiz2"
 quiz.3$pts.poss <- pts.poss
 ```
 
-```{r quiz-3 histogram, message=FALSE, echo=FALSE}
+```{r quiz-3-histogram, message=FALSE, echo=FALSE}
 quiz.3 %>%
   ggplot() +
   geom_histogram(mapping = aes(x=points, fill=grade))
 ```
 
+## [Exam 3](exam/psych-260-exam-3-ans.pdf)
+
+```{r exam-3-files, include=FALSE}
+exam.3 <- read.csv(file = "grades/csv/Canvas Report - Exam 7889 - Section17621.csv", skip = 2, header=FALSE)
+names(exam.3) <- c("student", "id", "email", "section", "points")
+
+pts.poss = 40
+pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 150)
+grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+exam.3$grade <- cut(x = exam.3$points, 
+                    breaks = pts.poss*pct/100, 
+                    labels = grades, 
+                    right = FALSE)
+exam.3$eval <- "exam3"
+exam.3$pts.poss <- pts.poss
+```
+
+```{r exam-3-histogram, message=FALSE, echo=FALSE}
+exam.3 %>%
+  ggplot() +
+  geom_histogram(mapping = aes(x=points, fill=grade))
+```
+
+
 <!--- Create combined grade file. -->
 
 ```{r combined-grade-file, echo=FALSE}
-grades.merged <- rbind(quiz.1, quiz.2, exam.1, exam.2, quiz.3)
+grades.merged <- rbind(quiz.1, quiz.2, exam.1, exam.2, quiz.3, exam.3)
 
 grades.merged %>%
   select(student, id, eval, eval, grade, points, pts.poss) %>%
