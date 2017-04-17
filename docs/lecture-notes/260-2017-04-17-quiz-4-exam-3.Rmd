@@ -1,0 +1,317 @@
+---
+title: "260-2017-04-17-quiz-4-exam-3"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+## Traveling at Warp 1
+
+<https://vimeo.com/117815404>
+
+## Today's topics
+
+- Vision wrap-up
+- Quiz 4
+- Go over Exam 3
+
+## From center-surround receptive fields to line detection {.smaller}
+
+<div class="centered" height=450px>
+<img src="http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png" height=450px>
+</div>
+
+## Spatial frequency tuning {.smaller}
+
+
+<div class="centered">
+Low == gist    ||     high == details
+<img src="img/spatial-freq-fpsyg-03-00620-g003.jpg" width=850px>
+
+[[@panichello_predictive_2013]](http://dx.doi.org/10.3389/fpsyg.2012.00620)
+</div>
+
+## V1 has laminar, columnar organization
+
+- Columns
+    + Color/wavelength
+    + Eye of origin, *ocular dominance*
+    
+## Ocular dominance columns
+
+<div class="centered">
+<img src="img/cortical-hypercolumn.jpg" height=450px>
+</div>
+
+## Ocular dominance signals retinal disparity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjAQdc29vF8" frameborder="0" allowfullscreen></iframe>
+
+
+<http://www.scholarpedia.org/w/images/9/99/11-Hubel-Wiesel-model.png>
+</div>
+
+## Beyond V1
+
+<div class="centered" height=450px>
+<img src="img/beyond-v1.jpg" height=450px>
+</div>
+
+## Beyond V1
+
+- Larger, more complex receptive fields
+- *Dorsal stream* (where/how)
+    + Toward parietal lobe
+- *Ventral stream* (what)
+
+## What is vision for?
+
+- What is it? (form perception)
+- Where is it? (space perception)
+- How do I get from here to there (action control)
+- What time (or time of year) is it?
+
+# Quiz 4
+
+# Exam 3 Questions
+
+---
+
+<div class="centered">
+<img src="../exam/img/myotatic-reflex.jpg">
+</div>
+
+---
+
+2). This circuit has a/an ???? branch in which stretch receptors in intrafusal muscle fibers ???? the extrafusal muscle fibers from the antagonist muscle.</br></br>
+A. polysynaptic; inhibit.</br> 
+B. autonomic; inhibit.</br>
+C. monosynaptic; excite.</br>
+D. monosynaptic; inhibit.</br>
+
+---
+
+2). This circuit has a/an ???? branch in which stretch receptors in intrafusal muscle fibers ???? the extrafusal muscle fibers from the antagonist muscle.</br></br>
+**A. polysynaptic; inhibit.**</br> 
+B. autonomic; inhibit.</br>
+C. monosynaptic; excite.</br>
+D. monosynaptic; inhibit.</br>
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-04-03-action.html#34)
+
+---
+
+3). Plutchik’sbiologicalapproachtoemotionfocuses on an emotion’s ???? and ????.</br></br>
+A. subjective feelings; facial expressions.</br>
+B. action tendencies (tendency to approach or avoid); valence (positive/negative).</br>
+C. intensity; subjective feelings.</br>
+D. influence on on reproduction; link to defense behavior.</br>
+
+---
+
+3). Plutchik’sbiologicalapproachtoemotionfocuses on an emotion’s ???? and ????.</br></br>
+A. subjective feelings; facial expressions.</br>
+**B. action tendencies (tendency to approach or avoid); valence (positive/negative).**</br>
+C. intensity; subjective feelings.</br>
+D. influence on on reproduction; link to defense behavior.</br>
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-20-reward.html#7)
+
+---
+
+5). The primary purpose of the extrafusal muscle fibers is to ????</br></br>
+A. Generate force.</br>
+B. Inhibit the contraction of muscles.</br> 
+C. Sense tension/length.</br>
+D. All of the above.</br>
+
+---
+
+5). The primary purpose of the extrafusal muscle fibers is to ????</br></br>
+**A. Generate force.**</br>
+B. Inhibit the contraction of muscles.</br> 
+C. Sense tension/length.</br>
+D. All of the above.</br>
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-04-03-action.html#29)
+
+---
+
+8). One might be tempted to call the fingertips “the somatosensory fovea” for all of the following reasons EXCEPT:</br></br>
+A. Both the fingertips and the fovea have high receptor cell densities.</br>
+B. Both the fingertips and the fovea have high perceptual acuity.</br>
+C. Both the fingertips and the fovea activate small areas of the cerebral cortex.</br>
+D. The scanning movements of both the fingertips and the fovea are precisely controlled by the motor system.
+
+---
+
+8). One might be tempted to call the fingertips “the somatosensory fovea” for all of the following reasons EXCEPT:</br></br>
+A. Both the fingertips and the fovea have high receptor cell densities.</br>
+B. Both the fingertips and the fovea have high perceptual acuity.</br>
+C. **Both the fingertips and the fovea activate small areas of the cerebral cortex.**</br>
+D. The scanning movements of both the fingertips and the fovea are precisely controlled by the motor system.
+
+---
+
+12). The human cerebellum is   the rest of the brain when comparing it to related animal groups.</br></br>
+A. larger than</br>
+B. smaller than</br>
+C. the same size as</br>
+D. less dense than</br>
+
+---
+
+12). The human cerebellum is ???? the rest of the brain when comparing it to related animal groups.</br></br>
+A. larger than</br>
+B. smaller than</br>
+**C. the same size as**</br>
+D. less dense than</br>
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-03-evo-devo.html#36)
+
+---
+
+17). When you tap your eyeball, the world ????. This ???? Dr. Wolpert’s suggestion that the brain computes predictions about future sensory states.</br></br>
+A. seems to move; supports.</br> 
+B. remains still; supports.</br>
+C. seems to move; undermines.</br>
+D. remains still; undermines.</br>
+
+---
+
+17). When you tap your eyeball, the world ????. This ???? Dr. Wolpert’s suggestion that the brain computes predictions about future sensory states.</br></br>
+**A. seems to move; supports.**</br> 
+B. remains still; supports.</br>
+C. seems to move; undermines.</br>
+D. remains still; undermines.</br>
+
+---
+
+18). Diffusion Tensor Imaging (DTI) is a/an ???? MRI method that provides information about ????.</br></br>
+A. functional; how neurotransmitters diffuse across the synaptic cleft</br>
+B. functional; the blood oxygen-level dependent (BOLD) response</br> C. structural; connectivity between brain areas</br>
+D. structural; the branching structure of neuronal dendrites
+
+
+---
+
+18). Diffusion Tensor Imaging (DTI) is a/an ???? MRI method that provides information about ????.</br></br>
+A. functional; how neurotransmitters diffuse across the synaptic cleft</br>
+B. functional; the blood oxygen-level dependent (BOLD) response</br> **C. structural; connectivity between brain areas**</br>
+D. structural; the branching structure of neuronal dendrites
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-01-13.html#44)
+
+---
+
+23). Touch receptors enervating the skin on the ???? have especially small receptive fields.</br></br>
+A. Face.</br>
+B. Calf. </br>
+C. Neck</br>
+D. Back.</br>
+
+---
+
+23). Touch receptors enervating the skin on the ???? have especially small receptive fields.</br></br>
+**A. Face.**</br>
+B. Calf. </br>
+C. Neck</br>
+D. Back.</br>
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-29-somatosensation.html#24)
+
+---
+
+24). Perceptual sensitivity is NOT related to which of the following?</br></br>
+A. Receptor density.</br>
+B. Speed of propagation.</br>
+C. Receptive field size.</br>
+D. Size of the cortical area.
+
+---
+
+24). Perceptual sensitivity is NOT related to which of the following?</br></br>
+A. Receptor density.</br>
+**B. Speed of propagation.**</br>
+C. Receptive field size.</br>
+D. Size of the cortical area.
+
+---
+
+37). Elephants have high levels of dexterity (fine motor control) in their trunks. Somatosensory neurons in the trunk region of the elephant‘s S1 are likely to have ???.</br></br>
+A. Small receptive fields.</br>
+B. Large receptive fields.</br>
+C. Weak projections to corresponding regions of M1.</br>
+D. Low levels of myelination.
+
+---
+
+37). Elephants have high levels of dexterity (fine motor control) in their trunks. Somatosensory neurons in the trunk region of the elephant‘s S1 are likely to have ????.</br></br>
+**A. Small receptive fields.**</br>
+B. Large receptive fields.</br>
+C. Weak projections to corresponding regions of M1.</br>
+D. Low levels of myelination.
+
+---
+
+41). Which of these is NOT true about individuals with schizophrenia?</br></br>
+A. About half of them have a moderate form that is manageable.</br>
+B. About a third of them have a mild form that resolves.</br>
+C. They show decreased cortical thickness in adolescence.</br>
+D. They can exhibit delusional thoughts, hallucinations, mood issues, and behavioral abnormalities.
+
+---
+
+41). Which of these is NOT true about individuals with schizophrenia?</br></br>
+**A. About half of them have a moderate form that is manageable.**</br>
+B. About a third of them have a mild form that resolves.</br>
+C. They show decreased cortical thickness in adolescence.</br>
+D. They can exhibit delusional thoughts, hallucinations, mood issues, and behavioral abnormalities.
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-13-schizophrenia.html#7)
+
+---
+
+42). The projection from the ???? to the ???? is a major pathway in the brain’s ‘reward’ system.</br></br>
+A. Ventral tegmental area (VTA); nucleus accumbens/ventral striatum.</br>
+B. Substantia nigra; striatum.</br>
+C. Ventral tegmental area (VTA); amygdala.</br>
+D. Hypothalamus; adrenal medulla.
+
+---
+
+42). The projection from the ???? to the ???? is a major pathway in the brain’s ‘reward’ system.</br></br>
+**A. Ventral tegmental area (VTA); nucleus accumbens/ventral striatum.**</br>
+B. Substantia nigra; striatum.</br>
+C. Ventral tegmental area (VTA); amygdala.</br>
+D. Hypothalamus; adrenal medulla.
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-20-reward.html#40)
+
+---
+
+43). What did Dr. Wolpert say the sea squirt does after it finds a home on a rock?</br></br>
+A. Looks for something to eat.</br>
+B. Eats its own brain.</br>
+C. Rests and digests.</br>
+D. Starts seeking a mate.
+
+---
+
+43). What did Dr. Wolpert say the sea squirt does after it finds a home on a rock?</br></br>
+A. Looks for something to eat.</br>
+**B. Eats its own brain.**</br>
+C. Rests and digests.</br>
+D. Starts seeking a mate.
+
+[Reference](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-04-03-action.html#5)
+
+## References
+

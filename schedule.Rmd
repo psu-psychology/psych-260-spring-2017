@@ -346,7 +346,7 @@ title: "Schedule"
 
 ### Fri, April 7
 <!--- Rick at SRCD -->
-- **Exam 3**
+- **Exam 3**. [Answer key](exam/psych-260-exam-3-ans.pdf). [Score histogram](grades.html#exam-3)
 
 ## Week 13, April 10-14
 
@@ -379,7 +379,8 @@ title: "Schedule"
 ### Mon, April 17
 
 - **Quiz 4**
-- Exam 3 returned.
+- [Exam 3 returned](lecture-notes/260-2017-04-17-quiz-4-exam-3.html).
+    - [Answer key](exam/psych-260-exam-3-ans.pdf), [Score histogram](grades.html#exam-3)
 - **Papers or blog post #3 (of 3) due**
 
 ### Wed, April 19

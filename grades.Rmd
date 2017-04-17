@@ -140,7 +140,7 @@ quiz.3$grade <- cut(x = quiz.3$points,
                     breaks = pts.poss*pct/100, 
                     labels = grades, 
                     right = FALSE)
-quiz.3$eval <- "quiz2"
+quiz.3$eval <- "quiz3"
 quiz.3$pts.poss <- pts.poss
 ```
 
