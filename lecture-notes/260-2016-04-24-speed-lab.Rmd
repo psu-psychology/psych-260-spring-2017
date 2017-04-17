@@ -1,0 +1,175 @@
+---
+title: "260-2017-04-24-speed-lab"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    incremental: false
+    widescreen: true
+  html_document:
+    keep_md: true
+    self_contained: false
+bibliography: bib/bibliography.bib
+---
+
+## Today's topic
+
+- Measuring the speed of nervous system conduction
+- And a tiny lesson in open, transparent, reproducible data science
+
+## Question
+
+- How fast does the nervous system conduct information?
+- [Prior evidence](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-29-somatosensation.html#15)
+    - Proprioception vs. touch
+    
+## Scheme
+
+- Speed = Distance/Time
+- Chain of participants to make distance larger
+
+## Condition 1 (ankle)
+
+- Squeeze ankle
+- ankle_shoulder + shoulder_brain + brain_decide + brain_shoulder + shoulder_hand
+
+## Condition 2 (shoulder)
+
+- Squeeze shoulder
+- shoulder_brain + brain_decide + brain_shoulder + shoulder_hand
+- Condition 1 - Condition 2
+- ankle_shoulder + ~~shoulder_brain~~ + ~~brain_decide~~ + ~~brain_shoulder~~ + ~~shoulder_hand~~
+
+## Measure
+
+- sum(ankle_shoulder) for all participants -> Distance
+- mean(time(Condition 1)) - mean(time(Condtion 2)) -> Time
+- Speed = Distance/Time
+
+## Materials
+
+- Stop watch
+- Tape measure
+
+## Decisions
+
+- Same hand or dominant?
+- Alternate ankle/shoulder or one condition before the other?
+- How many trials?
+    + Fixed number?
+    + When reach asymptote?
+    
+## Data files
+
+- Data file with body measurements: [ankleshoulder.csv](ankleshoulder.csv)
+    + participant, ankleshoulder (cm)
+- Data file with reaction times: [time.csv](time.csv)
+    + trial {1...n}, condition {ankle, shoulder}, time (s)
+
+## Measuring distance
+
+```{r}
+distance = read.csv("csv/ankleshoulder.csv", header = TRUE)
+
+# load Gilmore's favorite plotting, analysis libraries
+library(ggplot2)
+library(dplyr)
+
+dist.hist = ggplot(data = distance, aes(x=ankleshoulder)) +
+  geom_histogram(bins = 5)
+```
+
+----
+
+```{r measuring-distance, echo = FALSE}
+dist.hist
+```
+
+## Sum distance
+
+```{r}
+with(distance, summary(ankleshoulder))
+
+# Calculate sum
+dist.sum = with(distance, sum(ankleshoulder))
+```
+
+The total distance is `r dist.sum` cm.
+
+## Measuring time
+
+```{r}
+time = read.csv("csv/time.csv", header=TRUE)
+
+
+# Plot data
+time.plot = ggplot(data = time, aes(x=trial, y=time, color=condition)) +
+  geom_point() + 
+  geom_line()
+```
+
+----
+
+```{r measuring-time, echo = FALSE}
+time.plot
+```
+
+## Calculate time difference
+
+```{r}
+time %>% filter(condition == "ankle") -> ankle.times
+time %>% filter(condition == "shoulder") -> shoulder.times
+
+time.diff = data_frame(trial=unique(time$trial), time=ankle.times$time - shoulder.times$time)
+
+time.diff.plot = ggplot(data = time.diff, aes(x=trial, y=time)) +
+  geom_point() + 
+  geom_line()
+```
+
+----
+
+```{r condition-diff, echo = FALSE}
+time.diff.plot
+```
+
+## Calculating speed
+
+```{r}
+time.diff$speed = dist.sum/time.diff$time
+
+speed.hist = ggplot(data = time.diff, aes(x=speed)) +
+  geom_histogram(bins = 5)
+```
+
+---
+
+```{r speed-summary, echo = FALSE}
+speed.hist
+```
+
+## Plot time series of speeds
+
+```{r plot-speed}
+speed.plot = ggplot(data = time.diff, aes(x=trial, y=speed)) +
+  geom_point() +
+  geom_line()
+```
+
+---
+
+```{r}
+speed.plot
+```
+
+## Summarizing findings
+
+- We tested the mean speed of neural propagation in a sample of n=`r dim(distance)[1]` college-age adults.
+- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']/100` m/s with a range of [`r with(time.diff, summary(speed))['Min.']/100`, `r with(time.diff, summary(speed))['Max.']/100`] m/s.
+- These findings are generally in accord with values we would expect from the literature.
+
+## Limitations
+
+## How to replicate/extend
+
