@@ -378,7 +378,7 @@ title: "Schedule"
 
 ### Mon, April 17
 
-- **Quiz 4**. [Answer key](quiz/psych-260-quiz-4-ans.pdf).
+- **Quiz 4**. [Answer key](quiz/psych-260-quiz-4-ans.pdf). [Score histogram](grades.html#quiz-4)
 - [Exam 3 returned](lecture-notes/260-2017-04-17-quiz-4-exam-3.html).
     - [Answer key](https://rawgit.com/psu-psychology/psych-260-spring-2017/master/exam/psych-260-exam-3-ans.pdf), [Score histogram](grades.html#exam-3)
 - **Papers or blog post #3 (of 3) due**
@@ -388,12 +388,18 @@ title: "Schedule"
 - Learning & memory.
 - Assignment
     - Read 13:368-383
+    - [HTML](lecture-notes/260-2017-04-19-memory.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-04-19-memory.md)
+    - [PDF](lecture-notes/260-2017-04-19-memory.pdf)
 
 ### Fri, April 21
 
 - Learning & memory II.
 - Assignment
     - Read 13:368-383-393
+    - [HTML](lecture-notes/260-2017-04-21-alzheimers-hipp.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-04-21-alzheimers-hipp.md)
+    - [PDF](lecture-notes/260-2017-04-21-alzheimers-hipp.pdf)
 
 ## Week 15, April 24-28
 

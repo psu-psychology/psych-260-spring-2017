@@ -1,0 +1,296 @@
+---
+title: "260-2017-04-19-memory"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+---
+
+<!-- ## Prelude -->
+
+<!-- <iframe width="420" height="315" src="https://www.youtube.com/embed/nSz16ngdsG0" frameborder="0" allowfullscreen></iframe> -->
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4-L6rEm0rnY" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topic
+
+- Learning and memory
+
+## Memory capacity of the human brain?
+
+- 1e11 neurons
+- 1e3 synapses/neuron
+- 1e14 synapses or 1.25e13 bytes
+- 1e9 gigabyte, 1e12 terabyte, 1e15 petabyte
+
+<http://www.scientificamerican.com/article.cfm?id=what-is-the-memory-capacity>
+
+## What is learning and memory anyway?
+
+- Learning
+    + ?
+- Memory
+    + ?
+    
+## How do you known when you've
+
+- Learned?
+- Remembered?
+
+## What is learning and memory anyway?
+
+- Learning
+    + Change in perception, thought, behavior, emotion over time
+- Memory
+    + Information derived from past experience that influences current behavior
+    
+## How computer memory ≠ biological memory
+
+- Stored in sequences of binary digits (bits): {0,1}
+- Stored by address: "011000" stored in "1110000"
+- Single characters, images, sounds, data stored as sequences of bits.
+- Volatile vs. non-volatile
+    
+## Biological basis of L&M?
+
+- Changes in patterns of neural activity
+- Changes in patterns of connectivity
+    + New synapses
+    + Changes in synaptic strength (+/-)
+    
+## How do synapses change strength?
+
+## Donald Hebb's Insight
+
+*When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficacy, as on of the cells firing B, is increased.* (Hebb, 1949, p. 62)
+
+*Neurons that fire together wire together.* (Lowell & Singer, 1992, p. 211).
+
+## NMDA receptor and *'Hebbian' learning*
+
+- Coincidence detector
+    + Sending cell has released NT
+    + Receiving cell is/has been recently active
+- Chemically-gated
+    + Ligand- (glutamate + glycine co-factor) gated
+- Voltage-gated
+    + Mg++ ion 'plug' removed under depolarization
+
+## NMDA receptor figure {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Activated_NMDAR.svg/220px-Activated_NMDAR.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Activated_NMDAR.svg/220px-Activated_NMDAR.svg.png>
+</div>
+
+## NMDA receptors contribute to associative learning
+
+- Associate (link)
+    + Concept A -> Concept B
+    + Neuron A -> Neuron B
+    
+## Mind maps, e.g., [Mindmup](http://www.mindmup.com)
+
+<div class="centered">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tennis-mindmap.png/1280px-Tennis-mindmap.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tennis-mindmap.png/1280px-Tennis-mindmap.png" height=500px>
+</a>
+</div>
+
+## Donald
+
+## Donald
+
+- Trump
+- Duck
+- Draper
+
+## [Long-term potentiation (LTP)](https://en.wikipedia.org/wiki/Long-term_potentiation) {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/LTP_exemplar.jpg/800px-LTP_exemplar.jpg>
+</div>
+
+## Long-term potentiation (LTP)
+
+- Increase in synaptic strength based on recent activity.
+- But how to learn/remember "causal chains"?
+    + e.g., lightning THEN thunder
+    + unusual food THEN indigestion
+
+## Spike-timing-dependent plasticity
+
+<div class="centered">
+<img src="img/caporale-2008-fig-1.jpg" height=450px>
+
+[[@caporale2008spike]](http://dx.doi.org/10.1146/annurev.neuro.31.060407.125639)
+</div>
+   
+## Spike-timing-dependent plasticity
+
+<div class="centered">
+<img src="img/caporale-2008-fig-2.jpg" height=450px>
+
+[[@caporale2008spike]](http://dx.doi.org/10.1146/annurev.neuro.31.060407.125639)
+</div>
+
+## Spike-timing-dependent plasticity
+
+- A before B: strengthen A->B
+- A after B: weaken A->B
+- [*Neural Plasticity*](https://en.wikipedia.org/wiki/Neuroplasticity)
+    + Lasting changes in neural firing, connectivity
+- NMDA receptor molecular mechanism for implementing LTP and spike-timing-dependent plasticity
+
+## How does LTP work?
+
+- Ca++ entry triggers biochemical cascade
+- Existing (AMPA) glutamate receptors made to stay open longer
+- New AMPA Glu receptors synthesized, inserted into postsynaptic membrane
+
+## LTP signaling {.smaller}
+
+<div class="centered">
+<img src="img/LTP-a_07_m_tra_1a.gif" height=450px>
+
+<http://thebrain.mcgill.ca/flash/a/a_07/a_07_m/a_07_m_tra/a_07_m_tra.html>
+</div>
+
+## Dimensions of stored info
+
+- Memory of what?
+    + Facts/events/places vs. skills
+- Memory of when?
+    + Immediate vs. distant past
+- Memory for how long?
+    + Seconds vs. years
+
+## Memory systems in the brain
+
+<div class="centered">
+<img src="img/squire-memory-systems.gif" height=450px>
+
+[[@squire_memory_2004]](http://dx.doi.org/10.1016/j.nlm.2004.06.005)
+</div>
+
+## Summary thus far
+
+- Learning and memory involve changes in neural firing, circuitry
+- Hebbian learning a type of associative learning
+- NMDA receptor as coincidence detector
+    + Molecular basis of one form of long-term potentiation (LTP)
+- Different types of information stored in different brain systems
+
+## Disorders of memory
+
+## [Patient HM](http://www.pbs.org/wgbh/nova/body/corkin-hm-memory.html) (Henry G. Molaison)
+
+- Intractable/untreatable epilepsy
+- Bilateral resection of medial temporal lobe (1953)
+- Epilepsy now treatable
+- But, memory impaired
+- Lived until 2008
+
+## Brenda Milner tells the story
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JliczINA__Y" frameborder="0" allowfullscreen></iframe>
+
+## HM's surgery
+
+<div class="centered">
+<a href="http://www.pbs.org/wgbh/nova/body/corkin-hm-memory.html">
+<img src="http://www-tc.pbs.org/wgbh/nova/assets/img/corkin-hm-memory/image-08-large.jpg" height=500px>
+</a>
+</div>
+
+## Amnesia
+
+- Acquired loss of memory
+- ≠ normal forgetting
+- Note: computers don't forget
+
+## HM's amnesia
+
+- Retrograde amnesia
+    + Can’t remember 10 yrs before operation
+    + Distant past better than more recent
+- Severe, global anterograde amnesia
+    + Impaired learning of new facts, events, people
+- But, skills (mirror learning) intact
+    
+## Types of amnesia
+
+- Retrograde ('backwards' in time)
+    + Damage to information acquired pre-injury
+    + Temporally graded
+- Anterograde ('forward' in time) 
+    + Damage to information acquired/experienced post-injury
+
+## What it's like
+
+*Every day is alone in itself, whatever enjoyment I’ve had, and whatever sorrow I’ve had…Right now, I’m wondering, have I done or said anything amiss?  You see at this moment, everything looks clear to me, but what happened just before?  That’s what worries me.  It’s like waking from a dream.  I just don’t remember.*
+
+## What it's like
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rq9eM4ZXRgs" frameborder="0" allowfullscreen></iframe>
+    
+## Other causes of amnesia
+
+- Disease 
+    + Alzheimer’s, herpes virus
+- [Korsakoff’s syndrome](https://en.wikipedia.org/wiki/Korsakoff%27s_syndrome)
+    + Result of severe alcoholism
+    + Impairs medial thalamus & mammillary bodies
+
+## Patient NA
+
+- Fencing accident
+- Damage to medial thalamus
+- Anterograde + graded retrograde amnesia
+- Are thalamus & medial temporal region connected?
+
+## Patient NA
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/1GfFopZSyj8" frameborder="0" allowfullscreen></iframe>
+
+## Spared skills in amnesia
+
+- Skill-learning
+- Mirror-reading, writing
+- Short-term memory
+- “Cognitive” skills
+- Priming
+
+## What does amnesia tell us?
+
+- Long-term memory for facts, events, people 
+- ≠ Short-term memory
+- ≠ Long-term memory for “skills”
+- Separate memory systems in the brain?
+
+## Memory systems in the brain
+
+<div class="centered">
+<img src="img/squire-memory-systems.gif" height=450px>
+
+[[@squire_memory_2004]](http://dx.doi.org/10.1016/j.nlm.2004.06.005)
+</div>
+
+## Next time...
+
+- Alzheimer's disease
+- The hippocampus, memory
+
+## References {.smaller}

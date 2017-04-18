@@ -1,0 +1,202 @@
+---
+title: "260-2017-04-24-speed-lab"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  pdf_document:
+    latex_engine: xelatex
+  word_document: default
+---
+
+## Today's topic
+
+- Measuring the speed of nervous system conduction
+- And a tiny lesson in open, transparent, reproducible data science
+
+## Question
+
+- How fast does the nervous system conduct information?
+- [Prior evidence](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-29-somatosensation.html#15)
+    - Proprioception vs. touch
+
+## Prediction
+
+We predict that average speed of conduction will be ...
+    
+## Scheme
+
+- Speed = Distance/Time
+- Chain of participants to make distance larger
+    + If typical person ~ 1.5 m, then 
+    + at s=30 m/s, t = d/s -> 1.5/30 = `r 1.5/30` secs.
+
+## Condition 1 (ankle)
+
+- Squeeze ankle
+- ankle_shoulder + shoulder_brain + brain_decide + brain_shoulder + shoulder_hand
+
+## Condition 2 (shoulder)
+
+- Squeeze shoulder
+- shoulder_brain + brain_decide + brain_shoulder + shoulder_hand
+- Condition 1 - Condition 2
+- ankle_shoulder + ~~shoulder_brain~~ + ~~brain_decide~~ + ~~brain_shoulder~~ + ~~shoulder_hand~~
+
+## Measure
+
+- sum(ankle_shoulder) for all participants -> Distance
+- mean(time(Condition 1)) - mean(time(Condition 2)) -> Time
+- Speed = Distance/Time
+
+## Materials
+
+- Stop watch
+- Tape measure
+
+## Decisions
+
+- Same hand or dominant?
+- Alternate ankle/shoulder or one condition before the other?
+- How many trials?
+    + Fixed number?
+    + When reach asymptote?
+    
+## Data files
+
+- Data file with [body measurements](https://docs.google.com/spreadsheets/d/1NFGu-M4AGf_4IHf-o4y3sCHUZ3Ao-CpBUpXqCsQrAIg/edit#gid=0)
+    + participant, ankleshoulder (cm)
+- Data file with [reaction times](https://docs.google.com/spreadsheets/d/1NFGu-M4AGf_4IHf-o4y3sCHUZ3Ao-CpBUpXqCsQrAIg/edit#gid=1626241513)
+    + trial {1...n}, condition {ankle, shoulder}, time (s)
+
+```{r set-up-r, echo=FALSE}
+library("googlesheets")
+suppressPackageStartupMessages(library("dplyr"))
+suppressPackageStartupMessages(library("ggplot2"))
+```
+
+## Measuring distance
+
+```{r load-distance}
+psych260 <- gs_title("psych-260-spring-2017")
+psych260 %>% 
+  gs_read(ws = "distance") ->
+  distance
+dist.hist <- ggplot(data = distance, aes(x=ankleshoulder)) +
+  geom_histogram(bins = 5)
+```
+
+----
+
+```{r measuring-distance, echo = FALSE}
+dist.hist
+```
+
+## Sum distance
+
+```{r}
+with(distance, summary(ankleshoulder))
+
+# Calculate sum
+dist.sum = with(distance, sum(ankleshoulder))
+```
+
+The total distance is `r dist.sum` cm.
+
+## Measuring time
+
+```{r load-times}
+psych260 %>% 
+  gs_read(ws = "time") ->
+  time
+
+# Plot data
+time.plot = ggplot(data = time, aes(x=trial, y=time, color=condition)) +
+  geom_point() + 
+  geom_line()
+```
+
+
+----
+
+```{r measuring-time, echo = FALSE}
+time.plot
+```
+
+## Calculate time difference
+
+```{r calc-time-diffs}
+time %>% 
+  filter(condition == "ankle") -> 
+  ankle.times
+
+time %>% 
+  filter(condition == "shoulder") -> 
+  shoulder.times
+
+time.diff <- data_frame(trial=unique(time$trial),
+                        time=ankle.times$time - shoulder.times$time)
+
+time.diff.plot = ggplot(data = time.diff, aes(x=trial, y=time)) +
+  geom_point() + 
+  geom_line()
+```
+
+----
+
+```{r condition-diff, echo = FALSE}
+time.diff.plot
+```
+
+## Calculating speed
+
+```{r}
+time.diff$speed <- dist.sum/time.diff$time
+
+speed.hist <- ggplot(data = time.diff, aes(x=speed)) +
+  geom_histogram(bins = 5)
+```
+
+---
+
+```{r speed-summary, echo = FALSE}
+speed.hist
+```
+
+## Plot time series of speeds
+
+```{r plot-speed}
+speed.plot <- ggplot(data = time.diff, aes(x=trial, y=speed)) +
+  geom_point() +
+  geom_line()
+```
+
+---
+
+```{r}
+speed.plot
+```
+
+## Summarizing findings
+
+- We tested the mean speed of neural propagation in a sample of n=`r dim(distance)[1]` college-age adults.
+- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']/100` m/s with a range of [`r with(time.diff, summary(speed))['Min.']/100`, `r with(time.diff, summary(speed))['Max.']/100`] m/s.
+- These findings are/are not generally in accord with values we would expect from the literature.
+
+## Limitations
+
+## How to replicate/extend
+
+## Resources {.smaller}
+
+This document was prepared in RStudio 1.0.36 on `r Sys.time()`.
+
+```{r session-info}
+sessionInfo()
+```
+

@@ -173,6 +173,28 @@ exam.3 %>%
   geom_histogram(mapping = aes(x=points, fill=grade))
 ```
 
+## [Quiz 4](quiz/psych-260-quiz-4-ans.pdf)
+
+```{r quiz-4-files, include=FALSE}
+quiz.4 <- read.csv(file = "grades/csv/Canvas Report - Exam 7979 - Section17621.csv", skip = 2, header=FALSE)
+names(quiz.4) <- c("student", "id", "email", "section", "points")
+
+pts.poss = 10
+pct <- c(0, 60, 70, 77, 80, 84, 87, 90, 94, 150)
+grades <- c("F", "D", "C","C+", "B-", "B", "B+", "A-", "A")
+quiz.4$grade <- cut(x = quiz.4$points, 
+                    breaks = pts.poss*pct/100, 
+                    labels = grades, 
+                    right = FALSE)
+quiz.4$eval <- "quiz4"
+quiz.4$pts.poss <- pts.poss
+```
+
+```{r quiz-4-histogram, message=FALSE, echo=FALSE}
+quiz.4 %>%
+  ggplot() +
+  geom_histogram(mapping = aes(x=points, fill=grade))
+```
 
 <!--- Create combined grade file. -->
 
