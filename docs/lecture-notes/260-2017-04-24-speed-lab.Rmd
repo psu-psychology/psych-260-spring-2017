@@ -200,11 +200,15 @@ speed.plot
 
 - We tested the mean speed of neural propagation in a sample of n=`r dim(distance)[1]` college-age adults.
 - The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']` m/s with a range of [`r with(time.diff, summary(speed))['Min.']`, `r with(time.diff, summary(speed))['Max.']`] m/s.
-- These findings are/are not generally in accord with values we would expect from the literature.
+- These findings **are** generally in accord with values we would expect from the literature.
 
 ## Limitations
 
+- Last trial. Something weird happened.
+
 ## How to replicate/extend
+
+
 
 ## Contributors
 
