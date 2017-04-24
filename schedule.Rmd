@@ -406,7 +406,10 @@ title: "Schedule"
 ### Mon, April 24
 
 - Speed of nervous system conduction lab
-   
+     - [HTML](lecture-notes/260-2017-04-24-speed-lab.html)
+    - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/260-2017-04-24-speed-lab.md)
+    - [PDF](lecture-notes/260-2017-04-24-speed-lab.pdf)
+  
 ### Wed, April 26
 
 - Student talk: Madisyn Barnes

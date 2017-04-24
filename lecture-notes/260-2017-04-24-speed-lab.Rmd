@@ -1,6 +1,6 @@
 ---
 title: "260-2017-04-24-speed-lab"
-author: Rick Gilmore
+author: PSYCH 260.003
 date: "`r Sys.time()`"
 bibliography: bib/bibliography.bib
 output:
@@ -9,6 +9,10 @@ output:
     incremental: no
     transition: default
     widescreen: yes
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
   pdf_document:
     latex_engine: xelatex
   word_document: default
@@ -17,17 +21,24 @@ output:
 ## Today's topic
 
 - Measuring the speed of nervous system conduction
-- And a tiny lesson in open, transparent, reproducible data science
+- And, a tiny lesson in open, transparent, reproducible data science
+
+---
+
+<div class="centered">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41tpdBq%2BPVL._SX327_BO1,204,203,200_.jpg" height=500px>
+</div>
 
 ## Question
 
 - How fast does the nervous system conduct information?
 - [Prior evidence](https://psu-psychology.github.io/psych-260-spring-2017/lecture-notes/260-2017-03-29-somatosensation.html#15)
     - Proprioception vs. touch
+- Why do we care?
 
 ## Prediction
 
-We predict that average speed of conduction will be ...
+We predict that the speed of conduction will be ...
     
 ## Scheme
 
@@ -74,7 +85,10 @@ We predict that average speed of conduction will be ...
 - Data file with [reaction times](https://docs.google.com/spreadsheets/d/1NFGu-M4AGf_4IHf-o4y3sCHUZ3Ao-CpBUpXqCsQrAIg/edit#gid=1626241513)
     + trial {1...n}, condition {ankle, shoulder}, time (s)
 
-```{r set-up-r, echo=FALSE}
+---
+
+```{r set-up-r}
+# Load R packages
 library("googlesheets")
 suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("ggplot2"))
@@ -156,7 +170,7 @@ time.diff.plot
 ## Calculating speed
 
 ```{r}
-time.diff$speed <- dist.sum/time.diff$time
+time.diff$speed <- (dist.sum)*.01/time.diff$time
 
 speed.hist <- ggplot(data = time.diff, aes(x=speed)) +
   geom_histogram(bins = 5)
@@ -185,13 +199,29 @@ speed.plot
 ## Summarizing findings
 
 - We tested the mean speed of neural propagation in a sample of n=`r dim(distance)[1]` college-age adults.
-- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']/100` m/s with a range of [`r with(time.diff, summary(speed))['Min.']/100`, `r with(time.diff, summary(speed))['Max.']/100`] m/s.
+- The mean speed of neural propagation over `r max(time.diff$trial)` trials was `r with(time.diff, summary(speed))['Mean']` m/s with a range of [`r with(time.diff, summary(speed))['Min.']`, `r with(time.diff, summary(speed))['Max.']`] m/s.
 - These findings are/are not generally in accord with values we would expect from the literature.
 
 ## Limitations
 
 ## How to replicate/extend
 
+## Contributors
+
+<!-- Scrolling final reference page -->
+<!-- http://stackoverflow.com/q/38260799 -->
+<style>
+slides > slide { overflow: scroll; }
+slides > slide:not(.nobackground):before {
+  background: none;
+  }
+slides > slide:not(.nobackground):after {
+  content: '';
+  background: none;
+  }
+}
+
+</style>
 ## Resources {.smaller}
 
 This document was prepared in RStudio 1.0.36 on `r Sys.time()`.
