@@ -1,0 +1,30 @@
+---
+title: "beethoven-cerebral-symphony"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/ioslides.css
+    incremental: no
+    transition: default
+    widescreen: yes
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+  pdf_document:
+    latex_engine: xelatex
+  word_document: default
+---
+
+## Beethoven
+
+<div class="centered">
+<img src="img/beethoven.jpg" height=500px>
+</div>
+
+## and the Cerebral Symphony
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ljGMhDSSGFU" frameborder="0" allowfullscreen></iframe>
+

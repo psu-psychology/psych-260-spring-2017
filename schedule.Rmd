@@ -416,7 +416,7 @@ title: "Schedule"
 - Student talk: Madisyn Barnes
 - Student talk: Grace Desjardins
 - Review for Exam 4.
-     - [HTML](lecture-notes/exam-4-study-guide.html)
+    - [HTML](lecture-notes/exam-4-study-guide.html)
     - [Markdown](https://github.com/psu-psychology/psych-260-spring-2017/tree/master/lecture-notes/exam-4-study-guide.md)
     - [PDF](lecture-notes/exam-4-study-guide.pdf)
 
@@ -424,6 +424,7 @@ title: "Schedule"
 
 - Student talk: Justin Slovin
 - The Cerebral Symphony
+    - [HTML](lecture-notes/260-2017-04-28.html)
     
 ## Week 16, May 1-5
 
